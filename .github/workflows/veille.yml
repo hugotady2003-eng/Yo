@@ -1,1 +1,25 @@
-
+name: Veille
+     on:
+       schedule:
+         - cron: "30 6 * * *"     # 8 h 30 à Paris
+         - cron: "30 17 * * *"    # 19 h 30 à Paris
+       workflow_dispatch:
+     permissions:
+       contents: write
+     jobs:
+       run:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: actions/checkout@v4
+           - uses: actions/setup-python@v5
+             with: { python-version: "3.12" }
+           - run: pip install feedparser requests anthropic
+           - run: python3 veille.py
+             env:
+               GMAIL_ADDRESS:     ${{ secrets.GMAIL_ADDRESS }}
+               GMAIL_APP_PASS:    ${{ secrets.GMAIL_APP_PASS }}
+               EMAIL_TO:          ${{ secrets.EMAIL_TO }}
+               GEMINI_API_KEY:    ${{ secrets.GEMINI_API_KEY }}
+               GEMINI_API_KEY_2:  ${{ secrets.GEMINI_API_KEY_2 }}
+               ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+               GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
