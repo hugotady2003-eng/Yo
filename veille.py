@@ -25,6 +25,7 @@ import memoire as M
 import marches as MK
 import plume as PL
 import courrier as CO
+import visuel as VI
 
 VERSION = "1.0.0"
 
@@ -43,6 +44,18 @@ FLUX = [f.strip() for f in os.environ.get("FLUX", ",".join([
     "https://www.ft.com/technology?format=rss",
     "https://openai.com/blog/rss.xml",
     "https://www.anthropic.com/news/rss.xml",
+    # ⚠️ Apple et le matériel grand public manquaient totalement : les flux
+    #    généralistes n'en parlent qu'au moment des résultats financiers,
+    #    jamais des produits. Or c'est ce qui intéresse le plus un compte
+    #    tech — et ce sont les sujets qui portent les plus belles images.
+    "https://9to5mac.com/feed/",
+    "https://www.macrumors.com/macrumors.xml",
+    "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+    "https://www.wired.com/feed/rss",
+    "https://www.engadget.com/rss.xml",
+    "https://9to5google.com/feed/",
+    "https://www.tomshardware.com/feeds/all",
+    "https://spectrum.ieee.org/feeds/topic/computing.rss",
 ])).split(",") if f.strip()]
 
 NB_TWEETS = int(os.environ.get("NB_TWEETS", "4"))
@@ -225,14 +238,21 @@ def main():
             print(f"  💰 Vente {g['parts']} × {g['symbole']} à {g['prix']} "
                   f"({gain:+.0f})", flush=True)
 
+    # 🖼️ Visuels FABRIQUÉS, pas empruntés. Une image de presse est souvent
+    #    médiocre, filigranée, et appartient à un concurrent. Une carte sobre
+    #    et cohérente d'un jour sur l'autre, c'est ce qui fait qu'on reconnaît
+    #    un compte au premier coup d'œil.
+    pf_avant = M.resume_portefeuille(
+        etat, {s: v["cours"] for s, v in cours.items()})
     images = {}
     for i, t in enumerate(neufs, 1):
-        if t.get("illustration"):
-            img = image_pour(t, articles)
+        try:
+            genre, img = VI.choisir(t, cours, pf_avant)
             if img:
                 images[i] = img
-    if images:
-        print(f"  🖼️ {len(images)} illustration(s)", flush=True)
+                print(f"  🖼️ Tweet {i} : carte « {genre} »", flush=True)
+        except Exception as e:
+            print(f"  ⚠️ Visuel {i} impossible ({str(e)[:44]})", flush=True)
 
     pf = M.resume_portefeuille(etat, {s: v["cours"] for s, v in cours.items()})
     jour = M._paris()

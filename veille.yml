@@ -1,0 +1,58 @@
+name: Veille
+
+# ⚠️ Ce fichier doit se trouver exactement ici :
+#       .github/workflows/veille.yml
+#    Et surtout : AUCUNE indentation sur les lignes de premier niveau
+#    (name, on, permissions, jobs). YAML refuse un décalage, même d'un
+#    seul espace — c'est l'erreur la plus courante en le recopiant.
+
+on:
+  schedule:
+    # Les heures sont en UTC. Paris est à +2 l'été, +1 l'hiver.
+    - cron: "30 6 * * *"     # 8 h 30 à Paris en été
+    - cron: "30 17 * * *"    # 19 h 30 à Paris en été
+  workflow_dispatch:          # permet de lancer à la main depuis Actions
+
+# ⚠️ Indispensable : sans ce droit d'écriture, la mémoire du personnage ne
+#    peut pas être enregistrée dans le dépôt, et il repart de zéro chaque
+#    jour — plus aucune continuité.
+permissions:
+  contents: write
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install --quiet feedparser requests anthropic pillow
+
+      - name: Lancer la veille
+        run: python3 veille.py
+        env:
+          # courrier
+          GMAIL_ADDRESS:     ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASS:    ${{ secrets.GMAIL_APP_PASS }}
+          EMAIL_TO:          ${{ secrets.EMAIL_TO }}
+          # rédaction — une seule clé suffit pour démarrer
+          GEMINI_API_KEY:    ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY_2:  ${{ secrets.GEMINI_API_KEY_2 }}
+          GEMINI_API_KEY_3:  ${{ secrets.GEMINI_API_KEY_3 }}
+          GEMINI_API_KEY_4:  ${{ secrets.GEMINI_API_KEY_4 }}
+          GEMINI_API_KEY_5:  ${{ secrets.GEMINI_API_KEY_5 }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # ⚠️ Fourni automatiquement par GitHub, mais il faut le déclarer
+          #    ici pour que le programme y ait accès. Sans cette ligne, la
+          #    mémoire ne s'enregistre pas.
+          GITHUB_TOKEN:      ${{ secrets.GITHUB_TOKEN }}
+          # réglages facultatifs
+          NB_TWEETS:         "4"

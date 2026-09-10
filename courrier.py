@@ -119,12 +119,20 @@ def envoyer(sujet, html, brut, images=None):
     msg.add_alternative(html, subtype="html")
     # les images sont attachées à la partie HTML, pas au message : sans quoi
     # elles apparaissent en pièces jointes au lieu de s'afficher dans le corps
+    # ⚠️ DEUX FOIS chaque image : liée à la partie HTML pour s'afficher dans
+    #    le corps, ET en pièce jointe pour être TÉLÉCHARGEABLE. Sans la pièce
+    #    jointe, une image intégrée ne se récupère pas proprement depuis un
+    #    téléphone — or c'est bien elle qu'il faut joindre au tweet.
     if images:
         partie = msg.get_payload()[-1]
         for i, data in (images or {}).items():
             if data:
-                partie.add_related(data, maintype="image", subtype="jpeg",
+                partie.add_related(data, maintype="image", subtype="png",
                                    cid=f"<img{i}>")
+        for i, data in (images or {}).items():
+            if data:
+                msg.add_attachment(data, maintype="image", subtype="png",
+                                   filename=f"tweet-{i}.png")
     try:
         with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=30) as s:
             s.login(ADRESSE, MOT_DE_PASSE)
