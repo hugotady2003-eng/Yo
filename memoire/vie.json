@@ -17,6 +17,11 @@
      "moment": "matin",
      "resume": "J'ai observé la correction crypto depuis mon bureau en constatant les contradictions entre les banques et les chercheurs.",
      "gestes": []
+    },
+    {
+     "moment": "matin",
+     "resume": "J'ai passé la matinée à regarder la crypto corriger pendant que les banques s'enflamment sur les résultats de l'IA.",
+     "gestes": []
     }
    ]
   }
@@ -77,12 +82,40 @@
    "emp": "ailleurs aurais intuition lieu regarder tsmc écouter",
    "texte": "J'aurais dû écouter mon intuition sur TSMC au lieu de regarder ailleurs.",
    "angle": "regret portefeuille"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "anthropic calmer chercheurs encore jpmorgan nous openai porte pour raison résultats sauf",
+   "texte": "JPMorgan nous sort que l'économie de l'IA porte les résultats. Sauf que les chercheurs d'OpenAI et Anthropic signent encore une tribune pour calmer le jeu. On verra qui a raison.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "bitcoin caps petites purge",
+   "texte": "Bitcoin à 78 000. Ça purge sur les petites caps.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "australie carte crédit exige leur moitié perdre pour public steam vont",
+   "texte": "Steam exige une carte de crédit pour l'âge en Australie. Ils vont perdre la moitié de leur public.",
+   "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "comprendre idée illisible laissé royaume régulations santé tomber",
+   "texte": "J'ai laissé tomber l'idée de comprendre les régulations santé au Royaume-Uni sur l'IA. C'est illisible.",
+   "angle": "geste portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 2,
-  "tweets": 8,
+  "mails": 3,
+  "tweets": 12,
   "jours": 1
  },
- "maj": "2026-09-10 12:47"
+ "maj": "2026-09-10 12:51"
 }
