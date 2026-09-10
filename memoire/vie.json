@@ -12,6 +12,11 @@
      "moment": "matin",
      "resume": "J'ai renforcé TSMC après les chiffres d'août et évité les pièges crypto du matin.",
      "gestes": []
+    },
+    {
+     "moment": "matin",
+     "resume": "J'ai observé la correction crypto depuis mon bureau en constatant les contradictions entre les banques et les chercheurs.",
+     "gestes": []
     }
    ]
   }
@@ -44,12 +49,40 @@
    "emp": "atome discute fatigant grab partout pour racheter softbank",
    "texte": "Grab qui discute pour racheter Atome. SoftBank est partout, c'est fatigant.",
    "angle": "tech Asie"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "bitcoin caps comme corrige crypto heureusement laissé mois prévu small tomber",
+   "texte": "Bitcoin à 78 000. Ça corrige sur les small caps, comme prévu.\n\nHeureusement que j'ai laissé tomber la crypto ce mois-ci.",
+   "angle": "réaction crypto"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "anthropic chercheurs flippent frôle jpmorgan nous openai porte ralentissement réclament résultats sauf",
+   "texte": "JPMorgan nous sort que l'économie de l'IA porte les résultats. Sauf que les chercheurs d'OpenAI et Anthropic flippent et réclament un ralentissement. On frôle la schizophrénie là.",
+   "angle": "revue actu"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "australie bancaire carte commence exige joueurs pour steam vérification",
+   "texte": "Steam exige une vérification par carte bancaire en Australie. Ça commence mal pour les joueurs là-bas.",
+   "angle": "actu tech"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "ailleurs aurais intuition lieu regarder tsmc écouter",
+   "texte": "J'aurais dû écouter mon intuition sur TSMC au lieu de regarder ailleurs.",
+   "angle": "regret portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 1,
-  "tweets": 4,
+  "mails": 2,
+  "tweets": 8,
   "jours": 1
  },
- "maj": "2026-09-10 08:10"
+ "maj": "2026-09-10 12:47"
 }
