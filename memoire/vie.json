@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "portefeuille": {},
+ "positions_closes": [],
+ "veille": {},
+ "habitudes": [],
+ "journal": [
+  {
+   "date": "2026-09-10",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "J'ai renforcé TSMC après les chiffres d'août et évité les pièges crypto du matin.",
+     "gestes": []
+    }
+   ]
+  }
+ ],
+ "tweets_envoyes": [
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "août avec cartonne cette demande encore essaie expliquer faiblit fait fixait haut",
+   "texte": "TSMC cartonne encore avec +53 % en août. Ça fait un moment que j'essaie d'expliquer que la demande ne faiblit pas, mais bon, tout le monde fixait les taux cette semaine. J'ai remis un peu sur la ligne, tant pis si c'est haut.",
+   "angle": "réaction actualité puces"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "classique dogecoin pendant reste tient",
+   "texte": "Dogecoin -5 % pendant que le reste tient. Classique.",
+   "angle": "crypto mouvement court"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "alertes bitbox chez cliquez encore faux hardware matin nulle part surtout trezor",
+   "texte": "Encore des faux alertes sur les wallets hardware chez Trezor et BitBox. Surtout ne cliquez nulle part ce matin.",
+   "angle": "alerte sécurité"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "atome discute fatigant grab partout pour racheter softbank",
+   "texte": "Grab qui discute pour racheter Atome. SoftBank est partout, c'est fatigant.",
+   "angle": "tech Asie"
+  }
+ ],
+ "compteurs": {
+  "mails": 1,
+  "tweets": 4,
+  "jours": 1
+ },
+ "maj": "2026-09-10 08:10"
+}
