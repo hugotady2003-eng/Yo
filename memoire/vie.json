@@ -27,6 +27,11 @@
      "moment": "matin",
      "resume": "J'ai observé les investissements du Nasdaq dans la crypto et renforcé ma position sur TSMC.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée à encaisser les nouvelles sur Meta et Apple tout en prenant mes profits sur TSMC.",
+     "gestes": []
     }
    ]
   }
@@ -136,12 +141,33 @@
    "emp": "jours louche mouvement prolonge quelques rajouté tsmc",
    "texte": "J'ai rajouté une louche de TSMC. Ça prolonge mon mouvement d'il y a quelques jours.",
    "angle": "geste portefeuille"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "soir",
+   "emp": "agent coche deuxième grand meta muse plus prévu public raté rendre réussi",
+   "texte": "Muse deuxième app aux US. Meta a réussi à rendre un agent IA plus grand public que prévu. Sauf que j'ai raté le coche.",
+   "angle": "actualite tech"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "soir",
+   "emp": "apple avais format intérêt pliable promesses relancerait tenir vrai",
+   "texte": "J'avais dit que le pliable d'Apple relancerait l'intérêt, le format Duo a l'air de tenir ses promesses en vrai.",
+   "angle": "valeur suivie"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "soir",
+   "emp": "allégé faut regret savoir soir sécuriser tsmc",
+   "texte": "J'ai allégé TSMC ce soir. Pas de regret, il faut savoir sécuriser.",
+   "angle": "portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 4,
-  "tweets": 15,
+  "mails": 5,
+  "tweets": 18,
   "jours": 1
  },
- "maj": "2026-09-10 13:40"
+ "maj": "2026-09-10 21:58"
 }
