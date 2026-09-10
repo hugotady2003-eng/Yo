@@ -22,6 +22,11 @@
      "moment": "matin",
      "resume": "J'ai passé la matinée à regarder la crypto corriger pendant que les banques s'enflamment sur les résultats de l'IA.",
      "gestes": []
+    },
+    {
+     "moment": "matin",
+     "resume": "J'ai observé les investissements du Nasdaq dans la crypto et renforcé ma position sur TSMC.",
+     "gestes": []
     }
    ]
   }
@@ -110,12 +115,33 @@
    "emp": "comprendre idée illisible laissé royaume régulations santé tomber",
    "texte": "J'ai laissé tomber l'idée de comprendre les régulations santé au Royaume-Uni sur l'IA. C'est illisible.",
    "angle": "geste portefeuille"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "chiffres drôle flippe inflation kraken maison milliards millions moitié mère nasdaq place",
+   "texte": "Le Nasdaq met 100 millions sur la maison mère de Kraken à 21 milliards. Drôle de timing quand la moitié de la place flippe sur les chiffres de l'inflation qui tombent.",
+   "angle": "actualité marché"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "6x12 asml aucune basculer depuis intel laissent mardi masques miette pour répète",
+   "texte": "TSMC sécurise ASML pour basculer sur les masques 6x12. Je le répète depuis mardi, ils ne laissent tout simplement aucune miette à Intel.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-09-10",
+   "moment": "matin",
+   "emp": "jours louche mouvement prolonge quelques rajouté tsmc",
+   "texte": "J'ai rajouté une louche de TSMC. Ça prolonge mon mouvement d'il y a quelques jours.",
+   "angle": "geste portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 3,
-  "tweets": 12,
+  "mails": 4,
+  "tweets": 15,
   "jours": 1
  },
- "maj": "2026-09-10 12:51"
+ "maj": "2026-09-10 13:40"
 }
