@@ -34,6 +34,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-11",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "J'ai observé Oracle s'envoler grâce au cloud et noté l'impact de l'IA sur la pénurie de composants.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -162,12 +172,33 @@
    "emp": "allégé faut regret savoir soir sécuriser tsmc",
    "texte": "J'ai allégé TSMC ce soir. Pas de regret, il faut savoir sécuriser.",
    "angle": "portefeuille"
+  },
+  {
+   "date": "2026-09-11",
+   "moment": "matin",
+   "emp": "bitcoin classique tousse",
+   "texte": "Bitcoin qui tousse. Classique.",
+   "angle": "réaction crypto"
+  },
+  {
+   "date": "2026-09-11",
+   "moment": "matin",
+   "emp": "analyse avais carnet cloud commandes côté dire enfin grâce juste leur lundi",
+   "texte": "Oracle prend 6 % grâce au cloud IA. J'avais raison de dire lundi qu'on passait à côté de leur carnet de commandes, enfin une analyse qui touche juste.",
+   "angle": "valeur tech"
+  },
+  {
+   "date": "2026-09-11",
+   "moment": "matin",
+   "emp": "2027 bloquer cause composants neogeo point pénurie repoussée rétro siphonne tous",
+   "texte": "La NeoGeo repoussée à fin 2027 à cause de la pénurie de RAM. L'IA qui siphonne tous les composants au point de bloquer le rétro...",
+   "angle": "actualité matériel"
   }
  ],
  "compteurs": {
-  "mails": 5,
-  "tweets": 18,
-  "jours": 1
+  "mails": 6,
+  "tweets": 21,
+  "jours": 2
  },
- "maj": "2026-09-10 21:58"
+ "maj": "2026-09-11 13:40"
 }
