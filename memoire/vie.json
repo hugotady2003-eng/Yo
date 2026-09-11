@@ -42,6 +42,11 @@
      "moment": "matin",
      "resume": "J'ai observé Oracle s'envoler grâce au cloud et noté l'impact de l'IA sur la pénurie de composants.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée calme passée à regarder les prévisions sur le pliable d'Apple et les déboires judiciaires de l'IA.",
+     "gestes": []
     }
    ]
   }
@@ -193,12 +198,33 @@
    "emp": "2027 bloquer cause composants neogeo point pénurie repoussée rétro siphonne tous",
    "texte": "La NeoGeo repoussée à fin 2027 à cause de la pénurie de RAM. L'IA qui siphonne tous les composants au point de bloquer le rétro...",
    "angle": "actualité matériel"
+  },
+  {
+   "date": "2026-09-11",
+   "moment": "soir",
+   "emp": "annuels année dernière disais irait milliards monétisation moonshot plus prévu revenus secteur",
+   "texte": "Moonshot vise les 2 milliards de revenus annuels. Je disais l'année dernière que la monétisation irait plus vite que prévu sur ce secteur, bon bah voilà.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-09-11",
+   "moment": "soir",
+   "emp": "avocat avoir chatgpt cité faux inventés pour sanctionné sérieusement témoins",
+   "texte": "Sérieusement, un avocat sanctionné pour avoir cité de faux témoins inventés par ChatGPT ? On en est là.",
+   "angle": "point de vue tech"
+  },
+  {
+   "date": "2026-09-11",
+   "moment": "soir",
+   "emp": "2030 annonce apple counterpoint dalles pliables",
+   "texte": "Counterpoint annonce +167% sur les dalles pliables d'Apple d'ici 2030.",
+   "angle": "suivi long terme"
   }
  ],
  "compteurs": {
-  "mails": 6,
-  "tweets": 21,
+  "mails": 7,
+  "tweets": 24,
   "jours": 2
  },
- "maj": "2026-09-11 13:40"
+ "maj": "2026-09-11 21:57"
 }
