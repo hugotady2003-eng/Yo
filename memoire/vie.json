@@ -49,6 +49,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-12",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée entre les performances aberrantes des puces Apple, les déboires de Revolut et les nouveaux modèles d'IA.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -219,12 +229,40 @@
    "emp": "2030 annonce apple counterpoint dalles pliables",
    "texte": "Counterpoint annonce +167% sur les dalles pliables d'Apple d'ici 2030.",
    "angle": "suivi long terme"
+  },
+  {
+   "date": "2026-09-12",
+   "moment": "matin",
+   "emp": "astra avance chez perplexity",
+   "texte": "GPT-6 Astra chez Perplexity. On avance.",
+   "angle": "actualité ia"
+  },
+  {
+   "date": "2026-09-12",
+   "moment": "matin",
+   "emp": "aussi avais douter explose franchement geekbench passage rapide scores tort",
+   "texte": "L'A20 Pro qui explose les scores sur Geekbench 7. J'avais tort de douter du passage au 2nm aussi rapide, franchement.",
+   "angle": "valeur tech"
+  },
+  {
+   "date": "2026-09-12",
+   "moment": "matin",
+   "emp": "après cette chez fausse histoire pointé pour requête revolut sécurité zéro",
+   "texte": "Zéro pointé pour la sécurité chez Revolut après cette histoire de fausse requête.",
+   "angle": "sécurité finance"
+  },
+  {
+   "date": "2026-09-12",
+   "moment": "matin",
+   "emp": "deux droits heures lire lunaire passé sony wiki",
+   "texte": "J'ai passé deux heures à lire le wiki sur les droits Sony. Lunaire.",
+   "angle": "remarque perso"
   }
  ],
  "compteurs": {
-  "mails": 7,
-  "tweets": 24,
-  "jours": 2
+  "mails": 8,
+  "tweets": 28,
+  "jours": 3
  },
- "maj": "2026-09-11 21:57"
+ "maj": "2026-09-12 13:05"
 }
