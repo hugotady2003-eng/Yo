@@ -57,6 +57,11 @@
      "moment": "matin",
      "resume": "Une matinée passée entre les performances aberrantes des puces Apple, les déboires de Revolut et les nouveaux modèles d'IA.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une fin de journée à regarder les annonces d'Anthropic et de Blizzard sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -257,12 +262,33 @@
    "emp": "deux droits heures lire lunaire passé sony wiki",
    "texte": "J'ai passé deux heures à lire le wiki sur les droits Sony. Lunaire.",
    "angle": "remarque perso"
+  },
+  {
+   "date": "2026-09-12",
+   "moment": "soir",
+   "emp": "altman anthropic aura carnets commandes continuent course demande derrière disent musk ralentir",
+   "texte": "Anthropic qui demande de ralentir la course à l'IA, et Musk et Altman qui disent oui. On aura vraiment tout vu. Sauf que les carnets de commandes continuent de se remplir derrière.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-09-12",
+   "moment": "soir",
+   "emp": "2029 annonce annonces arrêté blizzard diablo essayer investissements jeux planifier pour trois",
+   "texte": "Blizzard annonce Diablo V pour 2029. Trois ans que j'ai arrêté d'essayer de planifier mes investissements sur les annonces de jeux vidéo à dix ans.",
+   "angle": "longue observation"
+  },
+  {
+   "date": "2026-09-12",
+   "moment": "soir",
+   "emp": "astra bout comprenne file parfois perplexity pour systèmes trop valeur vite",
+   "texte": "Perplexity qui file GPT-6 Astra à ses systèmes bout en bout. Ça va vite, parfois trop pour que je comprenne où va la valeur.",
+   "angle": "portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 8,
-  "tweets": 28,
+  "mails": 9,
+  "tweets": 31,
   "jours": 3
  },
- "maj": "2026-09-12 13:05"
+ "maj": "2026-09-12 21:35"
 }
