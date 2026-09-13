@@ -72,6 +72,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les dérives militaires de l'IA et les faits divers autour de Waymo sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une fin de journée à observer les manœuvres d'Anthropic pour son introduction et les éternels rapports de Washington sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -314,12 +319,33 @@
    "emp": "apple conforte dans données garder idée iphone lire mais modèle neuf nouveaux",
    "texte": "Apple vend ses nouveaux téléphones et les voitures vendent nos données. Rien de neuf sous le soleil, mais lire les specs des nouveaux iPhone me conforte dans l'idée de garder mon vieux modèle.",
    "angle": "valeur et vie perso"
+  },
+  {
+   "date": "2026-09-13",
+   "moment": "soir",
+   "emp": "anthropic avais banc derniers donnent leurs nasdaq recrutements reste sauf valorisations vertige",
+   "texte": "Anthropic vise le Nasdaq. Je l'avais dit en voyant leurs derniers recrutements. Sauf que les valorisations me donnent le vertige. Je reste sur le banc.",
+   "angle": "Point de vue valeur"
+  },
+  {
+   "date": "2026-09-13",
+   "moment": "soir",
+   "emp": "après bien dossier enfin fait jamais parier roadster sort tesla",
+   "texte": "Le Roadster de Tesla sort enfin après dix ans. J'ai bien fait de ne jamais parier sur ce dossier.",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-09-13",
+   "moment": "soir",
+   "emp": "alarmistes devient encore habitude hebdomadaire rapports washington",
+   "texte": "Encore des rapports alarmistes sur l'IA à Washington. Ça devient une habitude hebdomadaire.",
+   "angle": "Remarque suivi long"
   }
  ],
  "compteurs": {
-  "mails": 10,
-  "tweets": 34,
+  "mails": 11,
+  "tweets": 37,
   "jours": 4
  },
- "maj": "2026-09-13 14:12"
+ "maj": "2026-09-13 21:40"
 }
