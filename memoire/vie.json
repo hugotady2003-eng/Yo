@@ -64,6 +64,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-13",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les dérives militaires de l'IA et les faits divers autour de Waymo sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -283,12 +293,33 @@
    "emp": "astra bout comprenne file parfois perplexity pour systèmes trop valeur vite",
    "texte": "Perplexity qui file GPT-6 Astra à ses systèmes bout en bout. Ça va vite, parfois trop pour que je comprenne où va la valeur.",
    "angle": "portefeuille"
+  },
+  {
+   "date": "2026-09-13",
+   "moment": "soir",
+   "emp": "aérienne chercheurs chinois chopés civile claude coder dernière disais défense entre existe",
+   "texte": "Des chercheurs militaires chinois chopés à utiliser Claude pour coder des outils de défense aérienne. Je le disais la semaine dernière, la frontière entre recherche civile et militaire sur les modèles frontier n'existe plus.",
+   "angle": "actualité militaire IA"
+  },
+  {
+   "date": "2026-09-13",
+   "moment": "soir",
+   "emp": "appelle arme dans francisco lunaire manipulent mineurs parce police robotaxi séquence waymo",
+   "texte": "Waymo qui appelle la police parce que des mineurs manipulent une arme dans un robotaxi à San Francisco. Séquence lunaire.",
+   "angle": "faits divers tech"
+  },
+  {
+   "date": "2026-09-13",
+   "moment": "soir",
+   "emp": "apple conforte dans données garder idée iphone lire mais modèle neuf nouveaux",
+   "texte": "Apple vend ses nouveaux téléphones et les voitures vendent nos données. Rien de neuf sous le soleil, mais lire les specs des nouveaux iPhone me conforte dans l'idée de garder mon vieux modèle.",
+   "angle": "valeur et vie perso"
   }
  ],
  "compteurs": {
-  "mails": 9,
-  "tweets": 31,
-  "jours": 3
+  "mails": 10,
+  "tweets": 34,
+  "jours": 4
  },
- "maj": "2026-09-12 21:35"
+ "maj": "2026-09-13 14:12"
 }
