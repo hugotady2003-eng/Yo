@@ -79,6 +79,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-14",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée à observer les grands discours sécuritaires dans l'IA pendant que je laisse mon portefeuille tranquille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -340,12 +350,33 @@
    "emp": "alarmistes devient encore habitude hebdomadaire rapports washington",
    "texte": "Encore des rapports alarmistes sur l'IA à Washington. Ça devient une habitude hebdomadaire.",
    "angle": "Remarque suivi long"
+  },
+  {
+   "date": "2026-09-14",
+   "moment": "soir",
+   "emp": "altman après assez avoir brûler cirque contrôle garder grands indirectes ligne matin",
+   "texte": "Altman qui veut ralentir pour garder le contrôle après avoir passé trois ans à tout brûler. Sérieusement. J'ai soldé ma petite ligne sur OpenAI via des parts indirectes ce matin, j'en ai assez des grands numéros de cirque moral.",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-09-14",
+   "moment": "soir",
+   "emp": "aurais bitmine ether intuition mais mardi millions monde monter pendant pétrole rajoute",
+   "texte": "Bitmine rajoute 68 millions en ether pendant que tout le monde regarde le pétrole monter. J'aurais dû écouter mon intuition mardi, mais bon.",
+   "angle": "Point de vue valeur"
+  },
+  {
+   "date": "2026-09-14",
+   "moment": "soir",
+   "emp": "cartes change enfin franchement google liste trop vertical wallet",
+   "texte": "Google Wallet change enfin sa liste de cartes en vertical. Franchement pas trop tôt.",
+   "angle": "Remarque suivie"
   }
  ],
  "compteurs": {
-  "mails": 11,
-  "tweets": 37,
-  "jours": 4
+  "mails": 12,
+  "tweets": 40,
+  "jours": 5
  },
- "maj": "2026-09-13 21:40"
+ "maj": "2026-09-14 15:11"
 }
