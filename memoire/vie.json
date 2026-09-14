@@ -87,6 +87,11 @@
      "moment": "soir",
      "resume": "Une journée à observer les grands discours sécuritaires dans l'IA pendant que je laisse mon portefeuille tranquille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "J'ai passé la journée à observer le marché bouder l'IA pendant que OpenAI continue ses achats de fabricants de caméras.",
+     "gestes": []
     }
    ]
   }
@@ -371,12 +376,33 @@
    "emp": "cartes change enfin franchement google liste trop vertical wallet",
    "texte": "Google Wallet change enfin sa liste de cartes en vertical. Franchement pas trop tôt.",
    "angle": "Remarque suivie"
+  },
+  {
+   "date": "2026-09-14",
+   "moment": "soir",
+   "emp": "abonnements achète avais finir glass hardware imaging infinis intégrer millions openai plutôt",
+   "texte": "OpenAI s'achète Glass Imaging pour 300 millions. Je l'avais dit en mai, ils finir par tout intégrer au hardware plutôt que de vendre des abonnements infinis.",
+   "angle": "Rachat OpenAI"
+  },
+  {
+   "date": "2026-09-14",
+   "moment": "soir",
+   "emp": "cybersécurité décrochent encaisse logique pendant valeurs",
+   "texte": "Les valeurs IA qui décrochent pendant que la cybersécurité encaisse. Logique.",
+   "angle": "Rotation sectorielle"
+  },
+  {
+   "date": "2026-09-14",
+   "moment": "soir",
+   "emp": "attendait cette demandé fear franchise mongering patrons pékin qualifie ralentissement",
+   "texte": "Pékin qui qualifie le ralentissement de l'IA demandé par les patrons de « fear mongering ». On n'attendait pas cette franchise.",
+   "angle": "Actualité Chine"
   }
  ],
  "compteurs": {
-  "mails": 12,
-  "tweets": 40,
+  "mails": 13,
+  "tweets": 43,
   "jours": 5
  },
- "maj": "2026-09-14 15:11"
+ "maj": "2026-09-14 23:01"
 }
