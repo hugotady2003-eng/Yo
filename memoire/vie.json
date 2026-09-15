@@ -94,6 +94,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-15",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "J'ai passé la matinée à renforcer TSMC tout en regardant les déboires de confidentialité de ChatGPT.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -397,12 +407,40 @@
    "emp": "attendait cette demandé fear franchise mongering patrons pékin qualifie ralentissement",
    "texte": "Pékin qui qualifie le ralentissement de l'IA demandé par les patrons de « fear mongering ». On n'attendait pas cette franchise.",
    "angle": "Actualité Chine"
+  },
+  {
+   "date": "2026-09-15",
+   "moment": "matin",
+   "emp": "affole avais dessus lundi matin monde pause pièce prudent remis rythme sans",
+   "texte": "TSMC prudent sur l'IA et tout le monde s'affole. Je l'avais dit lundi, le rythme n'est pas tenable sans pause. J'ai remis une pièce dessus ce matin.",
+   "angle": "action portefeuille"
+  },
+  {
+   "date": "2026-09-15",
+   "moment": "matin",
+   "emp": "amende cette chatgpt finir grosse histoire humains lisent sûre transcriptions",
+   "texte": "Des humains lisent les transcriptions ChatGPT. Sûre que ça va finir en grosse amende cette histoire.",
+   "angle": "actualité tech"
+  },
+  {
+   "date": "2026-09-15",
+   "moment": "matin",
+   "emp": "analystes année chaque commandes comme iphone même pour selon tièdes époque",
+   "texte": "Commandes tièdes pour l'iPhone 18 Pro selon les analystes. Comme chaque année à la même époque.",
+   "angle": "valeur suivie"
+  },
+  {
+   "date": "2026-09-15",
+   "moment": "matin",
+   "emp": "arrête booster jamais milliard pour profound recherche",
+   "texte": "Profound à 1,8 milliard pour booster la recherche IA. Ça ne s'arrête jamais.",
+   "angle": "remarque marché"
   }
  ],
  "compteurs": {
-  "mails": 13,
-  "tweets": 43,
-  "jours": 5
+  "mails": 14,
+  "tweets": 47,
+  "jours": 6
  },
- "maj": "2026-09-14 23:01"
+ "maj": "2026-09-15 13:58"
 }
