@@ -102,6 +102,11 @@
      "moment": "matin",
      "resume": "J'ai passé la matinée à renforcer TSMC tout en regardant les déboires de confidentialité de ChatGPT.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "J'ai passé la journée à observer la chute des valeurs crypto après l'échec du Sénat et le classement des derniers Mac Intel.",
+     "gestes": []
     }
    ]
   }
@@ -435,12 +440,33 @@
    "emp": "arrête booster jamais milliard pour profound recherche",
    "texte": "Profound à 1,8 milliard pour booster la recherche IA. Ça ne s'arrête jamais.",
    "angle": "remarque marché"
+  },
+  {
+   "date": "2026-09-15",
+   "moment": "soir",
+   "emp": "actions cette clarity coule crypto dans donné début déjà effondrent foulée logiquement",
+   "texte": "Le Clarity Act coule au Sénat et les actions crypto s'effondrent logiquement dans la foulée. Je m'en tiendrai aux actions tech cette semaine, j'ai déjà donné en début de mois.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-09-15",
+   "moment": "soir",
+   "emp": "agents autant business clients fait gagné gérer intègre laisser meta relances robots",
+   "texte": "Meta intègre des agents IA sur WhatsApp Business. Autant laisser les robots gérer les relances clients, ça fait toujours ça de gagné.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-09-15",
+   "moment": "soir",
+   "emp": "apple bureau classé combien dernier encore fonctionne histoire imac intel mais mien",
+   "texte": "Dernier iMac Intel classé vintage par Apple. Vingt ans d'histoire sur mon bureau, le mien fonctionne encore mais pour combien de temps.",
+   "angle": "remarque nostalgique"
   }
  ],
  "compteurs": {
-  "mails": 14,
-  "tweets": 47,
+  "mails": 15,
+  "tweets": 50,
   "jours": 6
  },
- "maj": "2026-09-15 13:58"
+ "maj": "2026-09-15 22:23"
 }
