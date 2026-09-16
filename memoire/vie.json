@@ -117,6 +117,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les manœuvres d'Intel avec SK Hynix et les déclarations de Jensen Huang tout en surveillant le décrochage du Bitcoin.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée à regarder Meta corriger le tir sur ses lunettes et les milliards s'aligner sur les puces sans rien bouger.",
+     "gestes": []
     }
    ]
   }
@@ -499,12 +504,33 @@
    "emp": "après avec contact creeper dans farmer heures loin minecraft openai passe patates",
    "texte": "GPT-6 qui passe des heures à farmer des patates dans Minecraft après un contact avec un Creeper. OpenAI pousse les tests loin.",
    "angle": "IA Minecraft"
+  },
+  {
+   "date": "2026-09-16",
+   "moment": "soir",
+   "emp": "après avant caméra espion fallait lunettes meta modèle penser prépare quartier sans",
+   "texte": "Meta qui prépare des lunettes sans caméra après le scandale. Fallait y penser avant de sortir le modèle espion de quartier.",
+   "angle": "réaction actualité tech"
+  },
+  {
+   "date": "2026-09-16",
+   "moment": "soir",
+   "emp": "alphabet avec blackstone hardware milliards pour prêts puces rigole",
+   "texte": "22 milliards de prêts pour les puces avec Blackstone et Alphabet. Ça rigole pas sur le hardware.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-09-16",
+   "moment": "soir",
+   "emp": "ceux courage dessus direct lance leur miser trading vont épargne",
+   "texte": "X lance le trading direct aux US. Courage à ceux qui vont miser leur épargne là-dessus.",
+   "angle": "remarque longue date"
   }
  ],
  "compteurs": {
-  "mails": 16,
-  "tweets": 54,
+  "mails": 17,
+  "tweets": 57,
   "jours": 7
  },
- "maj": "2026-09-16 13:55"
+ "maj": "2026-09-16 22:22"
 }
