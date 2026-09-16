@@ -109,6 +109,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-16",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les manœuvres d'Intel avec SK Hynix et les déclarations de Jensen Huang tout en surveillant le décrochage du Bitcoin.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -461,12 +471,40 @@
    "emp": "apple bureau classé combien dernier encore fonctionne histoire imac intel mais mien",
    "texte": "Dernier iMac Intel classé vintage par Apple. Vingt ans d'histoire sur mon bureau, le mien fonctionne encore mais pour combien de temps.",
    "angle": "remarque nostalgique"
+  },
+  {
+   "date": "2026-09-16",
+   "moment": "matin",
+   "emp": "avais dernier hynix intel jeudi",
+   "texte": "SK Hynix et Intel. Je l'avais dit jeudi dernier",
+   "angle": "alliance puces"
+  },
+  {
+   "date": "2026-09-16",
+   "moment": "matin",
+   "emp": "2030 calendrier chinoise court dire fixe huang jamais jensen lithographie même paraît",
+   "texte": "Jensen Huang fixe 2030 pour la lithographie chinoise. Il ne parle jamais pour rien dire, même si le calendrier paraît court.",
+   "angle": "vision Nvidia"
+  },
+  {
+   "date": "2026-09-16",
+   "moment": "matin",
+   "emp": "bitcoin bureau depuis dollar décroche encore matinée regarder",
+   "texte": "Bitcoin décroche du dollar et des US. Encore une matinée à regarder ça depuis le bureau.",
+   "angle": "décrochage crypto"
+  },
+  {
+   "date": "2026-09-16",
+   "moment": "matin",
+   "emp": "après avec contact creeper dans farmer heures loin minecraft openai passe patates",
+   "texte": "GPT-6 qui passe des heures à farmer des patates dans Minecraft après un contact avec un Creeper. OpenAI pousse les tests loin.",
+   "angle": "IA Minecraft"
   }
  ],
  "compteurs": {
-  "mails": 15,
-  "tweets": 50,
-  "jours": 6
+  "mails": 16,
+  "tweets": 54,
+  "jours": 7
  },
- "maj": "2026-09-15 22:23"
+ "maj": "2026-09-16 13:55"
 }
