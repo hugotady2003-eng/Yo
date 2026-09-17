@@ -124,6 +124,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-17",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée à observer les levées de fonds monstres dans le cloud et les délires de memecoins sur les nouveaux réseaux.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -525,12 +535,33 @@
    "emp": "ceux courage dessus direct lance leur miser trading vont épargne",
    "texte": "X lance le trading direct aux US. Courage à ceux qui vont miser leur épargne là-dessus.",
    "angle": "remarque longue date"
+  },
+  {
+   "date": "2026-09-17",
+   "moment": "matin",
+   "emp": "arrête cherche convertibles coreweave encore jamais milliards",
+   "texte": "CoreWeave cherche encore 3 milliards en convertibles. Ça ne s'arrête jamais.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-09-17",
+   "moment": "matin",
+   "emp": "avance couru envahi jour memcoins premier repense réseau était",
+   "texte": "Je repense au réseau d'Arc envahi de memcoins dès le premier jour. C'était couru d'avance.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-09-17",
+   "moment": "matin",
+   "emp": "apple aura fabriquées mémoires tout",
+   "texte": "Des mémoires Apple fabriquées aux US. On aura tout vu.",
+   "angle": "remarque"
   }
  ],
  "compteurs": {
-  "mails": 17,
-  "tweets": 57,
-  "jours": 7
+  "mails": 18,
+  "tweets": 60,
+  "jours": 8
  },
- "maj": "2026-09-16 22:22"
+ "maj": "2026-09-17 13:58"
 }
