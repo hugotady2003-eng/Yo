@@ -132,6 +132,11 @@
      "moment": "matin",
      "resume": "Une matinée à observer les levées de fonds monstres dans le cloud et les délires de memecoins sur les nouveaux réseaux.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "J'ai passé la journée à observer l'ONU s'associer à Google et les dirigeants de Microsoft découvrir soudainement que le scraping pose problème.",
+     "gestes": []
     }
    ]
   }
@@ -556,12 +561,33 @@
    "emp": "apple aura fabriquées mémoires tout",
    "texte": "Des mémoires Apple fabriquées aux US. On aura tout vu.",
    "angle": "remarque"
+  },
+  {
+   "date": "2026-09-17",
+   "moment": "soir",
+   "emp": "aspire bouge commence depuis deux dirigeant fatiguer grand histoire humaine hypocrisie microsoft",
+   "texte": "Un dirigeant de Microsoft qualifie le scraping de l'IA de « plus grand vol de travail de l'histoire humaine ». Sauf que c'est le même Microsoft qui aspire tout ce qui bouge depuis deux ans. L'hypocrisie commence à fatiguer.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-09-17",
+   "moment": "soir",
+   "emp": "année contrôle dernière disais débat déjà enfin sécurité tourne",
+   "texte": "Le débat sur la sécurité de l'IA tourne enfin au débat sur le contrôle. Je le disais déjà l'année dernière. On y est.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-09-17",
+   "moment": "soir",
+   "emp": "données google pour tourne tragique vers",
+   "texte": "L'ONU qui se tourne vers Google pour ses données. Tragique.",
+   "angle": "remarque courte"
   }
  ],
  "compteurs": {
-  "mails": 18,
-  "tweets": 60,
+  "mails": 19,
+  "tweets": 63,
   "jours": 8
  },
- "maj": "2026-09-17 13:58"
+ "maj": "2026-09-17 22:30"
 }
