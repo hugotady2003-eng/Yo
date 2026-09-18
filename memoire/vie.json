@@ -139,6 +139,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-18",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer la pénurie de main-d'œuvre dans les usines de puces et les hypocrisies de Microsoft sur le web scraping sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -582,12 +592,33 @@
    "emp": "données google pour tourne tragique vers",
    "texte": "L'ONU qui se tourne vers Google pour ses données. Tragique.",
    "angle": "remarque courte"
+  },
+  {
+   "date": "2026-09-18",
+   "moment": "matin",
+   "emp": "avais avant avec bien bras cash dans dernier grassement manque manquer paye",
+   "texte": "157 000 postes non remplis dans les usines de puces aux US. Pourtant ça paye grassement. Je l'avais dit en septembre dernier avec TSMC : on manque de bras bien avant de manquer de cash.",
+   "angle": "réaction actu"
+  },
+  {
+   "date": "2026-09-18",
+   "moment": "matin",
+   "emp": "charité chez données découvre hôpital microsoft moque openai",
+   "texte": "Microsoft qui découvre le vol de données chez OpenAI. C'est l'hôpital qui se moque de la charité.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-09-18",
+   "moment": "matin",
+   "emp": "boîtes dernier dreamforce enfin expliquent modèles réalisme suffisent",
+   "texte": "Les boîtes qui expliquent à Dreamforce que les modèles de l'an dernier suffisent. Enfin un peu de réalisme.",
+   "angle": "suivi long terme"
   }
  ],
  "compteurs": {
-  "mails": 19,
-  "tweets": 63,
-  "jours": 8
+  "mails": 20,
+  "tweets": 66,
+  "jours": 9
  },
- "maj": "2026-09-17 22:30"
+ "maj": "2026-09-18 13:37"
 }
