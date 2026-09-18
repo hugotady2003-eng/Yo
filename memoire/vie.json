@@ -147,6 +147,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer la pénurie de main-d'œuvre dans les usines de puces et les hypocrisies de Microsoft sur le web scraping sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à solder mes derniers restes d'Intel tout en écoutant les éternelles mises en garde sur l'IA.",
+     "gestes": []
     }
    ]
   }
@@ -613,12 +618,33 @@
    "emp": "boîtes dernier dreamforce enfin expliquent modèles réalisme suffisent",
    "texte": "Les boîtes qui expliquent à Dreamforce que les modèles de l'an dernier suffisent. Enfin un peu de réalisme.",
    "angle": "suivi long terme"
+  },
+  {
+   "date": "2026-09-18",
+   "moment": "soir",
+   "emp": "avec calendrier fait fuites intel lake même nova prévisionnel remet restait vendu",
+   "texte": "Intel remet ça avec des fuites sur Nova Lake. Ça fait dix ans que je lis le même calendrier prévisionnel. J'ai vendu ce qu'il me restait.",
+   "angle": "vente et historique"
+  },
+  {
+   "date": "2026-09-18",
+   "moment": "soir",
+   "emp": "dans iphone maison modem snapdragon toujours",
+   "texte": "Snapdragon X80 dans l'iPhone 18 Pro Max. Toujours pas de modem maison en vue.",
+   "angle": "réaction matos"
+  },
+  {
+   "date": "2026-09-18",
+   "moment": "soir",
+   "emp": "anthropic débat encore existentiel plus rapport relance risque",
+   "texte": "Anthropic qui relance le débat sur le risque existentiel. Encore un rapport de plus.",
+   "angle": "commentaire actu"
   }
  ],
  "compteurs": {
-  "mails": 20,
-  "tweets": 66,
+  "mails": 21,
+  "tweets": 69,
   "jours": 9
  },
- "maj": "2026-09-18 13:37"
+ "maj": "2026-09-18 21:53"
 }
