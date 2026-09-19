@@ -162,6 +162,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les déboires d'Intel et le projet de Terafab de Musk sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les gesticulations politiques autour de l'IA et les piratages de Gemini sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -677,12 +682,40 @@
    "emp": "application dans enfin fichier productivité quelqu sensé texte tient",
    "texte": "Une application de productivité qui tient dans un fichier texte. Enfin quelqu'un de sensé",
    "angle": "clin d'œil"
+  },
+  {
+   "date": "2026-09-19",
+   "moment": "soir",
+   "emp": "autre canular créer dedans force nomme pendant qualifiant retombés risques trump tsar",
+   "texte": "Trump qui veut créer une AI Force pendant que l'autre nomme un tsar de l'IA en qualifiant les risques de canular. On est retombés dedans.",
+   "angle": "actualite politique"
+  },
+  {
+   "date": "2026-09-19",
+   "moment": "soir",
+   "emp": "entreprises forcément gemini hacke lors sécu tests",
+   "texte": "Gemini qui hacke des entreprises lors de tests de sécu. Forcément.",
+   "angle": "technologie courte"
+  },
+  {
+   "date": "2026-09-19",
+   "moment": "soir",
+   "emp": "actions avec bouge chez coinbase depuis débarque enfin kalshi perpétuels semaines surveille",
+   "texte": "Kalshi qui débarque chez Coinbase avec des perpétuels sur actions US. Je surveille ce truc depuis des semaines, ça bouge enfin.",
+   "angle": "suivi crypto"
+  },
+  {
+   "date": "2026-09-19",
+   "moment": "soir",
+   "emp": "annonces benchmarks faux journée passé politiques portefeuille regarder sans toucher",
+   "texte": "J'ai passé la journée à regarder les annonces politiques sur l'IA et les faux benchmarks du M6 Pro sans toucher à mon portefeuille.",
+   "angle": "bilan portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 22,
-  "tweets": 73,
+  "mails": 23,
+  "tweets": 77,
   "jours": 10
  },
- "maj": "2026-09-19 13:20"
+ "maj": "2026-09-19 21:31"
 }
