@@ -154,6 +154,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-19",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les déboires d'Intel et le projet de Terafab de Musk sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -639,12 +649,40 @@
    "emp": "anthropic débat encore existentiel plus rapport relance risque",
    "texte": "Anthropic qui relance le débat sur le risque existentiel. Encore un rapport de plus.",
    "angle": "commentaire actu"
+  },
+  {
+   "date": "2026-09-19",
+   "moment": "matin",
+   "emp": "bloqué doutais déjà terafab",
+   "texte": "Terafab déjà bloqué. Je m'en doutais.",
+   "angle": "actualité brute"
+  },
+  {
+   "date": "2026-09-19",
+   "moment": "matin",
+   "emp": "bugs dernière ferme fini heureusement intel intenable passe plateforme primes restes récompense",
+   "texte": "Intel ferme les primes aux bugs et passe sur une plateforme sans récompense. Heureusement que j'ai fini de solder mes restes la semaine dernière, c'était intenable.",
+   "angle": "valeur suivie"
+  },
+  {
+   "date": "2026-09-19",
+   "moment": "matin",
+   "emp": "avec endroit explosent failles juste mauvais nous oreilles partout pendant ralentissement rebat",
+   "texte": "On nous rebat les oreilles avec le ralentissement de l'IA pendant que les failles de sécurité explosent partout. On regardait juste au mauvais endroit.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-09-19",
+   "moment": "matin",
+   "emp": "application dans enfin fichier productivité quelqu sensé texte tient",
+   "texte": "Une application de productivité qui tient dans un fichier texte. Enfin quelqu'un de sensé",
+   "angle": "clin d'œil"
   }
  ],
  "compteurs": {
-  "mails": 21,
-  "tweets": 69,
-  "jours": 9
+  "mails": 22,
+  "tweets": 73,
+  "jours": 10
  },
- "maj": "2026-09-18 21:53"
+ "maj": "2026-09-19 13:20"
 }
