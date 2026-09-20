@@ -169,6 +169,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-20",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les déclarations de Jensen Huang et le PC non activé de Poutine sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -710,12 +720,40 @@
    "emp": "annonces benchmarks faux journée passé politiques portefeuille regarder sans toucher",
    "texte": "J'ai passé la journée à regarder les annonces politiques sur l'IA et les faux benchmarks du M6 Pro sans toucher à mon portefeuille.",
    "angle": "bilan portefeuille"
+  },
+  {
+   "date": "2026-09-20",
+   "moment": "matin",
+   "emp": "activé avec dell poutine vote windows",
+   "texte": "Poutine qui vote sur un Dell avec Windows non activé.",
+   "angle": "actu insolite"
+  },
+  {
+   "date": "2026-09-20",
+   "moment": "matin",
+   "emp": "2030 aligner avec choisir dossiers faut huang jensen pourtant risque selon sécurité",
+   "texte": "Zéro risque d'ici 2030 selon Jensen Huang. Pourtant il vient de s'aligner avec Trump sur les dossiers de sécurité. Faut choisir.",
+   "angle": "contradiction patron"
+  },
+  {
+   "date": "2026-09-20",
+   "moment": "matin",
+   "emp": "autonomes boutique cause composants coût drones drôle fabricants ferment jetson matinée nano",
+   "texte": "Des drones autonomes qui tournent sur du Jetson Orin Nano pendant que les fabricants de platines CD ferment boutique à cause du coût des composants. Drôle de matinée.",
+   "angle": "techno et contraste"
+  },
+  {
+   "date": "2026-09-20",
+   "moment": "matin",
+   "emp": "articles bouge centres données encore regardais trump",
+   "texte": "Je regardais les articles sur les centres de données et Trump. Ça bouge encore.",
+   "angle": "veille politique"
   }
  ],
  "compteurs": {
-  "mails": 23,
-  "tweets": 77,
-  "jours": 10
+  "mails": 24,
+  "tweets": 81,
+  "jours": 11
  },
- "maj": "2026-09-19 21:31"
+ "maj": "2026-09-20 13:42"
 }
