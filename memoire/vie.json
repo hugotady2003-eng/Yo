@@ -177,6 +177,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les déclarations de Jensen Huang et le PC non activé de Poutine sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée à écouter les déclarations de Jensen Huang sur l'IA et les promesses de tunnels de Musk sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -748,12 +753,33 @@
    "emp": "articles bouge centres données encore regardais trump",
    "texte": "Je regardais les articles sur les centres de données et Trump. Ça bouge encore.",
    "angle": "veille politique"
+  },
+  {
+   "date": "2026-09-20",
+   "moment": "soir",
+   "emp": "autour craintes exagérées gars huang jensen pelles trouve vend évidemment",
+   "texte": "Jensen Huang trouve les craintes autour de l'IA exagérées. Évidemment. C'est le gars qui vend les pelles.",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-09-20",
+   "moment": "soir",
+   "emp": "apple bouge comprendre journée leur lire passé plaintes pouce pourtant ramasse siri",
+   "texte": "J'ai passé la journée à lire les plaintes sur Siri. Apple est vraiment à la ramasse sur ce terrain, et pourtant leur valorisation bouge pas d'un pouce. Va comprendre.",
+   "angle": "Point de vue valeur"
+  },
+  {
+   "date": "2026-09-20",
+   "moment": "soir",
+   "emp": "agitait antonio austin avec dans disais entre hier machine musk pièce remet",
+   "texte": "Musk remet une pièce dans la machine avec son tunnel entre Austin et San Antonio. Je disais hier que ça s'agitait dans tous les sens, voilà la suite.",
+   "angle": "Rappel suivi long"
   }
  ],
  "compteurs": {
-  "mails": 24,
-  "tweets": 81,
+  "mails": 25,
+  "tweets": 84,
   "jours": 11
  },
- "maj": "2026-09-20 13:42"
+ "maj": "2026-09-20 21:41"
 }
