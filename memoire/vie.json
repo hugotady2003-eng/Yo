@@ -192,6 +192,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les nouveaux prix d'Apple et la sortie des Googlebooks sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "J'ai passé la journée à observer la hausse du Nasdaq portée par Meta et la percée surprise de leur agent IA.",
+     "gestes": []
     }
    ]
   }
@@ -805,12 +810,40 @@
    "emp": "avec centers commissions congrès data disais encore inquiète lundi rond tournait washington",
    "texte": "Encore le Congrès qui s'inquiète des data centers. Je disais lundi qu'on tournait en rond avec ces commissions à Washington, on y est encore.",
    "angle": "politique tech"
+  },
+  {
+   "date": "2026-09-21",
+   "moment": "soir",
+   "emp": "avais ciblée dernier douter grâce haut leur meta nasdaq plus repart timing",
+   "texte": "Le Nasdaq au plus haut grâce à Meta qui repart. J'avais tort de douter de leur timing sur la pub ciblée l'an dernier.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-09-21",
+   "moment": "soir",
+   "emp": "avait chatgpt dépasse meta muse personne premier téléchargements venir",
+   "texte": "Muse de Meta qui dépasse ChatGPT en téléchargements. Personne ne l'avait vu venir, moi le premier.",
+   "angle": "valeur tech"
+  },
+  {
+   "date": "2026-09-21",
+   "moment": "soir",
+   "emp": "bitcoin rien touche",
+   "texte": "Bitcoin à 90 000 en vue. Je touche à rien.",
+   "angle": "portefeuille"
+  },
+  {
+   "date": "2026-09-21",
+   "moment": "soir",
+   "emp": "arabie avec bagnoles ceer code commente iphone lance pendant saoudite électriques",
+   "texte": "L'Arabie saoudite qui lance ses bagnoles électriques avec Ceer pendant qu'on commente le code sur iPhone.",
+   "angle": "veille longue"
   }
  ],
  "compteurs": {
-  "mails": 26,
-  "tweets": 87,
+  "mails": 27,
+  "tweets": 91,
   "jours": 12
  },
- "maj": "2026-09-21 15:09"
+ "maj": "2026-09-21 23:12"
 }
