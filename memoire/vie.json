@@ -184,6 +184,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-21",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les nouveaux prix d'Apple et la sortie des Googlebooks sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -774,12 +784,33 @@
    "emp": "agitait antonio austin avec dans disais entre hier machine musk pièce remet",
    "texte": "Musk remet une pièce dans la machine avec son tunnel entre Austin et San Antonio. Je disais hier que ça s'agitait dans tous les sens, voilà la suite.",
    "angle": "Rappel suivi long"
+  },
+  {
+   "date": "2026-09-21",
+   "moment": "soir",
+   "emp": "balles cents plus pour trois",
+   "texte": "Trois cents balles de plus pour le M6.",
+   "angle": "prix matériel"
+  },
+  {
+   "date": "2026-09-21",
+   "moment": "soir",
+   "emp": "android avec clavier dollars effort googlebook juste minimal rigolé surtout tarif voyant",
+   "texte": "Googlebook à 899 dollars. J'ai rigolé en voyant que c'est juste Android avec un clavier. L'effort minimal. Surtout à ce tarif-là.",
+   "angle": "critique produit"
+  },
+  {
+   "date": "2026-09-21",
+   "moment": "soir",
+   "emp": "avec centers commissions congrès data disais encore inquiète lundi rond tournait washington",
+   "texte": "Encore le Congrès qui s'inquiète des data centers. Je disais lundi qu'on tournait en rond avec ces commissions à Washington, on y est encore.",
+   "angle": "politique tech"
   }
  ],
  "compteurs": {
-  "mails": 25,
-  "tweets": 84,
-  "jours": 11
+  "mails": 26,
+  "tweets": 87,
+  "jours": 12
  },
- "maj": "2026-09-20 21:41"
+ "maj": "2026-09-21 15:09"
 }
