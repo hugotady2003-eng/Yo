@@ -199,6 +199,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-22",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les correctifs de Meta sur son agent et les baisses de prix sur les PC de jeux sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -838,12 +848,33 @@
    "emp": "arabie avec bagnoles ceer code commente iphone lance pendant saoudite électriques",
    "texte": "L'Arabie saoudite qui lance ses bagnoles électriques avec Ceer pendant qu'on commente le code sur iPhone.",
    "angle": "veille longue"
+  },
+  {
+   "date": "2026-09-22",
+   "moment": "matin",
+   "emp": "agent allaient allégé avais bien déjà enchaîner failles hier ligne lundi meta",
+   "texte": "Meta qui patche déjà le bug Muse sur son agent IA. Sauf que je l'avais dit lundi, les failles sur ces trucs allaient s'enchaîner. J'ai allégé ma ligne hier soir, bien m'en a pris.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-09-22",
+   "moment": "matin",
+   "emp": "5060 avec chez dollars démange franchement newegg",
+   "texte": "Un PC avec une RTX 5060 à 1 199 dollars chez Newegg. Franchement ça démange.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-09-22",
+   "moment": "matin",
+   "emp": "avance avec dans lance pontes titres tokenisés",
+   "texte": "La BCE qui se lance dans les titres tokenisés avec Pontes DLT. On avance.",
+   "angle": "suivi long terme"
   }
  ],
  "compteurs": {
-  "mails": 27,
-  "tweets": 91,
-  "jours": 12
+  "mails": 28,
+  "tweets": 94,
+  "jours": 13
  },
- "maj": "2026-09-21 23:12"
+ "maj": "2026-09-22 13:56"
 }
