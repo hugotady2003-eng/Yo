@@ -207,6 +207,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les correctifs de Meta sur son agent et les baisses de prix sur les PC de jeux sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les doubles sorties d'OpenAI et Anthropic et les nouveaux monstres roulants saoudiens sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -869,12 +874,33 @@
    "emp": "avance avec dans lance pontes titres tokenisés",
    "texte": "La BCE qui se lance dans les titres tokenisés avec Pontes DLT. On avance.",
    "angle": "suivi long terme"
+  },
+  {
+   "date": "2026-09-22",
+   "moment": "soir",
+   "emp": "avec baisse cher claude coûts disais guerre hier jour logique même opus",
+   "texte": "GPT-6 et Claude Opus 5.5 qui sortent le même jour avec des coûts en baisse. Je disais hier que la guerre des puces tournait à l'usure, voilà la suite logique. Personne ne veut payer cher pour du texte.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-09-22",
+   "moment": "soir",
+   "emp": "cybertruck côté exobot faut franchement oser photos presque regardé saoudien sobre",
+   "texte": "J'ai regardé les photos du Exobot saoudien. Franchement, le Cybertruck a l'air presque sobre à côté. Faut oser.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-09-22",
+   "moment": "soir",
+   "emp": "deux embarquée encore mobiles même puces qualcomm rengaine sort toujours",
+   "texte": "Qualcomm sort encore deux puces mobiles. Toujours la même rengaine sur l'IA embarquée.",
+   "angle": "remarque suivi"
   }
  ],
  "compteurs": {
-  "mails": 28,
-  "tweets": 94,
+  "mails": 29,
+  "tweets": 97,
   "jours": 13
  },
- "maj": "2026-09-22 13:56"
+ "maj": "2026-09-22 22:26"
 }
