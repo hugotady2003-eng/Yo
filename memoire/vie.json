@@ -214,6 +214,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-23",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer la chute du Bitcoin sous les 86 000 dollars et l'arrivée de Linux chez AMD sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -895,12 +905,40 @@
    "emp": "deux embarquée encore mobiles même puces qualcomm rengaine sort toujours",
    "texte": "Qualcomm sort encore deux puces mobiles. Toujours la même rengaine sur l'IA embarquée.",
    "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-09-23",
+   "moment": "matin",
+   "emp": "ailleurs avais bitcoin dernière finirait matin monde pendant purger regarde semaine sous",
+   "texte": "Bitcoin sous 86k ce matin pendant que tout le monde regarde ailleurs. J'avais dit la semaine dernière qu'on finirait par purger.",
+   "angle": "Réaction crypto"
+  },
+  {
+   "date": "2026-09-23",
+   "moment": "matin",
+   "emp": "ajoute dans drivers enfin gddr7 linux support",
+   "texte": "AMD ajoute enfin le support GDDR7 dans ses drivers Linux. Enfin.",
+   "angle": "Point tech"
+  },
+  {
+   "date": "2026-09-23",
+   "moment": "matin",
+   "emp": "acer mais regarde rien tentant touche écran",
+   "texte": "Je regarde les -45% sur l'écran Acer. Tentant, mais je ne touche à rien.",
+   "angle": "Hésitation portefeuille"
+  },
+  {
+   "date": "2026-09-23",
+   "moment": "matin",
+   "emp": "anti apple chez encore rustine",
+   "texte": "Encore une rustine anti-pub chez Apple.",
+   "angle": "Clin d'œil rapide"
   }
  ],
  "compteurs": {
-  "mails": 29,
-  "tweets": 97,
-  "jours": 13
+  "mails": 30,
+  "tweets": 101,
+  "jours": 14
  },
- "maj": "2026-09-22 22:26"
+ "maj": "2026-09-23 13:57"
 }
