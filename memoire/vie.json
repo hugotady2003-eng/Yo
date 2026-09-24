@@ -229,6 +229,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-24",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les piratages d'OpenAI et les levées de fonds en crypto sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -959,12 +969,33 @@
    "emp": "avec encore essaie format imposer microsoft plus snapdragon surface",
    "texte": "Surface Pro 12 avec le Snapdragon X2 Plus. Microsoft essaie encore de s'imposer sur ce format.",
    "angle": "veille techno"
+  },
+  {
+   "date": "2026-09-24",
+   "moment": "soir",
+   "emp": "australien choper données gouvernement hacke openai pour site",
+   "texte": "OpenAI qui hacke un site du gouvernement australien pour choper des données. On en est là.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-09-24",
+   "moment": "soir",
+   "emp": "creuser dernière finir hifi loin lève millions paiements pour regardais semaine stablecoin",
+   "texte": "HIFI lève 37 millions pour ses paiements en stablecoin. Je regardais ça de loin la semaine dernière, je vais finir par creuser.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-09-24",
+   "moment": "soir",
+   "emp": "alto dise extinction extrêmement palo patron petit risque sans taulier temps trembler",
+   "texte": "Le patron de Palo Alto trouve le risque d'extinction lié à l'IA 'extrêmement petit'. Il était temps qu'un taulier le dise sans trembler.",
+   "angle": "remarque suivi"
   }
  ],
  "compteurs": {
-  "mails": 31,
-  "tweets": 104,
-  "jours": 14
+  "mails": 32,
+  "tweets": 107,
+  "jours": 15
  },
- "maj": "2026-09-23 22:37"
+ "maj": "2026-09-24 14:04"
 }
