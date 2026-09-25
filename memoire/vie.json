@@ -239,6 +239,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-25",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer Microsoft abandonner son chatbot grand public et Intel parier sur son futur 14A tout en renforçant légèrement MSFT.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -990,12 +1000,40 @@
    "emp": "alto dise extinction extrêmement palo patron petit risque sans taulier temps trembler",
    "texte": "Le patron de Palo Alto trouve le risque d'extinction lié à l'IA 'extrêmement petit'. Il était temps qu'un taulier le dise sans trembler.",
    "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-09-25",
+   "moment": "soir",
+   "emp": "avais avec bureautique codeurs copilot grand jette microsoft msft parts pour pris",
+   "texte": "Microsoft jette l'éponge sur le grand public avec Copilot pour se recentrer sur l'bureautique et les codeurs. Je l'avais dit en mai, ils tournaient en rond. J'ai pris 3 parts de MSFT à 428,50.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-09-25",
+   "moment": "soir",
+   "emp": "avant chiffres croira intel promet quand sortiront terre tiendra tsmc tête",
+   "texte": "Intel promet que le 14A tiendra tête à TSMC. On croira les chiffres quand ils sortiront de terre, pas avant.",
+   "angle": "valeur suivie"
+  },
+  {
+   "date": "2026-09-25",
+   "moment": "soir",
+   "emp": "bitcoin ignore obligataire totalement volatilité étrange",
+   "texte": "Le Bitcoin ignore totalement la volatilité obligataire. Étrange.",
+   "angle": "remarque marché"
+  },
+  {
+   "date": "2026-09-25",
+   "moment": "soir",
+   "emp": "encore pentagone spacex",
+   "texte": "Encore SpaceX au Pentagone.",
+   "angle": "observation courte"
   }
  ],
  "compteurs": {
-  "mails": 32,
-  "tweets": 107,
-  "jours": 15
+  "mails": 33,
+  "tweets": 111,
+  "jours": 16
  },
- "maj": "2026-09-24 14:04"
+ "maj": "2026-09-25 14:04"
 }
