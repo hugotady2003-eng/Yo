@@ -247,6 +247,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer Microsoft abandonner son chatbot grand public et Intel parier sur son futur 14A tout en renforçant légèrement MSFT.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les déboires judiciaires de Meta et des vols de sable pour Nvidia sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1028,12 +1033,33 @@
    "emp": "encore pentagone spacex",
    "texte": "Encore SpaceX au Pentagone.",
    "angle": "observation courte"
+  },
+  {
+   "date": "2026-09-25",
+   "moment": "soir",
+   "emp": "aura dans place puces remorques sable tonnes tout vingt volées",
+   "texte": "Vingt tonnes de sable à la place des puces dans les remorques volées. On aura tout vu.",
+   "angle": "fait insolite"
+  },
+  {
+   "date": "2026-09-25",
+   "moment": "soir",
+   "emp": "avec continuent dernier disais données encore leurs lunettes meta mexique mois nouveau",
+   "texte": "Nouveau procès perdu pour Meta au Nouveau-Mexique sur les données privées, pendant qu'ils continuent de siphonner nos visages avec leurs lunettes. Je le disais encore le mois dernier.",
+   "angle": "historique"
+  },
+  {
+   "date": "2026-09-25",
+   "moment": "soir",
+   "emp": "association blockchain clarity direction fiasco perd suite",
+   "texte": "La Blockchain Association perd sa direction suite au fiasco du Clarity Act.",
+   "angle": "régulation"
   }
  ],
  "compteurs": {
-  "mails": 33,
-  "tweets": 111,
+  "mails": 34,
+  "tweets": 114,
   "jours": 16
  },
- "maj": "2026-09-25 14:04"
+ "maj": "2026-09-25 22:40"
 }
