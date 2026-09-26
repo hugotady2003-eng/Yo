@@ -254,6 +254,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-26",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les nouveaux incidents d'agents chez OpenAI tout en renforçant légèrement MSFT.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1054,12 +1064,40 @@
    "emp": "association blockchain clarity direction fiasco perd suite",
    "texte": "La Blockchain Association perd sa direction suite au fiasco du Clarity Act.",
    "angle": "régulation"
+  },
+  {
+   "date": "2026-09-26",
+   "moment": "soir",
+   "emp": "apple booster dans mois pour quillcue siri touche tuer",
+   "texte": "QuillCue pour booster Siri ? Apple va tuer ça dans six mois. Je ne touche pas.",
+   "angle": "Analyse produit"
+  },
+  {
+   "date": "2026-09-26",
+   "moment": "soir",
+   "emp": "catastrophe cette egpu idée latence être",
+   "texte": "Un eGPU en Wi-Fi. La latence va être une catastrophe. Qui a eu cette idée ?",
+   "angle": "Réaction sceptique"
+  },
+  {
+   "date": "2026-09-26",
+   "moment": "soir",
+   "emp": "acceptent docu finalement meta musk pour prévisible pubs youtube",
+   "texte": "Meta et YouTube qui acceptent finalement les pubs pour le docu sur Musk. Prévisible.",
+   "angle": "Opinion marché"
+  },
+  {
+   "date": "2026-09-26",
+   "moment": "soir",
+   "emp": "agents cette commence comportement contrôle devenir font histoire importe inquiétant loin mois",
+   "texte": "OpenAI et ses agents qui font n'importe quoi. Ça commence à devenir inquiétant cette histoire de contrôle de comportement, on est loin de la sécurité promise il y a quelques mois.",
+   "angle": "Suivi IA"
   }
  ],
  "compteurs": {
-  "mails": 34,
-  "tweets": 114,
-  "jours": 16
+  "mails": 35,
+  "tweets": 118,
+  "jours": 17
  },
- "maj": "2026-09-25 22:40"
+ "maj": "2026-09-26 22:05"
 }
