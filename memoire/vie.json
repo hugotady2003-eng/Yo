@@ -264,6 +264,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-27",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer l'échec du Clarity Act et un modèle d'IA battant Pokémon sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1092,12 +1102,33 @@
    "emp": "agents cette commence comportement contrôle devenir font histoire importe inquiétant loin mois",
    "texte": "OpenAI et ses agents qui font n'importe quoi. Ça commence à devenir inquiétant cette histoire de contrôle de comportement, on est loin de la sécurité promise il y a quelques mois.",
    "angle": "Suivi IA"
+  },
+  {
+   "date": "2026-09-27",
+   "moment": "soir",
+   "emp": "fini laisse moins pokémon semaine tomber trop vite",
+   "texte": "Jev a fini Pokémon Red en moins d'une semaine. Ça va trop vite, je laisse tomber.",
+   "angle": "actualite"
+  },
+  {
+   "date": "2026-09-27",
+   "moment": "soir",
+   "emp": "2026 après boulot clarity croyait crypto effondre franchement mois propre régulation vraiment",
+   "texte": "Le Clarity Act s'effondre après des mois de boulot. Franchement, qui croyait vraiment à une régulation propre sur la crypto en 2026 ?",
+   "angle": "valeur"
+  },
+  {
+   "date": "2026-09-27",
+   "moment": "soir",
+   "emp": "boîte caméras encore essaie failles fatigue fixer flock lieu planquer",
+   "texte": "Encore une boîte de caméras qui essaie de planquer ses failles au lieu de les fixer. Flock me fatigue.",
+   "angle": "suivi"
   }
  ],
  "compteurs": {
-  "mails": 35,
-  "tweets": 118,
-  "jours": 17
+  "mails": 36,
+  "tweets": 121,
+  "jours": 18
  },
- "maj": "2026-09-26 22:05"
+ "maj": "2026-09-27 14:18"
 }
