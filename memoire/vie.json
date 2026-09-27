@@ -272,6 +272,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer l'échec du Clarity Act et un modèle d'IA battant Pokémon sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les tractations politiques d'Anthropic, les batteries de BYD et les agents d'OpenAI tout en renforçant légèrement MSFT.",
+     "gestes": []
     }
    ]
   }
@@ -1123,12 +1128,40 @@
    "emp": "boîte caméras encore essaie failles fatigue fixer flock lieu planquer",
    "texte": "Encore une boîte de caméras qui essaie de planquer ses failles au lieu de les fixer. Flock me fatigue.",
    "angle": "suivi"
+  },
+  {
+   "date": "2026-09-27",
+   "moment": "soir",
+   "emp": "amodei annonce après billet chez courir dernière dessus disais débat dîner effets",
+   "texte": "Amodei à dîner chez Trump pendant que la sécurité de l'IA fait débat. J'ai remis un petit billet sur MSFT, je disais la semaine dernière que je préférais renforcer là-dessus plutôt que de courir après les effets d'annonce.",
+   "angle": "portefeuille et actu"
+  },
+  {
+   "date": "2026-09-27",
+   "moment": "soir",
+   "emp": "annonce batteries cadence loin mais même presque prêtes quand regarde solides violente",
+   "texte": "BYD annonce ses batteries solides presque prêtes. Je regarde ça de loin mais la cadence est quand même violente.",
+   "angle": "observation constructeur"
+  },
+  {
+   "date": "2026-09-27",
+   "moment": "soir",
+   "emp": "agents avec bien bruteforce dans essaie méthodes openai site tombés",
+   "texte": "OpenAI qui essaie de bruteforce un site de l'ONU avec ses agents. On est tombés bien bas dans les méthodes.",
+   "angle": "commentaire IA"
+  },
+  {
+   "date": "2026-09-27",
+   "moment": "soir",
+   "emp": "change couche encore gemini matins modifs novembre quatre tous énième",
+   "texte": "Encore une énième couche de modifs sur Gemini en novembre. Ça change tous les quatre matins.",
+   "angle": "avis produit"
   }
  ],
  "compteurs": {
-  "mails": 36,
-  "tweets": 121,
+  "mails": 37,
+  "tweets": 125,
   "jours": 18
  },
- "maj": "2026-09-27 14:18"
+ "maj": "2026-09-27 22:20"
 }
