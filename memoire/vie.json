@@ -279,6 +279,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-29",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer le rachat de World Labs par AMD et le sell-off obligataire sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1156,12 +1166,33 @@
    "emp": "change couche encore gemini matins modifs novembre quatre tous énième",
    "texte": "Encore une énième couche de modifs sur Gemini en novembre. Ça change tous les quatre matins.",
    "angle": "avis produit"
+  },
+  {
+   "date": "2026-09-29",
+   "moment": "matin",
+   "emp": "annonce boîte claque encaisse huit marché milliards obligataire oublie pendant",
+   "texte": "Huit milliards sur la boîte de Fei-Fei Li. Pendant que le marché encaisse la claque obligataire et oublie l'annonce.",
+   "angle": "actualité tech"
+  },
+  {
+   "date": "2026-09-29",
+   "moment": "matin",
+   "emp": "beaucoup bloqué commence encore faire",
+   "texte": "Encore bloqué. Ça commence à faire beaucoup.",
+   "angle": "réaction courte"
+  },
+  {
+   "date": "2026-09-29",
+   "moment": "matin",
+   "emp": "alors annonces bougerais cette disais empilent mais secouer semaine taux voir",
+   "texte": "Je disais que je ne bougerais pas cette semaine, mais voir les taux secouer l'S&P alors que les annonces s'empilent…",
+   "angle": "portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 37,
-  "tweets": 125,
-  "jours": 18
+  "mails": 38,
+  "tweets": 128,
+  "jours": 19
  },
- "maj": "2026-09-27 22:20"
+ "maj": "2026-09-29 00:37"
 }
