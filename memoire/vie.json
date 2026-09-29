@@ -292,6 +292,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les rachats d'actions massifs de Nvidia et les atermoiements du Congrès sur l'IA sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les milliards de Tesla et les annonces politiques sur l'IA sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1213,12 +1218,33 @@
    "emp": "dans enfin face firefox lucidité milieu parle scepticisme",
    "texte": "Firefox parle de scepticisme face à l'IA. Enfin un peu de lucidité dans ce milieu.",
    "angle": "veille techno"
+  },
+  {
+   "date": "2026-09-29",
+   "moment": "soir",
+   "emp": "aligner cash crédit cybercab dernière disais encore manquaient milliards pour semaine tesla",
+   "texte": "Trente milliards de crédit pour Tesla. J'disais encore la semaine dernière qu'ils manquaient de cash pour tout aligner sur le Cybercab, visiblement si.",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-09-29",
+   "moment": "soir",
+   "emp": "accord moral sérieusement",
+   "texte": "Un accord moral. Sérieusement.",
+   "angle": "Point de vue"
+  },
+  {
+   "date": "2026-09-29",
+   "moment": "soir",
+   "emp": "accélère après avaler continue depuis fort labs mais matin près reste rien",
+   "texte": "AMD qui continue d'avaler World Labs après le reste. Ça s'accélère fort, je surveille ça de très près depuis ce matin mais je touche à rien.",
+   "angle": "Valeur suivie"
   }
  ],
  "compteurs": {
-  "mails": 39,
-  "tweets": 131,
+  "mails": 40,
+  "tweets": 134,
   "jours": 19
  },
- "maj": "2026-09-29 15:12"
+ "maj": "2026-09-29 23:30"
 }
