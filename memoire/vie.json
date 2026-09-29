@@ -287,6 +287,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer le rachat de World Labs par AMD et le sell-off obligataire sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les rachats d'actions massifs de Nvidia et les atermoiements du Congrès sur l'IA sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1187,12 +1192,33 @@
    "emp": "alors annonces bougerais cette disais empilent mais secouer semaine taux voir",
    "texte": "Je disais que je ne bougerais pas cette semaine, mais voir les taux secouer l'S&P alors que les annonces s'empilent…",
    "angle": "portefeuille"
+  },
+  {
+   "date": "2026-09-29",
+   "moment": "soir",
+   "emp": "actions bien bradé croire huang jensen masse nvidia propres rachète titre trouve",
+   "texte": "Nvidia rachète ses propres actions en masse. Jensen Huang trouve son titre bradé, je veux bien le croire.",
+   "angle": "action Nvidia"
+  },
+  {
+   "date": "2026-09-29",
+   "moment": "soir",
+   "emp": "comment congrès espère finit fous garde resteront sait volontaires",
+   "texte": "Le Congrès espère que les garde-fous sur l'IA resteront volontaires. On sait comment ça finit.",
+   "angle": "régulation IA"
+  },
+  {
+   "date": "2026-09-29",
+   "moment": "soir",
+   "emp": "dans enfin face firefox lucidité milieu parle scepticisme",
+   "texte": "Firefox parle de scepticisme face à l'IA. Enfin un peu de lucidité dans ce milieu.",
+   "angle": "veille techno"
   }
  ],
  "compteurs": {
-  "mails": 38,
-  "tweets": 128,
+  "mails": 39,
+  "tweets": 131,
   "jours": 19
  },
- "maj": "2026-09-29 00:37"
+ "maj": "2026-09-29 15:12"
 }
