@@ -307,6 +307,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer la chute du coût de l'IA et l'offensive d'OpenAI sur les agents sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les bons chiffres de Micron et la sortie de Gemini sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1270,12 +1275,40 @@
    "emp": "apple face iphone pour sous écran",
    "texte": "Apple et son Face ID sous l'écran pour l'iPhone 18 Pro. Bon.",
    "angle": "Remarque lointaine"
+  },
+  {
+   "date": "2026-09-30",
+   "moment": "soir",
+   "emp": "demande disais faiblit fait hier micron mieux prévisions prévu",
+   "texte": "Micron fait mieux que prévu sur ses prévisions. Je le disais hier, la demande ne faiblit pas.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-09-30",
+   "moment": "soir",
+   "emp": "enfin gemini google nouveau sort",
+   "texte": "Google sort enfin son nouveau Gemini. Bon.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-09-30",
+   "moment": "soir",
+   "emp": "aurais dernière graphiques grâce propres prévisions relève réseau semaine écouter",
+   "texte": "HPE relève ses prévisions grâce au réseau. J'aurais dû écouter mes propres graphiques la semaine dernière.",
+   "angle": "remarque portefeuille"
+  },
+  {
+   "date": "2026-09-30",
+   "moment": "soir",
+   "emp": "encore engineering flow laisse millions perplexe valorisation",
+   "texte": "Flow Engineering à 750 millions. Encore une valorisation d'IA qui me laisse perplexe.",
+   "angle": "suivi long terme"
   }
  ],
  "compteurs": {
-  "mails": 41,
-  "tweets": 137,
+  "mails": 42,
+  "tweets": 141,
   "jours": 20
  },
- "maj": "2026-09-30 14:53"
+ "maj": "2026-09-30 23:31"
 }
