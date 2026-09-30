@@ -299,6 +299,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-09-30",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la chute du coût de l'IA et l'offensive d'OpenAI sur les agents sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1239,12 +1249,33 @@
    "emp": "accélère après avaler continue depuis fort labs mais matin près reste rien",
    "texte": "AMD qui continue d'avaler World Labs après le reste. Ça s'accélère fort, je surveille ça de très près depuis ce matin mais je touche à rien.",
    "angle": "Valeur suivie"
+  },
+  {
+   "date": "2026-09-30",
+   "moment": "soir",
+   "emp": "agents allait clones disais dots finir guerre lance meta openai perso pour",
+   "texte": "OpenAI lance Dots pour rattraper Meta sur les agents perso. Je disais vendredi que ça allait finir en guerre des clones, on y est.",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-09-30",
+   "moment": "soir",
+   "emp": "coût depuis effondre hardware mois plus près prévu puces regarde selon très",
+   "texte": "Le coût des puces IA s'effondre plus vite que prévu selon Tom's Hardware. Je regarde ça de très près depuis des mois.",
+   "angle": "Point de vue valeur"
+  },
+  {
+   "date": "2026-09-30",
+   "moment": "soir",
+   "emp": "apple face iphone pour sous écran",
+   "texte": "Apple et son Face ID sous l'écran pour l'iPhone 18 Pro. Bon.",
+   "angle": "Remarque lointaine"
   }
  ],
  "compteurs": {
-  "mails": 40,
-  "tweets": 134,
-  "jours": 19
+  "mails": 41,
+  "tweets": 137,
+  "jours": 20
  },
- "maj": "2026-09-29 23:30"
+ "maj": "2026-09-30 14:53"
 }
