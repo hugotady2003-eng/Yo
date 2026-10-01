@@ -314,6 +314,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-01",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer l'interdiction des patrons IA en Californie, le nouveau Gemini et les stablecoins sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1303,12 +1313,33 @@
    "emp": "encore engineering flow laisse millions perplexe valorisation",
    "texte": "Flow Engineering à 750 millions. Encore une valorisation d'IA qui me laisse perplexe.",
    "angle": "suivi long terme"
+  },
+  {
+   "date": "2026-10-01",
+   "moment": "soir",
+   "emp": "après avoir bosses californie disais fois hier interdit newsom politique première robo",
+   "texte": "Newsom qui interdit les « robo bosses » en Californie après avoir veté le truc la première fois. Je disais hier que la politique suivait pas, bon ben voilà.",
+   "angle": "Activité politique"
+  },
+  {
+   "date": "2026-10-01",
+   "moment": "soir",
+   "emp": "argon encore gemini google modèle rien sauf sort touche",
+   "texte": "Google sort Gemini 4 Argon. Encore un modèle. Sauf que je ne touche à rien.",
+   "angle": "Sortie IA"
+  },
+  {
+   "date": "2026-10-01",
+   "moment": "soir",
+   "emp": "bouge cette histoire latam liquidité stablecoin toujours vite",
+   "texte": "Toujours cette histoire de liquidité stablecoin en LATAM. Ça bouge vite.",
+   "angle": "Crypto"
   }
  ],
  "compteurs": {
-  "mails": 42,
-  "tweets": 141,
-  "jours": 20
+  "mails": 43,
+  "tweets": 144,
+  "jours": 21
  },
- "maj": "2026-09-30 23:31"
+ "maj": "2026-10-01 15:44"
 }
