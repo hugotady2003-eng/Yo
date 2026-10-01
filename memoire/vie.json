@@ -322,6 +322,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer l'interdiction des patrons IA en Californie, le nouveau Gemini et les stablecoins sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les levées massives dans la sécurité des agents IA et les failles de sécurité d'Apple sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1334,12 +1339,33 @@
    "emp": "bouge cette histoire latam liquidité stablecoin toujours vite",
    "texte": "Toujours cette histoire de liquidité stablecoin en LATAM. Ça bouge vite.",
    "angle": "Crypto"
+  },
+  {
+   "date": "2026-10-01",
+   "moment": "soir",
+   "emp": "agents alors armadin arrive autonomes avais avec dernière devient essaims goulet infrastructure",
+   "texte": "Armadin lève 255 millions à 2,5 milliards alors que Kevin Mandia arrive à peine avec ses essaims d'agents. La sécurité des agents autonomes devient le nouveau goulet d'étranglement de toute l'infrastructure. J'avais prévenu la semaine dernière.",
+   "angle": "sécurité agents"
+  },
+  {
+   "date": "2026-10-01",
+   "moment": "soir",
+   "emp": "apple boîte contourner forces graykey inactivity noire ordre peut reboot redoutable reste",
+   "texte": "GrayKey peut contourner l'Inactivity Reboot d'Apple. S, la boîte noire des forces de l'ordre reste redoutable.",
+   "angle": "cybersécurité mobile"
+  },
+  {
+   "date": "2026-10-01",
+   "moment": "soir",
+   "emp": "accords boîtes chine contrebande discrets encore histoires neuf nvidia puces rien soleil",
+   "texte": "Encore des histoires de contrebande de puces Nvidia vers la Chine et des accords discrets par des boîtes étatiques là-bas. Rien de neuf sous le soleil.",
+   "angle": "géopolitique puces"
   }
  ],
  "compteurs": {
-  "mails": 43,
-  "tweets": 144,
+  "mails": 44,
+  "tweets": 147,
   "jours": 21
  },
- "maj": "2026-10-01 15:44"
+ "maj": "2026-10-01 23:57"
 }
