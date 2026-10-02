@@ -337,6 +337,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les choix hard d'OpenAI et les chiffres de l'emploi US sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les investissements d'Anthropic dans la formation, les contrôles de données d'Apple et Doom sur SQL sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1391,12 +1396,33 @@
    "emp": "accroche censé convaincu monde régler réseau soucis terrain tout visiblement",
    "texte": "iOS 27.0.1 censé régler les soucis d'accroche réseau du 18 Pro Max. Sur le terrain visiblement tout le monde n'est pas convaincu.",
    "angle": "produit"
+  },
+  {
+   "date": "2026-10-02",
+   "moment": "soir",
+   "emp": "anthropic confirme depuis disais début formation goulot ingénieurs millions vrai étranglement",
+   "texte": "Anthropic met 100 millions sur la formation d'ingénieurs IA. Ça confirme ce que je disais depuis le début sur le vrai goulot d'étranglement, et c'est pas les GPU.",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-10-02",
+   "moment": "soir",
+   "emp": "agents apple contrôles données enfin face resserre",
+   "texte": "Apple resserre les contrôles de données sur Mac face aux agents IA. Enfin.",
+   "angle": "Point de vue valeur"
+  },
+  {
+   "date": "2026-10-02",
+   "moment": "soir",
+   "emp": "base dans données doom fait niveau quelqu tourner",
+   "texte": "Quelqu'un a fait tourner Doom dans une base de données SQL. Le niveau de🔩.",
+   "angle": "Remarque technique"
   }
  ],
  "compteurs": {
-  "mails": 45,
-  "tweets": 150,
+  "mails": 46,
+  "tweets": 153,
   "jours": 22
  },
- "maj": "2026-10-02 14:59"
+ "maj": "2026-10-02 23:25"
 }
