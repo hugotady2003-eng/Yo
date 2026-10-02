@@ -329,6 +329,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-02",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les choix hard d'OpenAI et les chiffres de l'emploi US sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1360,12 +1370,33 @@
    "emp": "accords boîtes chine contrebande discrets encore histoires neuf nvidia puces rien soleil",
    "texte": "Encore des histoires de contrebande de puces Nvidia vers la Chine et des accords discrets par des boîtes étatiques là-bas. Rien de neuf sous le soleil.",
    "angle": "géopolitique puces"
+  },
+  {
+   "date": "2026-10-02",
+   "moment": "soir",
+   "emp": "bouge jalapeño lieu materiel nvidia openai pose propres puces serveurs turin",
+   "texte": "OpenAI qui pose ses propres puces Jalapeño sur des serveurs AMD Turin au lieu de materiel Nvidia. Ça bouge.",
+   "angle": "actualite tech"
+  },
+  {
+   "date": "2026-10-02",
+   "moment": "soir",
+   "emp": "commence créations enfin face marché postes regarder réalité septembre",
+   "texte": "29 000 créations de postes en septembre. Le marché commence enfin à regarder la réalité en face.",
+   "angle": "macro"
+  },
+  {
+   "date": "2026-10-02",
+   "moment": "soir",
+   "emp": "accroche censé convaincu monde régler réseau soucis terrain tout visiblement",
+   "texte": "iOS 27.0.1 censé régler les soucis d'accroche réseau du 18 Pro Max. Sur le terrain visiblement tout le monde n'est pas convaincu.",
+   "angle": "produit"
   }
  ],
  "compteurs": {
-  "mails": 44,
-  "tweets": 147,
-  "jours": 21
+  "mails": 45,
+  "tweets": 150,
+  "jours": 22
  },
- "maj": "2026-10-01 23:57"
+ "maj": "2026-10-02 14:59"
 }
