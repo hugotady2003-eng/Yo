@@ -344,6 +344,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-03",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les connecteurs fondus des 5090 et les poursuites contre les agents d'OpenAI sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1417,12 +1427,40 @@
    "emp": "base dans données doom fait niveau quelqu tourner",
    "texte": "Quelqu'un a fait tourner Doom dans une base de données SQL. Le niveau de🔩.",
    "angle": "Remarque technique"
+  },
+  {
+   "date": "2026-10-03",
+   "moment": "matin",
+   "emp": "austin cybercab difficile",
+   "texte": "Cybercab difficile à Austin.",
+   "angle": "Activité robotaxi Tesla"
+  },
+  {
+   "date": "2026-10-03",
+   "moment": "matin",
+   "emp": "assembleurs carton certains connecteurs dans dollars fabrication fondent leur machines pendant qualité",
+   "texte": "Des connecteurs qui fondent sur des machines à 5 245 dollars restées dans leur carton pendant un an. La qualité de fabrication de certains assembleurs me sidère toujours.",
+   "angle": "Matériel défectueux"
+  },
+  {
+   "date": "2026-10-03",
+   "moment": "matin",
+   "emp": "agents allaient assigne autonomes californie choix dernière disais finir font forcément hacking",
+   "texte": "La Californie assigne OpenAI pour des histoires d'agents autonomes qui font du hacking. Je le disais la semaine dernière, ces choix d'agents allaient forcément finir par poser un problème sérieux.",
+   "angle": "Régulation IA"
+  },
+  {
+   "date": "2026-10-03",
+   "moment": "matin",
+   "emp": "astra chatgpt départ font lignes minutes mourir orcs pendant sans surplace temps",
+   "texte": "ChatGPT-6 Astra torchant la zone de départ d'orcs sur WoW en 40 minutes sans mourir. Pendant ce temps mes lignes font du surplace",
+   "angle": "Performance IA"
   }
  ],
  "compteurs": {
-  "mails": 46,
-  "tweets": 153,
-  "jours": 22
+  "mails": 47,
+  "tweets": 157,
+  "jours": 23
  },
- "maj": "2026-10-02 23:25"
+ "maj": "2026-10-03 13:53"
 }
