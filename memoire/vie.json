@@ -352,6 +352,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les connecteurs fondus des 5090 et les poursuites contre les agents d'OpenAI sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les reculs d'Amazon sur ses data centers et l'affaire Flock sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1455,12 +1460,40 @@
    "emp": "astra chatgpt départ font lignes minutes mourir orcs pendant sans surplace temps",
    "texte": "ChatGPT-6 Astra torchant la zone de départ d'orcs sur WoW en 40 minutes sans mourir. Pendant ce temps mes lignes font du surplace",
    "angle": "Performance IA"
+  },
+  {
+   "date": "2026-10-03",
+   "moment": "soir",
+   "emp": "années capcom depuis douce déjà font franchement",
+   "texte": "Capcom et l'IA. Franchement, ils le font déjà en douce depuis des années.",
+   "angle": "réaction brute"
+  },
+  {
+   "date": "2026-10-03",
+   "moment": "soir",
+   "emp": "autre avec coincer commence data encore flock histoires indiscriminée jour juge masse",
+   "texte": "Le juge qui qualifie Flock de surveillance de masse indiscriminée. J'en parlais encore l'autre jour avec les histoires de data, ça commence à coincer sec au tribunal.",
+   "angle": "suivi long terme"
+  },
+  {
+   "date": "2026-10-03",
+   "moment": "soir",
+   "emp": "abandonne amazon bougent bouger cause centers data finit gens locale pression quand",
+   "texte": "Amazon abandonne les NDA sur ses data centers à cause de la pression locale. Quand les gens se bougent vraiment, ça finit par bouger.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-03",
+   "moment": "soir",
+   "emp": "apollo milt parti windler",
+   "texte": "Milt Windler est parti à 94 ans. Apollo 13.",
+   "angle": "hommage court"
   }
  ],
  "compteurs": {
-  "mails": 47,
-  "tweets": 157,
+  "mails": 48,
+  "tweets": 161,
   "jours": 23
  },
- "maj": "2026-10-03 13:53"
+ "maj": "2026-10-03 22:07"
 }
