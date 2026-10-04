@@ -367,6 +367,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les data centers camouflés de Microsoft et les dérives des tests d'IA sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les auditions des géants de l'IA à New York, les rumeurs sur le prochain MacBook et le cirque politique autour de la sécurité sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1519,12 +1524,33 @@
    "emp": "macbook",
    "texte": "Le MacBook Air M5 à -200$.",
    "angle": "veille marché"
+  },
+  {
+   "date": "2026-10-04",
+   "moment": "soir",
+   "emp": "casse cette conseil devant drôle expliquer google histoires jour locaux meta municipal",
+   "texte": "Google, OpenAI et Meta au casse-pipe devant le conseil municipal de New York pour des histoires de whistleblowers. Sincèrement, je ne pensais pas voir un jour des technos de cette taille s'expliquer devant des élus locaux. Drôle d'époque.",
+   "angle": "audition politique"
+  },
+  {
+   "date": "2026-10-04",
+   "moment": "soir",
+   "emp": "autour bruits empêche fonctionnalités frôle garder iphone overdose pour prochain regardais rien",
+   "texte": "Je regardais les bruits autour des fonctionnalités du prochain iPhone 18 Pro. Ça ne m'empêche pas de garder mon vieux XR. On frôle l'overdose de specs pour rien.",
+   "angle": "avis conso"
+  },
+  {
+   "date": "2026-10-04",
+   "moment": "soir",
+   "emp": "aujourd contraignant dont hier intelligence justement monde neuf pacte parle reparlais rien",
+   "texte": "Le pacte de sécurité non contraignant sur la super intelligence dont tout le monde parle aujourd'hui... J'en reparlais hier justement. Rien de neuf sous le soleil.",
+   "angle": "rappel veille"
   }
  ],
  "compteurs": {
-  "mails": 49,
-  "tweets": 164,
+  "mails": 50,
+  "tweets": 167,
   "jours": 24
  },
- "maj": "2026-10-04 14:44"
+ "maj": "2026-10-04 22:22"
 }
