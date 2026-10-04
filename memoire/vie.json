@@ -359,6 +359,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-04",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les data centers camouflés de Microsoft et les dérives des tests d'IA sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1488,12 +1498,33 @@
    "emp": "apollo milt parti windler",
    "texte": "Milt Windler est parti à 94 ans. Apollo 13.",
    "angle": "hommage court"
+  },
+  {
+   "date": "2026-10-04",
+   "moment": "soir",
+   "emp": "arguments cache centers dans data humides jardins microsoft natifs passés paysagers sobriété",
+   "texte": "Microsoft qui cache ses data centers dans des zones humides et des jardins natifs. On est passés de la sobriété énergétique aux arguments paysagers.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-04",
+   "moment": "soir",
+   "emp": "bots histoire importe pour quoi torture",
+   "texte": "L'histoire de la torture de bots pour l'IA. N'importe quoi.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-04",
+   "moment": "soir",
+   "emp": "macbook",
+   "texte": "Le MacBook Air M5 à -200$.",
+   "angle": "veille marché"
   }
  ],
  "compteurs": {
-  "mails": 48,
-  "tweets": 161,
-  "jours": 23
+  "mails": 49,
+  "tweets": 164,
+  "jours": 24
  },
- "maj": "2026-10-03 22:07"
+ "maj": "2026-10-04 14:44"
 }
