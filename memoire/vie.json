@@ -374,6 +374,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-06",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les protocoles agentiques et la fuite de données d'Oracle sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1545,12 +1555,33 @@
    "emp": "aujourd contraignant dont hier intelligence justement monde neuf pacte parle reparlais rien",
    "texte": "Le pacte de sécurité non contraignant sur la super intelligence dont tout le monde parle aujourd'hui... J'en reparlais hier justement. Rien de neuf sous le soleil.",
    "angle": "rappel veille"
+  },
+  {
+   "date": "2026-10-06",
+   "moment": "matin",
+   "emp": "agent comms dans docs dont exactement flippant mais nulle parle part personne",
+   "texte": "MCP pour les comms agent à agent. Ça sort de nulle part dans les docs mais c'est exactement le protocole le plus flippant dont personne ne parle.",
+   "angle": "technologie et protocole"
+  },
+  {
+   "date": "2026-10-06",
+   "moment": "matin",
+   "emp": "2026 chez données dossiers encore fait franchement garde millions oracle piquer santé",
+   "texte": "Oracle qui se fait encore piquer 20 millions de dossiers santé. Franchement, qui garde ses données chez eux en 2026 ?",
+   "angle": "actualité sécurité"
+  },
+  {
+   "date": "2026-10-06",
+   "moment": "matin",
+   "emp": "enfer gemini google mère prévenir retard terre veut",
+   "texte": "Google qui veut prévenir ta mère que t'es en retard via Gemini. L'enfer sur terre.",
+   "angle": "produit grand public"
   }
  ],
  "compteurs": {
-  "mails": 50,
-  "tweets": 167,
-  "jours": 24
+  "mails": 51,
+  "tweets": 170,
+  "jours": 25
  },
- "maj": "2026-10-04 22:22"
+ "maj": "2026-10-06 01:18"
 }
