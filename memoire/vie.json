@@ -387,6 +387,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les contrats de défense d'Anduril et la fin de la gratuité chez Google sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les sorties d'Apple, les alertes de Taleb et les mouvements chez Boston Dynamics sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1602,12 +1607,33 @@
    "emp": "aimerais avec intéresse mais partybox rien sort tech voir voisin watts être",
    "texte": "JBL sort sa PartyBox à 1 500 watts. Rien à voir avec la tech qui m'intéresse, mais j'aimerais pas être le voisin.",
    "angle": "Angle décalé"
+  },
+  {
+   "date": "2026-10-06",
+   "moment": "soir",
+   "emp": "actions change habituel investisseurs nassim naïfs piège qualifie taleb traite",
+   "texte": "Nassim Taleb qui traite les investisseurs IA de naïfs et qualifie les actions de piège. Bon, ça change un peu du chœur habituel.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-06",
+   "moment": "soir",
+   "emp": "apple coin dans mets pour résultats",
+   "texte": "Nov 2 pour les résultats d'Apple. Je le mets dans mon coin.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-10-06",
+   "moment": "soir",
+   "emp": "alexa amazon boston chercher curieux dynamics pari patron pour",
+   "texte": "Boston Dynamics qui va chercher un ex d'Amazon Alexa pour patron. Pari curieux.",
+   "angle": "remarque suivi"
   }
  ],
  "compteurs": {
-  "mails": 52,
-  "tweets": 173,
+  "mails": 53,
+  "tweets": 176,
   "jours": 25
  },
- "maj": "2026-10-06 15:30"
+ "maj": "2026-10-06 23:50"
 }
