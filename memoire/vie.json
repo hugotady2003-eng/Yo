@@ -382,6 +382,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les protocoles agentiques et la fuite de données d'Oracle sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les contrats de défense d'Anduril et la fin de la gratuité chez Google sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1576,12 +1581,33 @@
    "emp": "enfer gemini google mère prévenir retard terre veut",
    "texte": "Google qui veut prévenir ta mère que t'es en retard via Gemini. L'enfer sur terre.",
    "angle": "produit grand public"
+  },
+  {
+   "date": "2026-10-06",
+   "moment": "soir",
+   "emp": "anduril bouge chantiers décroche milliards navals navy pendant portefeuille regarde temps toujours",
+   "texte": "Anduril décroche 2,9 milliards sur les chantiers navals de la Navy. Pendant ce temps-là, je regarde mon portefeuille qui ne bouge toujours pas.",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-10-06",
+   "moment": "soir",
+   "emp": "accès disais faisait flash gemini google gratuit gratuité moment pouvait supprime tenir",
+   "texte": "Google supprime l'accès gratuit à Gemini Flash et Pro. Ça faisait un moment que je le disais, la gratuité totale ne pouvait pas tenir.",
+   "angle": "Point de vue valeur"
+  },
+  {
+   "date": "2026-10-06",
+   "moment": "soir",
+   "emp": "aimerais avec intéresse mais partybox rien sort tech voir voisin watts être",
+   "texte": "JBL sort sa PartyBox à 1 500 watts. Rien à voir avec la tech qui m'intéresse, mais j'aimerais pas être le voisin.",
+   "angle": "Angle décalé"
   }
  ],
  "compteurs": {
-  "mails": 51,
-  "tweets": 170,
+  "mails": 52,
+  "tweets": 173,
   "jours": 25
  },
- "maj": "2026-10-06 01:18"
+ "maj": "2026-10-06 15:30"
 }
