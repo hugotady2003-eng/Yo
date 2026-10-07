@@ -404,6 +404,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-08",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les clones open source contre Adobe et les notes de réparabilité d'Apple sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1659,12 +1669,33 @@
    "emp": "1279 aura balles connectées convaincu lunettes toujours xreal",
    "texte": "XREAL Aura à 1279 balles. Toujours pas convaincu par les lunettes connectées.",
    "angle": "Hardware grand public"
+  },
+  {
+   "date": "2026-10-08",
+   "moment": "matin",
+   "emp": "adobe bougeait clones dans directement disais décrète historique mais modèle mort open",
+   "texte": "Adobe visé par des clones open source par un dev qui décrète que le software est mort. Je disais vendredi que l'écosystème bougeait vite, mais là on tape directement dans le modèle historique.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-08",
+   "moment": "matin",
+   "emp": "apple confirme design encore fermé leur mais nouveau pensais pour rien réparabilité",
+   "texte": "4/10 pour la réparabilité sur l'Apple Watch Series 12. Rien de nouveau sous le soleil, mais ça confirme encore ce que je pensais de leur design fermé.",
+   "angle": "valeur tech"
+  },
+  {
+   "date": "2026-10-08",
+   "moment": "matin",
+   "emp": "distribue musk médailles nadella pathétique science sommet trump",
+   "texte": "Trump qui distribue des médailles à Musk et Nadella au sommet de la science. Pathétique.",
+   "angle": "point de vue"
   }
  ],
  "compteurs": {
-  "mails": 54,
-  "tweets": 179,
-  "jours": 26
+  "mails": 55,
+  "tweets": 182,
+  "jours": 27
  },
- "maj": "2026-10-07 15:43"
+ "maj": "2026-10-08 00:12"
 }
