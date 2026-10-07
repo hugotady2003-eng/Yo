@@ -394,6 +394,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-07",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les puces quantiques américaines et les avancées d'OpenAI en mathématiques sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1628,12 +1638,33 @@
    "emp": "alexa amazon boston chercher curieux dynamics pari patron pour",
    "texte": "Boston Dynamics qui va chercher un ex d'Amazon Alexa pour patron. Pari curieux.",
    "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-10-07",
+   "moment": "soir",
+   "emp": "dans dernier disais fabrication forcément goût injecté longueur milliard puces quantiques traînait",
+   "texte": "1 milliard injecté par les US dans la fabrication de puces quantiques. Je disais l'an dernier qu'on y viendrait forcément, ça traînait un peu trop en longueur à mon goût.",
+   "angle": "Actualité tech et géopolitique"
+  },
+  {
+   "date": "2026-10-07",
+   "moment": "soir",
+   "emp": "bombarde boucle encore maths openai pendant plantent scripts simple temps",
+   "texte": "OpenAI qui bombarde encore sur les maths. Pendant ce temps mes scripts plantent sur une simple boucle for.",
+   "angle": "Dérision et IA"
+  },
+  {
+   "date": "2026-10-07",
+   "moment": "soir",
+   "emp": "1279 aura balles connectées convaincu lunettes toujours xreal",
+   "texte": "XREAL Aura à 1279 balles. Toujours pas convaincu par les lunettes connectées.",
+   "angle": "Hardware grand public"
   }
  ],
  "compteurs": {
-  "mails": 53,
-  "tweets": 176,
-  "jours": 25
+  "mails": 54,
+  "tweets": 179,
+  "jours": 26
  },
- "maj": "2026-10-06 23:50"
+ "maj": "2026-10-07 15:43"
 }
