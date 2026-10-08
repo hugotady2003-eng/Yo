@@ -412,6 +412,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les clones open source contre Adobe et les notes de réparabilité d'Apple sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les tablettes d'Amazon, le nouvel agent de Google et la tokenisation chez Fidelity sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1690,12 +1695,40 @@
    "emp": "distribue musk médailles nadella pathétique science sommet trump",
    "texte": "Trump qui distribue des médailles à Musk et Nadella au sommet de la science. Pathétique.",
    "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-08",
+   "moment": "soir",
+   "emp": "attendais bref clone concurrent dans encore finir google granola local notion onglet",
+   "texte": "Google qui sort un clone local de Granola. Sauf que j'attendais plutôt un vrai concurrent à Notion. Bref, encore un outil de plus qui va finir dans un onglet oublié.",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-10-08",
+   "moment": "soir",
+   "emp": "abandonne amazon annonce cher cost donc fait gamme grand logique mais matos",
+   "texte": "Amazon abandonne le low cost sur ses tablettes pour viser plus cher. Logique. Mais bon, ça fait trois ans que j'annonce la mort du matos grand public bas de gamme, donc je savoure un peu.",
+   "angle": "Point de vue valeur"
+  },
+  {
+   "date": "2026-10-08",
+   "moment": "soir",
+   "emp": "encore fidelity heureux persiste tokenisation",
+   "texte": "Fidelity persiste sur la tokenisation. Encore heureux.",
+   "angle": "Remarque suivie"
+  },
+  {
+   "date": "2026-10-08",
+   "moment": "soir",
+   "emp": "annonce cache dormira fuites google journée mieux passé regarder rien sans toucher",
+   "texte": "J'ai passé la journée à regarder les fuites de GTA VI et la énième annonce de Google Workspace sans rien toucher. Mon cache dormira mieux que moi.",
+   "angle": "Geste portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 55,
-  "tweets": 182,
+  "mails": 56,
+  "tweets": 186,
   "jours": 27
  },
- "maj": "2026-10-08 00:12"
+ "maj": "2026-10-08 15:51"
 }
