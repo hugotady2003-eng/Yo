@@ -419,6 +419,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-09",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les data centers spatiaux de Baiju Bhatt et la chute des télécoms sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1723,12 +1733,33 @@
    "emp": "annonce cache dormira fuites google journée mieux passé regarder rien sans toucher",
    "texte": "J'ai passé la journée à regarder les fuites de GTA VI et la énième annonce de Google Workspace sans rien toucher. Mon cache dormira mieux que moi.",
    "angle": "Geste portefeuille"
+  },
+  {
+   "date": "2026-10-09",
+   "moment": "matin",
+   "emp": "aucune centers cofondateur dans data espace franchement limite plus relance ridicule robinhood",
+   "texte": "Des data centers dans l'espace. Le cofondateur de Robinhood qui relance un truc. Franchement, on n'a plus aucune limite dans le ridicule.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-09",
+   "moment": "matin",
+   "emp": "avais cause claque dernière estimait impact licence prend rachats semaine sous spacex",
+   "texte": "AT&T qui prend une claque à cause de la licence de SpaceX. J'avais dit la semaine dernière qu'on sous-estimait l'impact des rachats de spectre.",
+   "angle": "mémoire boursière"
+  },
+  {
+   "date": "2026-10-09",
+   "moment": "matin",
+   "emp": "annonce continue livraisons trimestre troisième étonner",
+   "texte": "IDC annonce -20 % sur les livraisons de PC au troisième trimestre. Et ça continue de s'étonner.",
+   "angle": "point de vue valeur"
   }
  ],
  "compteurs": {
-  "mails": 56,
-  "tweets": 186,
-  "jours": 27
+  "mails": 57,
+  "tweets": 189,
+  "jours": 28
  },
- "maj": "2026-10-08 15:51"
+ "maj": "2026-10-09 00:19"
 }
