@@ -427,6 +427,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les data centers spatiaux de Baiju Bhatt et la chute des télécoms sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les manœuvres publicitaires de Meta, les parts de marché d'Apple et la folie du crédit sur marge sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1754,12 +1759,40 @@
    "emp": "annonce continue livraisons trimestre troisième étonner",
    "texte": "IDC annonce -20 % sur les livraisons de PC au troisième trimestre. Et ça continue de s'étonner.",
    "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-10-09",
+   "moment": "soir",
+   "emp": "logique meta pubs tiktok vire",
+   "texte": "Meta vire les pubs TikTok. Logique.",
+   "angle": "réaction directe"
+  },
+  {
+   "date": "2026-10-09",
+   "moment": "soir",
+   "emp": "2021 bêtises chambre depuis emprunts espère explosent faites finira font gamins juste",
+   "texte": "Des gamins qui font du levier depuis la chambre de leur mère pendant que les emprunts de titres explosent. Ça me rappelle des bêtises que j'ai faites en 2021, j'espère juste que ça finira pas pareil pour eux.",
+   "angle": "comportement marché"
+  },
+  {
+   "date": "2026-10-09",
+   "moment": "soir",
+   "emp": "apple autres baisse dernière disais déjà encaisse encore grapille leur mais marché",
+   "texte": "Le marché du PC baisse mais Apple grapille encore des parts. Je le disais déjà la semaine dernière, leur modèle encaisse mieux que les autres quand ça tangue.",
+   "angle": "valeur suivie"
+  },
+  {
+   "date": "2026-10-09",
+   "moment": "soir",
+   "emp": "battre emprunt encore failli faire finalement journée lignes puis records rien titres",
+   "texte": "J'ai failli toucher à mes lignes en voyant l'emprunt de titres battre des records, et puis finalement non. Encore une journée à ne rien faire.",
+   "angle": "portefeuille vide"
   }
  ],
  "compteurs": {
-  "mails": 57,
-  "tweets": 189,
+  "mails": 58,
+  "tweets": 193,
   "jours": 28
  },
- "maj": "2026-10-09 00:19"
+ "maj": "2026-10-09 15:36"
 }
