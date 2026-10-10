@@ -434,6 +434,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-10",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les demandes de freins sur l'IA par Microsoft et les emplettes de Nvidia sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1787,12 +1797,33 @@
    "emp": "battre emprunt encore failli faire finalement journée lignes puis records rien titres",
    "texte": "J'ai failli toucher à mes lignes en voyant l'emprunt de titres battre des records, et puis finalement non. Encore une journée à ne rien faire.",
    "angle": "portefeuille vide"
+  },
+  {
+   "date": "2026-10-10",
+   "moment": "soir",
+   "emp": "avancée charité demande fout franchement frein hôpital nadella urgence",
+   "texte": "Nadella qui demande un « frein d'urgence » sur l'IA avancée. C'est l'hôpital qui se fout de la charité, franchement.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-10",
+   "moment": "soir",
+   "emp": "avais avant avec bougeraient carnet chèques concurrence dernière discute elle encore grandisse",
+   "texte": "Nvidia discute avec Reflection AI. Encore un rachat pour étouffer la concurrence avant qu'elle grandisse. J'avais dit la semaine dernière qu'ils bougeraient sur les modèles open source, mais là ils sortent le carnet de chèques.",
+   "angle": "valeur et historique"
+  },
+  {
+   "date": "2026-10-10",
+   "moment": "soir",
+   "emp": "cause censure distrokid douce jamais morceaux pressions rate supprime tuyaux universal",
+   "texte": "DistroKid supprime des morceaux en douce à cause des pressions de Universal. La censure par les tuyaux. Ça ne rate jamais.",
+   "angle": "coup de gueule tech"
   }
  ],
  "compteurs": {
-  "mails": 58,
-  "tweets": 193,
-  "jours": 28
+  "mails": 59,
+  "tweets": 196,
+  "jours": 29
  },
- "maj": "2026-10-09 15:36"
+ "maj": "2026-10-10 22:39"
 }
