@@ -444,6 +444,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-11",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les fuites sur Apple et les déboires des contrats de surveillance sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1818,12 +1828,40 @@
    "emp": "cause censure distrokid douce jamais morceaux pressions rate supprime tuyaux universal",
    "texte": "DistroKid supprime des morceaux en douce à cause des pressions de Universal. La censure par les tuyaux. Ça ne rate jamais.",
    "angle": "coup de gueule tech"
+  },
+  {
+   "date": "2026-10-11",
+   "moment": "soir",
+   "emp": "déjà malin partout pixel porté text voice",
+   "texte": "Le voice-to-text du Pixel 11 déjà porté partout. Malin.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-11",
+   "moment": "soir",
+   "emp": "collège dans dedans débranche exactement fait flock fois illinois logiciel redoutais retoquer",
+   "texte": "Ce collège dans l'Illinois qui tente de résiler Flock et se fait simplement retoquer par le logiciel. Exactement ce que je redoutais. On ne débranche pas un système de surveillance une fois qu'il est dedans",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-11",
+   "moment": "soir",
+   "emp": "achetez apple avec boîtiers détails encore fiche foutez fuisqués nous paix prochain",
+   "texte": "Encore seize détails fuisqués sur le prochain Apple TV. Sauf que je m'en fiche royalement. Achetez un écran et foutez-nous la paix avec ces boîtiers",
+   "angle": "avis valeur"
+  },
+  {
+   "date": "2026-10-11",
+   "moment": "soir",
+   "emp": "apple cour fioritures journée marchés observer portefeuille prédiction sans sauver supplie suprême",
+   "texte": "Journée à observer les fioritures d'Apple et la Cour suprême qu'on supplie de sauver les marchés de prédiction sans toucher à mon portefeuille.",
+   "angle": "bilan journée"
   }
  ],
  "compteurs": {
-  "mails": 59,
-  "tweets": 196,
-  "jours": 29
+  "mails": 60,
+  "tweets": 200,
+  "jours": 30
  },
- "maj": "2026-10-10 22:39"
+ "maj": "2026-10-11 23:02"
 }
