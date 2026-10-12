@@ -464,6 +464,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-13",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les objectifs de JP Morgan sur Apple et la fuite en avant de Meta sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1887,12 +1897,33 @@
    "emp": "désigne microsoft porter pour royaume régulation sérieusement",
    "texte": "Microsoft qui désigne le Royaume-Uni pour porter la régulation IA. Sérieusement ?",
    "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-13",
+   "moment": "matin",
+   "emp": "apple disais doutes décote exagérée iphone malgré morgan objectif sort vendredi voilà",
+   "texte": "JP Morgan sort un objectif à 360$ sur Apple malgré les doutes sur l'iPhone. Je disais vendredi que la décote était exagérée, voilà voilà.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-13",
+   "moment": "matin",
+   "emp": "arrête coup encore force jamais meta muse wonder",
+   "texte": "Meta et son Muse Wonder. Encore un coup de force sur l'IA, ça ne s'arrête jamais.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-10-13",
+   "moment": "matin",
+   "emp": "bull commence cramer donner leçons market parle quand stops vérifie",
+   "texte": "Cramer parle d'un bull market de 4 ans. Quand il commence à donner des leçons, je vérifie mes stops.",
+   "angle": "remarque suivi"
   }
  ],
  "compteurs": {
-  "mails": 61,
-  "tweets": 203,
-  "jours": 31
+  "mails": 62,
+  "tweets": 206,
+  "jours": 32
  },
- "maj": "2026-10-12 17:53"
+ "maj": "2026-10-13 01:44"
 }
