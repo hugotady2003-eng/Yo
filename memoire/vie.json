@@ -454,6 +454,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-12",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les ratés d'Anthropic et le surplace de l'or sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1856,12 +1866,33 @@
    "emp": "apple cour fioritures journée marchés observer portefeuille prédiction sans sauver supplie suprême",
    "texte": "Journée à observer les fioritures d'Apple et la Cour suprême qu'on supplie de sauver les marchés de prédiction sans toucher à mon portefeuille.",
    "angle": "bilan journée"
+  },
+  {
+   "date": "2026-10-12",
+   "moment": "soir",
+   "emp": "anthropic autre balance bascule chose dans disais erreur faux hier mais modèles",
+   "texte": "Anthropic qui balance un faux tuyau à la police par erreur. Je disais hier que ces modèles partent en vrille, mais là on bascule dans autre chose.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-12",
+   "moment": "soir",
+   "emp": "aurais bouge intuition mardi pendant reste scotché tout écouter",
+   "texte": "L'or qui reste scotché pendant que tout le reste bouge. J'aurais dû écouter mon intuition mardi.",
+   "angle": "valeur et regret"
+  },
+  {
+   "date": "2026-10-12",
+   "moment": "soir",
+   "emp": "désigne microsoft porter pour royaume régulation sérieusement",
+   "texte": "Microsoft qui désigne le Royaume-Uni pour porter la régulation IA. Sérieusement ?",
+   "angle": "point de vue"
   }
  ],
  "compteurs": {
-  "mails": 60,
-  "tweets": 200,
-  "jours": 30
+  "mails": 61,
+  "tweets": 203,
+  "jours": 31
  },
- "maj": "2026-10-11 23:02"
+ "maj": "2026-10-12 17:53"
 }
