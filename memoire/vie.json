@@ -477,6 +477,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les alertes d'Anthropic, les tarifs cachés d'Apple et le rachat de Bumble sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les affaires d'espionnage chez OpenAI et les migrations de serveurs sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1944,12 +1949,33 @@
    "emp": "bumble dating ligne milliard prend racheté",
    "texte": "Bumble racheté 1,3 milliard. Le dating en ligne prend l'eau.",
    "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-10-13",
+   "moment": "soir",
+   "emp": "2026 bureaux caché dans dirait employé espionnage juste mais mauvais micro openai",
+   "texte": "OpenAI qui trouve un micro caché dans ses bureaux par un employé saoudien. On dirait un mauvais roman d'espionnage mais c'est juste la réalité de la tech en 2026.",
+   "angle": "actualite tech"
+  },
+  {
+   "date": "2026-10-13",
+   "moment": "soir",
+   "emp": "addition aussi coup licences lâche millions pensais pouvait sincèrement topgolf violente vmware",
+   "texte": "Topgolf lâche VMware et économise 11 millions d'un coup. Sincèrement, je ne pensais pas que l'addition pouvait être aussi violente sur les licences.",
+   "angle": "valeur entreprise"
+  },
+  {
+   "date": "2026-10-13",
+   "moment": "soir",
+   "emp": "avance bons citadel mine rien testent tokenisés trésor",
+   "texte": "BNY et Citadel qui testent les bons du Trésor tokenisés. Ça avance mine de rien.",
+   "angle": "suivi long terme"
   }
  ],
  "compteurs": {
-  "mails": 63,
-  "tweets": 209,
+  "mails": 64,
+  "tweets": 212,
   "jours": 32
  },
- "maj": "2026-10-13 16:29"
+ "maj": "2026-10-13 23:56"
 }
