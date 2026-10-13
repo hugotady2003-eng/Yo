@@ -472,6 +472,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les objectifs de JP Morgan sur Apple et la fuite en avant de Meta sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les alertes d'Anthropic, les tarifs cachés d'Apple et le rachat de Bumble sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -1918,12 +1923,33 @@
    "emp": "bull commence cramer donner leçons market parle quand stops vérifie",
    "texte": "Cramer parle d'un bull market de 4 ans. Quand il commence à donner des leçons, je vérifie mes stops.",
    "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-10-13",
+   "moment": "soir",
+   "emp": "anthropic auto avais flippe légère mais mois pris quelques rapport réplicatif sorti",
+   "texte": "Anthropic flippe sur un ver IA auto-réplicatif. J'avais pris ça à la légère il y a quelques mois, mais le rapport est sorti.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-13",
+   "moment": "soir",
+   "emp": "apple balles classique homeview mural sans support",
+   "texte": "HomeView sans le support mural à 59 balles. Classique Apple.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-10-13",
+   "moment": "soir",
+   "emp": "bumble dating ligne milliard prend racheté",
+   "texte": "Bumble racheté 1,3 milliard. Le dating en ligne prend l'eau.",
+   "angle": "remarque suivi"
   }
  ],
  "compteurs": {
-  "mails": 62,
-  "tweets": 206,
+  "mails": 63,
+  "tweets": 209,
   "jours": 32
  },
- "maj": "2026-10-13 01:44"
+ "maj": "2026-10-13 16:29"
 }
