@@ -492,6 +492,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les alertes du FMI sur l'IA, les déboires d'OpenAI et le prix de la mémoire sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la chute des valeurs tech liée à la dette IA, le feuilleton Apple en Chine et le retour de la NASA sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -2001,12 +2006,40 @@
    "emp": "6000 bundle ddr5 dollars enfin font geste mémoire prix",
    "texte": "DDR5-6000 à 151 dollars en bundle. Les prix de la mémoire font enfin un geste.",
    "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-10-14",
+   "moment": "soir",
+   "emp": "avec cause coreweave crédit dette devenait disais flirtent hier importe marge obligataires",
+   "texte": "CoreWeave qui plonge parce que les taux obligataires flirtent avec les 15 % à cause de la dette IA. Je disais hier que le crédit sur marge devenait n'importe quoi. Bah voilà.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-14",
+   "moment": "soir",
+   "emp": "achat anduril aujourd avec cette défense interne loin milliards offre prend publique",
+   "texte": "Anduril à 90 milliards avec cette offre publique d'achat interne. Sauf que le secteur de la défense prend l'eau avec le reste des valeurs tech aujourd'hui. Je regarde de loin.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-10-14",
+   "moment": "soir",
+   "emp": "chine courage décembre sans siri",
+   "texte": "iOS 27.3 sans Siri en Chine en décembre. Bon courage.",
+   "angle": "remarque brève"
+  },
+  {
+   "date": "2026-10-14",
+   "moment": "soir",
+   "emp": "dans dégringoler fermé journée miraculeusement missions nasa pendant portefeuille puces regarder reviennent",
+   "texte": "Journée à regarder les puces US dégringoler dans le rouge pendant que les missions Venus de la NASA reviennent miraculeusement sur la table. Portefeuille fermé.",
+   "angle": "synthèse journée"
   }
  ],
  "compteurs": {
-  "mails": 65,
-  "tweets": 215,
+  "mails": 66,
+  "tweets": 219,
   "jours": 33
  },
- "maj": "2026-10-14 14:13"
+ "maj": "2026-10-14 22:53"
 }
