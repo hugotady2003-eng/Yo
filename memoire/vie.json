@@ -484,6 +484,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-14",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les alertes du FMI sur l'IA, les déboires d'OpenAI et le prix de la mémoire sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -1970,12 +1980,33 @@
    "emp": "avance bons citadel mine rien testent tokenisés trésor",
    "texte": "BNY et Citadel qui testent les bons du Trésor tokenisés. Ça avance mine de rien.",
    "angle": "suivi long terme"
+  },
+  {
+   "date": "2026-10-14",
+   "moment": "soir",
+   "emp": "cause contagion financière inquiète presque risque",
+   "texte": "Le FMI qui s'inquiète d'un risque de contagion financière à cause de l'IA. On y est presque.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-14",
+   "moment": "soir",
+   "emp": "ambiance autres avec bureau bureaux choper dans espions font légendes micros modèle",
+   "texte": "OpenAI qui retient son prochain modèle pour des vérifications de sécurité, pendant que d'autres se font choper avec des micros espions dans les bureaux. Ambiance de bureau des légendes.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-10-14",
+   "moment": "soir",
+   "emp": "6000 bundle ddr5 dollars enfin font geste mémoire prix",
+   "texte": "DDR5-6000 à 151 dollars en bundle. Les prix de la mémoire font enfin un geste.",
+   "angle": "remarque suivi"
   }
  ],
  "compteurs": {
-  "mails": 64,
-  "tweets": 212,
-  "jours": 32
+  "mails": 65,
+  "tweets": 215,
+  "jours": 33
  },
- "maj": "2026-10-13 23:56"
+ "maj": "2026-10-14 14:13"
 }
