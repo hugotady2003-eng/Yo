@@ -499,6 +499,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-15",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les carnets de commandes d'ASML et les projets de TSMC sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2034,12 +2044,26 @@
    "emp": "dans dégringoler fermé journée miraculeusement missions nasa pendant portefeuille puces regarder reviennent",
    "texte": "Journée à regarder les puces US dégringoler dans le rouge pendant que les missions Venus de la NASA reviennent miraculeusement sur la table. Portefeuille fermé.",
    "angle": "synthèse journée"
+  },
+  {
+   "date": "2026-10-15",
+   "moment": "matin",
+   "emp": "arrive asml avais baird cadence dans demande doute faiblit gravure malgré matériel",
+   "texte": "ASML n'arrive pas à suivre la cadence. Je l'avais dit en septembre, la demande pour le matériel de gravure ne faiblit pas malgré la peur sur l'IA. Baird a raison, on est en plein dans la phase de doute.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-15",
+   "moment": "matin",
+   "emp": "demande elon musk projet sincèrement terafab tsmc voir",
+   "texte": "TSMC et Elon Musk sur un projet de Terafab. Sincèrement, je demande à voir.",
+   "angle": "point de vue"
   }
  ],
  "compteurs": {
-  "mails": 66,
-  "tweets": 219,
-  "jours": 33
+  "mails": 67,
+  "tweets": 221,
+  "jours": 34
  },
- "maj": "2026-10-14 22:53"
+ "maj": "2026-10-15 13:54"
 }
