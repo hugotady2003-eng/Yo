@@ -507,6 +507,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les carnets de commandes d'ASML et les projets de TSMC sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la panique sur la dette IA, l'alliance surprenante Meta-Apple et les CDS de CoreWeave sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -2058,12 +2063,40 @@
    "emp": "demande elon musk projet sincèrement terafab tsmc voir",
    "texte": "TSMC et Elon Musk sur un projet de Terafab. Sincèrement, je demande à voir.",
    "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-15",
+   "moment": "soir",
+   "emp": "allait autour coreweave craquer credit dans default dette deux fait finir personne",
+   "texte": "CoreWeave dans le mur sur les credit default swaps. Ça fait deux semaines que je dis que la dette autour de l'IA allait finir par craquer, personne voulait écouter.",
+   "angle": "crise dette ia"
+  },
+  {
+   "date": "2026-10-15",
+   "moment": "soir",
+   "emp": "apple change cupertino dernier discours garde lest locale lâcher mais meta modèle",
+   "texte": "Meta et Apple sur un modèle open-weight pour Mac. Bon, je garde mes sous, mais voir Cupertino lâcher du lest sur l'IA locale, ça change des discours de l'an dernier.",
+   "angle": "partenariat tech"
+  },
+  {
+   "date": "2026-10-15",
+   "moment": "soir",
+   "emp": "android annule sony xperia",
+   "texte": "Sony annule Android 17 sur un Xperia.",
+   "angle": "actualite mobile"
+  },
+  {
+   "date": "2026-10-15",
+   "moment": "soir",
+   "emp": "classique flippe monde montent parce semaine tech tout treasuries",
+   "texte": "Les Treasuries qui montent parce que tout le monde flippe de la tech. Classique de fin de semaine.",
+   "angle": "marche macro"
   }
  ],
  "compteurs": {
-  "mails": 67,
-  "tweets": 221,
+  "mails": 68,
+  "tweets": 225,
   "jours": 34
  },
- "maj": "2026-10-15 13:54"
+ "maj": "2026-10-15 22:29"
 }
