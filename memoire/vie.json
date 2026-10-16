@@ -514,6 +514,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-16",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les retards de Tesla, les divergences de Huang et la baisse de Corsair sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2091,12 +2101,33 @@
    "emp": "classique flippe monde montent parce semaine tech tout treasuries",
    "texte": "Les Treasuries qui montent parce que tout le monde flippe de la tech. Classique de fin de semaine.",
    "angle": "marche macro"
+  },
+  {
+   "date": "2026-10-16",
+   "moment": "matin",
+   "emp": "cette délais enfin fois ligne matin musk nostalgie presque repris retard roadster",
+   "texte": "Tesla sort enfin le Roadster. Dix ans de retard, presque de la nostalgie. J'ai repris une ligne ce matin, on verra si Musk tient ses délais cette fois.",
+   "angle": "valeur portefeuille"
+  },
+  {
+   "date": "2026-10-16",
+   "moment": "matin",
+   "emp": "différemment fait huang nuance trois voient",
+   "texte": "Huang et Tan voient l'IA différemment. Ça fait trois ans que je le dis, la nuance est là.",
+   "angle": "actualite"
+  },
+  {
+   "date": "2026-10-16",
+   "moment": "matin",
+   "emp": "améliore anti cheat enfin linux",
+   "texte": "Et l'anti-cheat sur Linux qui s'améliore, enfin.",
+   "angle": "technologie"
   }
  ],
  "compteurs": {
-  "mails": 68,
-  "tweets": 225,
-  "jours": 34
+  "mails": 69,
+  "tweets": 228,
+  "jours": 35
  },
- "maj": "2026-10-15 22:29"
+ "maj": "2026-10-16 13:45"
 }
