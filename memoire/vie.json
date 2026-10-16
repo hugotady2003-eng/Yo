@@ -522,6 +522,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les retards de Tesla, les divergences de Huang et la baisse de Corsair sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les facéties d'Apple sur ses coques et les annonces de Tesla sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -2122,12 +2127,33 @@
    "emp": "améliore anti cheat enfin linux",
    "texte": "Et l'anti-cheat sur Linux qui s'améliore, enfin.",
    "angle": "technologie"
+  },
+  {
+   "date": "2026-10-16",
+   "moment": "soir",
+   "emp": "adhésif apple avec changez colle coque dollars rien surtout vend",
+   "texte": "Apple qui vend une coque à 79 dollars qui se colle avec de l'adhésif. Surtout, ne changez rien.",
+   "angle": "actualité Apple"
+  },
+  {
+   "date": "2026-10-16",
+   "moment": "soir",
+   "emp": "allait américain bonne bouger disais enfin finir hier idée jeux licences numérique",
+   "texte": "Un élu américain veut obliger les éditeurs à vendre de vrais jeux et plus des licences. Je disais hier que ça allait finir par bouger sur la propriété numérique. Enfin une bonne idée.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-16",
+   "moment": "soir",
+   "emp": "avec loin magie regarde roadster tesla tours",
+   "texte": "Tesla et ses tours de magie avec un Roadster. Je regarde de loin.",
+   "angle": "valeur Tesla"
   }
  ],
  "compteurs": {
-  "mails": 69,
-  "tweets": 228,
+  "mails": 70,
+  "tweets": 231,
   "jours": 35
  },
- "maj": "2026-10-16 13:45"
+ "maj": "2026-10-16 22:01"
 }
