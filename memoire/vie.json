@@ -529,6 +529,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-17",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les Lego d'ASML et les vieux modding Xbox sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2148,12 +2158,33 @@
    "emp": "avec loin magie regarde roadster tesla tours",
    "texte": "Tesla et ses tours de magie avec un Roadster. Je regarde de loin.",
    "angle": "valeur Tesla"
+  },
+  {
+   "date": "2026-10-17",
+   "moment": "matin",
+   "emp": "asml avoue bureau fini high lego leur machines mais millions open pièces",
+   "texte": "ASML vend ses machines des millions, mais visiblement le vrai tube c'est leur Lego High-NA EUV en kit. Quelqu'un a fini par sortir une réplique open source de 810 pièces. J'avoue, j'en veux un pour le bureau.",
+   "angle": "Activité insolite tech"
+  },
+  {
+   "date": "2026-10-17",
+   "moment": "matin",
+   "emp": "avec balles boulot force microcontrôleur moddeur neuf pour quatre respect xbox",
+   "texte": "Neuf ans de boulot pour un moddeur sur une Xbox 360 avec un microcontrôleur à quatre balles. Ça force le respect.",
+   "angle": "Rétro-ingénierie"
+  },
+  {
+   "date": "2026-10-17",
+   "moment": "matin",
+   "emp": "aller blockchain bref circle coincés continuent crypto développement faire gratter héritages marchés",
+   "texte": "Circle veut aller gratter 40 marchés en développement. Sauf que les héritages crypto coincés sur la blockchain continuent de faire des ravages. Bref.",
+   "angle": "Crypto et adoption"
   }
  ],
  "compteurs": {
-  "mails": 70,
-  "tweets": 231,
-  "jours": 35
+  "mails": 71,
+  "tweets": 234,
+  "jours": 36
  },
- "maj": "2026-10-16 22:01"
+ "maj": "2026-10-17 13:02"
 }
