@@ -537,6 +537,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les Lego d'ASML et les vieux modding Xbox sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la rupture entre Replit et Anthropic et les retards sur l'iPhone Duo sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -2179,12 +2184,33 @@
    "emp": "aller blockchain bref circle coincés continuent crypto développement faire gratter héritages marchés",
    "texte": "Circle veut aller gratter 40 marchés en développement. Sauf que les héritages crypto coincés sur la blockchain continuent de faire des ravages. Bref.",
    "angle": "Crypto et adoption"
+  },
+  {
+   "date": "2026-10-17",
+   "moment": "soir",
+   "emp": "allaient anthropic boîtes croisées disais dépendances entre finir grincer lundi lâche replit",
+   "texte": "Replit qui lâche Anthropic. Je le disais lundi, ces dépendances croisées entre boîtes d'IA allaient finir par grincer. Bah voilà.",
+   "angle": "rupture écosystème"
+  },
+  {
+   "date": "2026-10-17",
+   "moment": "soir",
+   "emp": "2027 achètent apple attends gens iphone moment même pour quand repoussé sauf",
+   "texte": "iPhone Duo repoussé à 2027. Sauf que les gens achètent quand même. J'attends toujours le bon moment pour toucher du Apple.",
+   "angle": "calendrier hardware"
+  },
+  {
+   "date": "2026-10-17",
+   "moment": "soir",
+   "emp": "bannit compte docu musk ridicule tiktok",
+   "texte": "TikTok qui bannit le compte du docu sur Musk. Ridicule.",
+   "angle": "censure réseau"
   }
  ],
  "compteurs": {
-  "mails": 71,
-  "tweets": 234,
+  "mails": 72,
+  "tweets": 237,
   "jours": 36
  },
- "maj": "2026-10-17 13:02"
+ "maj": "2026-10-17 21:38"
 }
