@@ -552,6 +552,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les brèches crypto et les manœuvres des géants sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les reculs de Microsoft sur les data centers, les manœuvres d'Anthropic et le feuilleton Apple.",
+     "gestes": []
     }
    ]
   }
@@ -2243,12 +2248,40 @@
    "emp": "batterie dock efficace secondes sort échange",
    "texte": "DJI sort un dock à échange de batterie en 45 secondes. Efficace.",
    "angle": "valeur"
+  },
+  {
+   "date": "2026-10-18",
+   "moment": "soir",
+   "emp": "accroc affaire apprendra avec bout centers contrats croire data iraient lâche microsoft",
+   "texte": "Microsoft lâche l'affaire avec Nscale. Ça m'apprendra à croire que tous ces contrats de data centers iraient au bout sans accroc. J'ai réduit la voilure.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-18",
+   "moment": "soir",
+   "emp": "anthropic aura fonds public tout",
+   "texte": "Anthropic et son fonds public. On aura tout vu.",
+   "angle": "remarque courte"
+  },
+  {
+   "date": "2026-10-18",
+   "moment": "soir",
+   "emp": "affilée apple chez donné déjà essaient loin quatre quoi regarde sauver sorties",
+   "texte": "Quatre vendredis d'affilée de sorties chez Apple. Ils essaient de sauver le trimestre ou quoi ? Je regarde de loin, j'ai déjà donné.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-10-18",
+   "moment": "soir",
+   "emp": "arrêtée avoir bloqué femme livraison philadelphie pour robot",
+   "texte": "Une femme arrêtée à Philadelphie pour avoir bloqué un robot de livraison. On en est là.",
+   "angle": "anecdote tech"
   }
  ],
  "compteurs": {
-  "mails": 73,
-  "tweets": 241,
+  "mails": 74,
+  "tweets": 245,
   "jours": 37
  },
- "maj": "2026-10-18 13:33"
+ "maj": "2026-10-18 21:33"
 }
