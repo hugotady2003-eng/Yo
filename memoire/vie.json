@@ -567,6 +567,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les blocages de DeepSeek, la sécurité de JPMorgan et des pillages lunaires de RAM sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les millions d'Anthropic, la dette de CoreWeave et les factures d'Apple sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -2307,12 +2312,40 @@
    "emp": "allait cliquer comme empêcher jpmorgan lien lâche mauvais milliards pour stagiaire sécurité",
    "texte": "JPMorgan lâche 230 milliards pour la sécurité. Comme si ça allait empêcher le stagiaire de cliquer sur le mauvais lien.",
    "angle": "remarque recul"
+  },
+  {
+   "date": "2026-10-19",
+   "moment": "soir",
+   "emp": "actions comme méthode pour racheter radicale skyai solde tout",
+   "texte": "SkyAI qui solde tout son SOL pour racheter ses actions. Radicale comme méthode.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-19",
+   "moment": "soir",
+   "emp": "coreweave dette face fait infrastructure personne problème retient répète semaine souffle toute",
+   "texte": "CoreWeave et sa dette. Ça fait une semaine que je le répète, toute l'infrastructure IA retient son souffle et personne ne veut voir le problème en face.",
+   "angle": "suivi long terme"
+  },
+  {
+   "date": "2026-10-19",
+   "moment": "soir",
+   "emp": "apple après boulet encore facture iphone milliards part pour sort taction trimestre",
+   "texte": "Taction veut sa part sur l'iPhone après sa facture de 5,7 milliards. Encore un boulet pour le trimestre d'Apple, on ne s'en sort pas.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-19",
+   "moment": "soir",
+   "emp": "anthropic ceux copies disaient doivent eric google leurs pactole paris pontes rataient",
+   "texte": "Le pactole d'Eric Schmidt sur Anthropic. Ceux qui disaient que les pontes de Google rataient leurs paris doivent revoir leurs copies",
+   "angle": "actualité tech"
   }
  ],
  "compteurs": {
-  "mails": 75,
-  "tweets": 248,
+  "mails": 76,
+  "tweets": 252,
   "jours": 38
  },
- "maj": "2026-10-19 15:47"
+ "maj": "2026-10-19 23:41"
 }
