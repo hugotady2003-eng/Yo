@@ -559,6 +559,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-19",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les blocages de DeepSeek, la sécurité de JPMorgan et des pillages lunaires de RAM sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2276,12 +2286,33 @@
    "emp": "arrêtée avoir bloqué femme livraison philadelphie pour robot",
    "texte": "Une femme arrêtée à Philadelphie pour avoir bloqué un robot de livraison. On en est là.",
    "angle": "anecdote tech"
+  },
+  {
+   "date": "2026-10-19",
+   "moment": "soir",
+   "emp": "aura pendant piquer tout émeutes",
+   "texte": "Piquer de la RAM pendant des émeutes. On aura tout vu.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-19",
+   "moment": "soir",
+   "emp": "agences autant barrer dans deepseek façon fédérales llama local petit rame route",
+   "texte": "Les États-Unis veulent barrer la route à DeepSeek dans les agences fédérales. Mon petit Llama local rame toujours autant de toute façon.",
+   "angle": "point de vue tech"
+  },
+  {
+   "date": "2026-10-19",
+   "moment": "soir",
+   "emp": "allait cliquer comme empêcher jpmorgan lien lâche mauvais milliards pour stagiaire sécurité",
+   "texte": "JPMorgan lâche 230 milliards pour la sécurité. Comme si ça allait empêcher le stagiaire de cliquer sur le mauvais lien.",
+   "angle": "remarque recul"
   }
  ],
  "compteurs": {
-  "mails": 74,
-  "tweets": 245,
-  "jours": 37
+  "mails": 75,
+  "tweets": 248,
+  "jours": 38
  },
- "maj": "2026-10-18 21:33"
+ "maj": "2026-10-19 15:47"
 }
