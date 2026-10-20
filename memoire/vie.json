@@ -582,6 +582,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les choix de Modal, la fiscalité française sur les stablecoins et des pilotes improbables sans toucher au reste.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les chiffres de Netflix, les dépenses publicitaires de Snap et le succès de Meta sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -2378,12 +2383,40 @@
    "emp": "cliqué fois franchement grâce pilotes pour rêver thunderbolt trois windows être",
    "texte": "Des pilotes Thunderbolt 4 pour Windows 98 SE grâce à l'IA. Franchement, j'ai cliqué trois fois pour être sûr de ne pas rêver.",
    "angle": "anecdote geek"
+  },
+  {
+   "date": "2026-10-20",
+   "moment": "soir",
+   "emp": "avais jours millions muse pour premiers quarante tort téléchargements",
+   "texte": "10 millions de téléchargements pour Muse sur les quarante premiers jours. J'avais tort.",
+   "angle": "erreur assumée"
+  },
+  {
+   "date": "2026-10-20",
+   "moment": "soir",
+   "emp": "abonnés calent netflix prévient",
+   "texte": "Netflix prévient. Les abonnés calent.",
+   "angle": "réaction sèche"
+  },
+  {
+   "date": "2026-10-20",
+   "moment": "soir",
+   "emp": "devient downey faire gênant iron paye pour robert snap",
+   "texte": "Snap paye Robert Downey Jr. pour faire du Iron Man. Ça devient gênant.",
+   "angle": "avis tranché"
+  },
+  {
+   "date": "2026-10-20",
+   "moment": "soir",
+   "emp": "ailleurs centres données explose grâce monde premier prévisions regardait spacex tout",
+   "texte": "SpaceX explose ses prévisions grâce aux centres de données. Tout le monde regardait ailleurs, moi le premier.",
+   "angle": "mea culpa"
   }
  ],
  "compteurs": {
-  "mails": 77,
-  "tweets": 256,
+  "mails": 78,
+  "tweets": 260,
   "jours": 39
  },
- "maj": "2026-10-20 13:56"
+ "maj": "2026-10-20 22:47"
 }
