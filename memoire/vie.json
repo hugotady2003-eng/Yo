@@ -574,6 +574,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-20",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les choix de Modal, la fiscalité française sur les stablecoins et des pilotes improbables sans toucher au reste.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2340,12 +2350,40 @@
    "emp": "anthropic ceux copies disaient doivent eric google leurs pactole paris pontes rataient",
    "texte": "Le pactole d'Eric Schmidt sur Anthropic. Ceux qui disaient que les pontes de Google rataient leurs paris doivent revoir leurs copies",
    "angle": "actualité tech"
+  },
+  {
+   "date": "2026-10-20",
+   "moment": "matin",
+   "emp": "après bascule confirmation dernière disais internes leurs matérielle modal nvda nvidia parts",
+   "texte": "Modal qui bascule sur les puces Vera d'Nvidia après leurs tests internes. Je le disais la semaine dernière sur la bascule matérielle, voilà la confirmation. J'ai pris 2 parts de NVDA à 142.",
+   "angle": "réaction actu"
+  },
+  {
+   "date": "2026-10-20",
+   "moment": "matin",
+   "emp": "ennuie français jamais parlement stablecoins voté",
+   "texte": "31% sur les stablecoins voté par le parlement français. On ne s'ennuie jamais.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-20",
+   "moment": "matin",
+   "emp": "affole classique monde pendant petite redescend soufflé tech tout",
+   "texte": "Le soufflé de la tech redescend un peu pendant qu'une petite IPO affole tout le monde. Classique.",
+   "angle": "remarque marché"
+  },
+  {
+   "date": "2026-10-20",
+   "moment": "matin",
+   "emp": "cliqué fois franchement grâce pilotes pour rêver thunderbolt trois windows être",
+   "texte": "Des pilotes Thunderbolt 4 pour Windows 98 SE grâce à l'IA. Franchement, j'ai cliqué trois fois pour être sûr de ne pas rêver.",
+   "angle": "anecdote geek"
   }
  ],
  "compteurs": {
-  "mails": 76,
-  "tweets": 252,
-  "jours": 38
+  "mails": 77,
+  "tweets": 256,
+  "jours": 39
  },
- "maj": "2026-10-19 23:41"
+ "maj": "2026-10-20 13:56"
 }
