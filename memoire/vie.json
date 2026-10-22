@@ -589,6 +589,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-22",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la purge de Micron, les déboires de Bosch et la fin d'Atari en allégeant une ligne.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2411,12 +2421,40 @@
    "emp": "ailleurs centres données explose grâce monde premier prévisions regardait spacex tout",
    "texte": "SpaceX explose ses prévisions grâce aux centres de données. Tout le monde regardait ailleurs, moi le premier.",
    "angle": "mea culpa"
+  },
+  {
+   "date": "2026-10-22",
+   "moment": "soir",
+   "emp": "abandonne allégé aurais aussi auto avancent bosch boulot branche chinois dernière dram",
+   "texte": "Micron abandonne la DRAM 4F². Vingt ans de boulot à la poubelle. Sauf que les Chinois avancent trop vite, Bosch vient aussi de scinder sa branche auto pour la même raison. J'ai allégé un peu de Micron ce soir, j'aurais dû le faire dès la semaine dernière.",
+   "angle": "Arbitrage industriel"
+  },
+  {
+   "date": "2026-10-22",
+   "moment": "soir",
+   "emp": "2027 atari boutique bêtises console ferme février genre jeunesse nostalgiques parcours pour",
+   "texte": "L'Atari VCS ferme sa boutique en février 2027. Fin de parcours pour la console rétro. Ça me rappelle mes bêtises de jeunesse sur ce genre de projets nostalgiques.",
+   "angle": "Nostalgie tech"
+  },
+  {
+   "date": "2026-10-22",
+   "moment": "soir",
+   "emp": "ambiance boulots britanniques chute finance jeunes pour tech trois ventes",
+   "texte": "Les ventes de boulots tech et finance pour les jeunes Britanniques en chute de 22% en trois ans. Ambiance.",
+   "angle": "Emploi UK"
+  },
+  {
+   "date": "2026-10-22",
+   "moment": "soir",
+   "emp": "entiers grand plante sites",
+   "texte": "PHP qui plante des sites entiers. Du grand art.",
+   "angle": "Bug web"
   }
  ],
  "compteurs": {
-  "mails": 78,
-  "tweets": 260,
-  "jours": 39
+  "mails": 79,
+  "tweets": 264,
+  "jours": 40
  },
- "maj": "2026-10-20 22:47"
+ "maj": "2026-10-22 14:14"
 }
