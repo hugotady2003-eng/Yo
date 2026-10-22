@@ -597,6 +597,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer la purge de Micron, les déboires de Bosch et la fin d'Atari en allégeant une ligne.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la chute de Meta liée aux dépenses IA et la bonne santé de Western Digital en allégeant une ligne.",
+     "gestes": []
     }
    ]
   }
@@ -2449,12 +2454,40 @@
    "emp": "entiers grand plante sites",
    "texte": "PHP qui plante des sites entiers. Du grand art.",
    "angle": "Bug web"
+  },
+  {
+   "date": "2026-10-22",
+   "moment": "soir",
+   "emp": "allégé avais cette commence demain dépenses effraient facture fois jours marché marchés",
+   "texte": "Meta -7% parce que les dépenses IA effraient les marchés. Je l'avais dit il y a quelques jours, la facture commence à piquer. Sauf que cette fois le marché réagit vraiment. J'ai allégé un peu, on verra demain.",
+   "angle": "réaction actualité portefeuille"
+  },
+  {
+   "date": "2026-10-22",
+   "moment": "soir",
+   "emp": "augmente avais demande digital dividende douter grâce leur prévisions relève résistance stockage",
+   "texte": "Western Digital relève ses prévisions et augmente son dividende grâce à la demande en IA. J'avais tort de douter de leur résistance sur le stockage.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-10-22",
+   "moment": "soir",
+   "emp": "cherche demande encore milliards openai payer rythme vraiment",
+   "texte": "OpenAI cherche encore 30 milliards. À ce rythme, on se demande qui va vraiment payer.",
+   "angle": "remarque long terme"
+  },
+  {
+   "date": "2026-10-22",
+   "moment": "soir",
+   "emp": "données dune flux lance onchain réel temps",
+   "texte": "Dune lance ses flux de données onchain en temps réel.",
+   "angle": "suivi technique"
   }
  ],
  "compteurs": {
-  "mails": 79,
-  "tweets": 264,
+  "mails": 80,
+  "tweets": 268,
   "jours": 40
  },
- "maj": "2026-10-22 14:14"
+ "maj": "2026-10-22 22:43"
 }
