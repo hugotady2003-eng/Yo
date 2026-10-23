@@ -612,6 +612,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer la panique des banques US sur les agents IA, le recul des futures et l'abandon du Cybertruck en allégeant une ligne.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les tractations d'Instacart, la nouvelle politique de Google et les notes du Pentagone en allégeant une ligne.",
+     "gestes": []
     }
    ]
   }
@@ -2520,12 +2525,33 @@
    "emp": "bitcoin euro fois huit neuf plus rien soleil sous turbulent",
    "texte": "Bitcoin huit fois plus turbulent que l'euro. Rien de neuf sous le soleil.",
    "angle": "suivi long"
+  },
+  {
+   "date": "2026-10-23",
+   "moment": "soir",
+   "emp": "avais dernière discussion doordash faire finiraient instacart racheter sauf semaine uber vente",
+   "texte": "Instacart en discussion de vente. Uber, DoorDash... Bon. J'avais dit la semaine dernière qu'ils finiraient par se faire racheter. Sauf que là, ça va vite.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-23",
+   "moment": "soir",
+   "emp": "arrête dernières deux dossier frais instacart parts revendu",
+   "texte": "J'ai revendu mes deux dernières parts d'Instacart. J'arrête les frais sur ce dossier.",
+   "angle": "geste portefeuille"
+  },
+  {
+   "date": "2026-10-23",
+   "moment": "soir",
+   "emp": "marchés panique pentagone prédiction sortis sécurité troupes",
+   "texte": "Le Pentagone qui panique sur les marchés de prédiction et la sécurité des troupes. On n'est pas sortis.",
+   "angle": "point de vue"
   }
  ],
  "compteurs": {
-  "mails": 81,
-  "tweets": 272,
+  "mails": 82,
+  "tweets": 275,
   "jours": 41
  },
- "maj": "2026-10-23 13:55"
+ "maj": "2026-10-23 22:36"
 }
