@@ -604,6 +604,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-23",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer la panique des banques US sur les agents IA, le recul des futures et l'abandon du Cybertruck en allégeant une ligne.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2482,12 +2492,40 @@
    "emp": "données dune flux lance onchain réel temps",
    "texte": "Dune lance ses flux de données onchain en temps réel.",
    "angle": "suivi technique"
+  },
+  {
+   "date": "2026-10-23",
+   "moment": "matin",
+   "emp": "actions activité agents avais banques bloquer brident finir jpmorgan paniquent septembre sécurité",
+   "texte": "Les banques US qui paniquent et brident l'activité des agents IA. Je l'avais dit en septembre, la sécurité va finir par tout bloquer. J'ai vendu 2 actions de JPMorgan, je ne veux pas voir ça.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-23",
+   "moment": "matin",
+   "emp": "australie cybertruck enterre histoire tesla",
+   "texte": "Tesla enterre le Cybertruck en Australie. Fin de l'histoire.",
+   "angle": "valeur tech"
+  },
+  {
+   "date": "2026-10-23",
+   "moment": "matin",
+   "emp": "bien dollars encore futures matinée plus pétrole rouge sent tombent",
+   "texte": "Le pétrole à plus de 101 dollars et les futures qui tombent. Ça sent la matinée bien rouge, encore.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-23",
+   "moment": "matin",
+   "emp": "bitcoin euro fois huit neuf plus rien soleil sous turbulent",
+   "texte": "Bitcoin huit fois plus turbulent que l'euro. Rien de neuf sous le soleil.",
+   "angle": "suivi long"
   }
  ],
  "compteurs": {
-  "mails": 80,
-  "tweets": 268,
-  "jours": 40
+  "mails": 81,
+  "tweets": 272,
+  "jours": 41
  },
- "maj": "2026-10-22 22:43"
+ "maj": "2026-10-23 13:55"
 }
