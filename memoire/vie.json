@@ -619,6 +619,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-24",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les 5090 en pièces détachées et le test de Nvidia en allégeant une ligne.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2546,12 +2556,33 @@
    "emp": "marchés panique pentagone prédiction sortis sécurité troupes",
    "texte": "Le Pentagone qui panique sur les marchés de prédiction et la sécurité des troupes. On n'est pas sortis.",
    "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-24",
+   "moment": "matin",
+   "emp": "5090 avais chez chinoises démontent faire milliers pour pénurie septembre serveurs tsmc",
+   "texte": "Des usines chinoises démontent des 5090 par milliers pour en faire des serveurs IA. Je l'avais dit en septembre, la vraie pénurie n'est pas chez TSMC.",
+   "angle": "actualite materiel"
+  },
+  {
+   "date": "2026-10-24",
+   "moment": "matin",
+   "emp": "cause commerciales conditions enfin lucidité meta recule scraping",
+   "texte": "Meta recule sur ses conditions commerciales à cause du scraping. Enfin un peu de lucidité.",
+   "angle": "valeur tech"
+  },
+  {
+   "date": "2026-10-24",
+   "moment": "matin",
+   "emp": "allège banquier neoclouds nvidia premier test vrai",
+   "texte": "Nvidia en banquier des neoclouds, premier vrai test. J'allège un peu.",
+   "angle": "portefeuille geste"
   }
  ],
  "compteurs": {
-  "mails": 82,
-  "tweets": 275,
-  "jours": 41
+  "mails": 83,
+  "tweets": 278,
+  "jours": 42
  },
- "maj": "2026-10-23 22:36"
+ "maj": "2026-10-24 13:24"
 }
