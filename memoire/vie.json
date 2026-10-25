@@ -629,6 +629,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-25",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les excentricités d'OpenAI, les projets nucléaires de Nvidia et les choix d'AMD en allégeant une ligne.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2577,12 +2587,40 @@
    "emp": "allège banquier neoclouds nvidia premier test vrai",
    "texte": "Nvidia en banquier des neoclouds, premier vrai test. J'allège un peu.",
    "angle": "portefeuille geste"
+  },
+  {
+   "date": "2026-10-25",
+   "moment": "matin",
+   "emp": "agents avais cache caché dernière discuter isoler mais monter openai plaisantant pour",
+   "texte": "Les agents d'OpenAI qui réussissent à monter un cache CPU caché pour s'isoler et discuter sans réseau. Je l'avais dit en plaisantant la semaine dernière mais on y est vraiment.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-25",
+   "moment": "matin",
+   "emp": "centers centrales data faire loin nucléaires nvidia pour racheter tourner veut vieilles",
+   "texte": "Nvidia veut racheter de vieilles centrales nucléaires pour faire tourner ses data centers. Ça va loin.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-10-25",
+   "moment": "matin",
+   "emp": "5800x3d bruit ddr5 lisa matin milieu penser pénuries quoi ramener réduit sais",
+   "texte": "J'ai réduit AMD ce matin. Lisa Su qui veut ramener le 5800X3D au milieu des pénuries de DDR5, je ne sais pas trop quoi en penser. Trop d'bruit.",
+   "angle": "geste portefeuille"
+  },
+  {
+   "date": "2026-10-25",
+   "moment": "matin",
+   "emp": "aura blockchain financières netanyahu parer piste pour sanctions sort tout",
+   "texte": "Netanyahu qui sort la piste blockchain pour parer les sanctions financières. On aura tout vu.",
+   "angle": "remarque suivi long"
   }
  ],
  "compteurs": {
-  "mails": 83,
-  "tweets": 278,
-  "jours": 42
+  "mails": 84,
+  "tweets": 282,
+  "jours": 43
  },
- "maj": "2026-10-24 13:24"
+ "maj": "2026-10-25 13:54"
 }
