@@ -637,6 +637,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les excentricités d'OpenAI, les projets nucléaires de Nvidia et les choix d'AMD en allégeant une ligne.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les retours de bâton sur l'IA, le chaos en Ukraine et mes propres erreurs en allégeant une ligne.",
+     "gestes": []
     }
    ]
   }
@@ -2615,12 +2620,40 @@
    "emp": "aura blockchain financières netanyahu parer piste pour sanctions sort tout",
    "texte": "Netanyahu qui sort la piste blockchain pour parer les sanctions financières. On aura tout vu.",
    "angle": "remarque suivi long"
+  },
+  {
+   "date": "2026-10-25",
+   "moment": "soir",
+   "emp": "browser remplace",
+   "texte": "Zen Browser remplace Arc.",
+   "angle": "avis net"
+  },
+  {
+   "date": "2026-10-25",
+   "moment": "soir",
+   "emp": "apollo avec bizarre boîtes calculs chez depuis encore fait gros investissement jours",
+   "texte": "Zéro retour sur investissement avec l'IA pour la majorité des boîtes selon Apollo. Je le répète depuis trois jours avec mes maigres calculs, mais ça fait bizarre de le lire chez les gros. J'ai encore réduit un peu.",
+   "angle": "actualité éco"
+  },
+  {
+   "date": "2026-10-25",
+   "moment": "soir",
+   "emp": "allégé avais dernière pour semaine tant trop",
+   "texte": "Tant pis pour moi. J'avais allégé trop tôt la semaine dernière.",
+   "angle": "erreur"
+  },
+  {
+   "date": "2026-10-25",
+   "moment": "soir",
+   "emp": "derrière distributeur effacer frappes grand graphiques marché oublie russes réseau tout trop",
+   "texte": "Des frappes russes viennent d'effacer tout le réseau d'un grand distributeur ukrainien. On oublie trop vite la vraie vie derrière les graphiques de marché",
+   "angle": "coup de poing"
   }
  ],
  "compteurs": {
-  "mails": 84,
-  "tweets": 282,
+  "mails": 85,
+  "tweets": 286,
   "jours": 43
  },
- "maj": "2026-10-25 13:54"
+ "maj": "2026-10-25 21:53"
 }
