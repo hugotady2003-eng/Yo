@@ -644,6 +644,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-26",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les dossiers d'Anthropic, les agents de Cadence et les écrans d'Apple sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2648,12 +2658,33 @@
    "emp": "derrière distributeur effacer frappes grand graphiques marché oublie russes réseau tout trop",
    "texte": "Des frappes russes viennent d'effacer tout le réseau d'un grand distributeur ukrainien. On oublie trop vite la vraie vie derrière les graphiques de marché",
    "angle": "coup de poing"
+  },
+  {
+   "date": "2026-10-26",
+   "moment": "soir",
+   "emp": "anthropic avec dernière disais dossier dépose lancé leurs mais millions plus pour",
+   "texte": "Anthropic dépose son dossier d'IPO. Je le disais pas plus tard que la semaine dernière avec leurs millions, mais là le truc est lancé pour de bon.",
+   "angle": "actualité boursière"
+  },
+  {
+   "date": "2026-10-26",
+   "moment": "soir",
+   "emp": "agent avais cadence encore lundi maestro pour puces refourgue sauces sauf sort",
+   "texte": "Cadence sort Maestro pour les puces. Encore un agent IA spécialisé. Sauf que je l'avais dit lundi, on refourgue de l'agent à toutes les sauces.",
+   "angle": "technologie puces"
+  },
+  {
+   "date": "2026-10-26",
+   "moment": "soir",
+   "emp": "apple dans mini oled",
+   "texte": "Apple met de l'OLED dans le mini. Bon.",
+   "angle": "produit apple"
   }
  ],
  "compteurs": {
-  "mails": 85,
-  "tweets": 286,
-  "jours": 43
+  "mails": 86,
+  "tweets": 289,
+  "jours": 44
  },
- "maj": "2026-10-25 21:53"
+ "maj": "2026-10-26 15:26"
 }
