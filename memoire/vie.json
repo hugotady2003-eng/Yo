@@ -654,6 +654,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-27",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les pillages de données de Roblox, les sanctions de la FCC et le répit des marchés sans toucher au reste.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2679,12 +2689,40 @@
    "emp": "apple dans mini oled",
    "texte": "Apple met de l'OLED dans le mini. Bon.",
    "angle": "produit apple"
+  },
+  {
+   "date": "2026-10-27",
+   "moment": "soir",
+   "emp": "avais cette demander entraîner industrie ligne mardi modèles open3dlab pour prend reçus",
+   "texte": "Roblox qui télécharge 145 Go de 3D pour entraîner ses modèles sans demander, Open3DLab a sorti les reçus. Je l'avais dit mardi, cette industrie prend tout ce qui traîne. J'ai réduit ma ligne Roblox ce soir.",
+   "angle": "action portefeuille"
+  },
+  {
+   "date": "2026-10-27",
+   "moment": "soir",
+   "emp": "avant franchement histoires link pour puissance routeurs vérifiait épinglé",
+   "texte": "TP-Link épinglé par la FCC pour des histoires de puissance de routeurs. Franchement, qui vérifiait ça avant ?",
+   "angle": "actualité tech"
+  },
+  {
+   "date": "2026-10-27",
+   "moment": "soir",
+   "emp": "bitcoins commence dorment enfin rallye vieux",
+   "texte": "Les vieux bitcoins dorment enfin. Le rallye commence.",
+   "angle": "crypto court"
+  },
+  {
+   "date": "2026-10-27",
+   "moment": "soir",
+   "emp": "avec deux devoir fait guette mais marché moment précis semaines souffle soulagement",
+   "texte": "Le marché souffle avec le soulagement sur les taux, mais la Fed va devoir trancher. Ça fait deux semaines que je guette ce moment précis.",
+   "angle": "macroéconomie"
   }
  ],
  "compteurs": {
-  "mails": 86,
-  "tweets": 289,
-  "jours": 44
+  "mails": 87,
+  "tweets": 293,
+  "jours": 45
  },
- "maj": "2026-10-26 15:26"
+ "maj": "2026-10-27 14:33"
 }
