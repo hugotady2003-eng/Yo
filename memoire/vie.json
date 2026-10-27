@@ -662,6 +662,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les pillages de données de Roblox, les sanctions de la FCC et le répit des marchés sans toucher au reste.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les déboires de Robinhood, la trésorerie d'Anthropic et les choix de Discord en vendant une ligne.",
+     "gestes": []
     }
    ]
   }
@@ -2717,12 +2722,33 @@
    "emp": "avec deux devoir fait guette mais marché moment précis semaines souffle soulagement",
    "texte": "Le marché souffle avec le soulagement sur les taux, mais la Fed va devoir trancher. Ça fait deux semaines que je guette ce moment précis.",
    "angle": "macroéconomie"
+  },
+  {
+   "date": "2026-10-27",
+   "moment": "soir",
+   "emp": "cause crypto dernière disais dépendance intacte parts plus reste robinhood semaine slump",
+   "texte": "Robinhood -4% à cause du crypto slump. Je le disais pas plus tard que la semaine dernière, la dépendance reste intacte. J'ai vendu 3 parts à 18,20.",
+   "angle": "vente de portefeuille"
+  },
+  {
+   "date": "2026-10-27",
+   "moment": "soir",
+   "emp": "anthropic beaucoup boîte cash commence cotée domine faire moitié pour tech zéros",
+   "texte": "Anthropic et son cash qui domine la moitié de la tech US. Ça commence à faire beaucoup de zéros pour une boîte non cotée.",
+   "angle": "analyse de marché"
+  },
+  {
+   "date": "2026-10-27",
+   "moment": "soir",
+   "emp": "commus discord publiques rend searchables surprise tollé zéro",
+   "texte": "Discord qui rend les commus publiques searchables. Zéro surprise sur le tollé.",
+   "angle": "actualité tech"
   }
  ],
  "compteurs": {
-  "mails": 87,
-  "tweets": 293,
+  "mails": 88,
+  "tweets": 296,
   "jours": 45
  },
- "maj": "2026-10-27 14:33"
+ "maj": "2026-10-27 23:26"
 }
