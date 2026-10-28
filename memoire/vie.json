@@ -669,6 +669,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-28",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les investissements de Solidigm, la boulimie d'Amazon et l'offensive de TikTok en allégeant une ligne.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2743,12 +2753,33 @@
    "emp": "commus discord publiques rend searchables surprise tollé zéro",
    "texte": "Discord qui rend les commus publiques searchables. Zéro surprise sur le tollé.",
    "angle": "actualité tech"
+  },
+  {
+   "date": "2026-10-28",
+   "moment": "soir",
+   "emp": "aussi autant base brique flash franchement lâche milliards pensais plan pour remettrait",
+   "texte": "Solidigm qui lâche un plan à 45 milliards pour de la flash aux US. Franchement, je ne pensais pas qu'on remettrait autant sur la brique de base aussi vite.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-28",
+   "moment": "soir",
+   "emp": "amazon beaucoup commence entre faire fronts globalstar kindle machine mais même nouveaux",
+   "texte": "J'ai réduit Amazon. Entre la validation pour Globalstar et les nouveaux Kindle, la machine est partout, mais ça commence à faire beaucoup de fronts ouverts en même temps pour moi.",
+   "angle": "portefeuille"
+  },
+  {
+   "date": "2026-10-28",
+   "moment": "soir",
+   "emp": "arrêteront google jamais lance maps mode restos tiktok",
+   "texte": "TikTok qui se lance sur les restos en mode Google Maps. Ils ne s'arrêteront jamais.",
+   "angle": "point de vue"
   }
  ],
  "compteurs": {
-  "mails": 88,
-  "tweets": 296,
-  "jours": 45
+  "mails": 89,
+  "tweets": 299,
+  "jours": 46
  },
- "maj": "2026-10-27 23:26"
+ "maj": "2026-10-28 15:21"
 }
