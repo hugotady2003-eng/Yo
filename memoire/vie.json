@@ -677,6 +677,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les investissements de Solidigm, la boulimie d'Amazon et l'offensive de TikTok en allégeant une ligne.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "J'ai passé la journée à digérer la chute brutale d'Alphabet et les résultats solides de Microsoft sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -2774,12 +2779,33 @@
    "emp": "arrêteront google jamais lance maps mode restos tiktok",
    "texte": "TikTok qui se lance sur les restos en mode Google Maps. Ils ne s'arrêteront jamais.",
    "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-28",
+   "moment": "soir",
+   "emp": "2027 alphabet année bougent capex cette demande dossier déteste enfin hausse incertitude",
+   "texte": "Alphabet -10 %. Ils ne bougent pas le capex cette année mais promettent une hausse massive en 2027. Le marché déteste l'incertitude sur la rentabilité à long terme. Je me demande si c'est enfin le moment de regarder le dossier de plus près.",
+   "angle": "Réaction Alphabet"
+  },
+  {
+   "date": "2026-10-28",
+   "moment": "soir",
+   "emp": "dire grâce microsoft milliards openai peut plus pour rapporte records revenus rien",
+   "texte": "Dix trimestres de revenus records pour Microsoft. 10 milliards de revenus grâce à OpenAI. On ne peut plus dire que l'IA ne rapporte rien.",
+   "angle": "Performance Microsoft"
+  },
+  {
+   "date": "2026-10-28",
+   "moment": "soir",
+   "emp": "anthropic juridique petits piège porteurs pour sent spéciale structure",
+   "texte": "Anthropic et sa structure juridique spéciale pour une IPO, ça sent le piège pour les petits porteurs. Pas pour moi.",
+   "angle": "Analyse risque"
   }
  ],
  "compteurs": {
-  "mails": 89,
-  "tweets": 299,
+  "mails": 90,
+  "tweets": 302,
   "jours": 46
  },
- "maj": "2026-10-28 15:21"
+ "maj": "2026-10-28 23:53"
 }
