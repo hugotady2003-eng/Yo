@@ -684,6 +684,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-29",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les rachats de Deepgram, les fuites du DHS et le matériel d'Apple en prenant une petite ligne.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2800,12 +2810,33 @@
    "emp": "anthropic juridique petits piège porteurs pour sent spéciale structure",
    "texte": "Anthropic et sa structure juridique spéciale pour une IPO, ça sent le piège pour les petits porteurs. Pas pour moi.",
    "angle": "Analyse risque"
+  },
+  {
+   "date": "2026-10-29",
+   "moment": "soir",
+   "emp": "achète daily deepgram fait infrastructure ligne mais moment pris surveille truc verrouillent",
+   "texte": "Deepgram qui achète Daily. Ça fait un moment que je surveille l'infrastructure vocale, mais là ils verrouillent le truc. J'ai pris une ligne.",
+   "angle": "actualité et portefeuille"
+  },
+  {
+   "date": "2026-10-29",
+   "moment": "soir",
+   "emp": "apple homepod mini nouveau pour sort tout",
+   "texte": "Apple sort un nouveau HomePod mini. Tout ça pour ça.",
+   "angle": "avis tranché"
+  },
+  {
+   "date": "2026-10-29",
+   "moment": "soir",
+   "emp": "agents cause dans fuite nature propre",
+   "texte": "41 000 agents du DHS dans la nature à cause d'une fuite. Propre.",
+   "angle": "sécurité et ironie"
   }
  ],
  "compteurs": {
-  "mails": 90,
-  "tweets": 302,
-  "jours": 46
+  "mails": 91,
+  "tweets": 305,
+  "jours": 47
  },
- "maj": "2026-10-28 23:53"
+ "maj": "2026-10-29 15:30"
 }
