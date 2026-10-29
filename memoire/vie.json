@@ -692,6 +692,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les rachats de Deepgram, les fuites du DHS et le matériel d'Apple en prenant une petite ligne.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la chute d'Intel, les comptes d'Amazon et les annonces d'Apple sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -2831,12 +2836,26 @@
    "emp": "agents cause dans fuite nature propre",
    "texte": "41 000 agents du DHS dans la nature à cause d'une fuite. Propre.",
    "angle": "sécurité et ironie"
+  },
+  {
+   "date": "2026-10-29",
+   "moment": "soir",
+   "emp": "allait amazon cash crame disais dépenses finir hier maintient mais milliards piquer",
+   "texte": "Amazon crame 42 milliards de cash et maintient le cap des dépenses. Je disais hier que ça allait finir par piquer, mais là c'est violent.",
+   "angle": "valeur et tendance"
+  },
+  {
+   "date": "2026-10-29",
+   "moment": "soir",
+   "emp": "accès ferme login reddit sans",
+   "texte": "Reddit qui ferme l'accès sans login",
+   "angle": "suivi plateforme"
   }
  ],
  "compteurs": {
-  "mails": 91,
-  "tweets": 305,
+  "mails": 92,
+  "tweets": 307,
   "jours": 47
  },
- "maj": "2026-10-29 15:30"
+ "maj": "2026-10-29 23:57"
 }
