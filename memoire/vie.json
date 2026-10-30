@@ -707,6 +707,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les emplettes d'Apple, les doutes de Livewire et les usines de data centers sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la dégringolade des technos et la faille de Cursor en allégeant Microsoft.",
+     "gestes": []
     }
    ]
   }
@@ -2881,12 +2886,33 @@
    "emp": "berlines centers comme data industriels miracles nous préfabriqués tous trimestres vend",
    "texte": "Des data centers préfabriqués comme des berlines. On nous vend des miracles industriels tous les trimestres.",
    "angle": "Remarque suivie"
+  },
+  {
+   "date": "2026-10-30",
+   "moment": "soir",
+   "emp": "américaines après cause doutes décrochent dépenses encore fait microsoft midi sauf semaine",
+   "texte": "Les technos américaines qui décrochent à cause des doutes sur les dépenses IA. Sauf que ça fait une semaine que je le dis. J'ai vendu du Microsoft en fin d'après-midi, on verra si j'ai encore eu tort trop tôt.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-10-30",
+   "moment": "soir",
+   "emp": "amateurisme anthropic code commence cursor extension fatiguer général heures mais même pendant",
+   "texte": "Anthropic et une extension VS code vérolée pendant 12 heures sur Cursor. J'utilise même plus ce truc, mais l'amateurisme général commence à me fatiguer.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-10-30",
+   "moment": "soir",
+   "emp": "agent claude encore incident invite pentagone sous traitant",
+   "texte": "L'agent Claude d'un sous-traitant qui s'invite au Pentagone. Encore un bel incident.",
+   "angle": "remarque suivi"
   }
  ],
  "compteurs": {
-  "mails": 93,
-  "tweets": 310,
+  "mails": 94,
+  "tweets": 313,
   "jours": 48
  },
- "maj": "2026-10-30 15:19"
+ "maj": "2026-10-30 23:40"
 }
