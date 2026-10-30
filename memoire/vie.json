@@ -699,6 +699,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-30",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les emplettes d'Apple, les doutes de Livewire et les usines de data centers sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2850,12 +2860,33 @@
    "emp": "accès ferme login reddit sans",
    "texte": "Reddit qui ferme l'accès sans login",
    "angle": "suivi plateforme"
+  },
+  {
+   "date": "2026-10-30",
+   "moment": "soir",
+   "emp": "apple ascend chez encore rachat silence tuyaux",
+   "texte": "Ascend.io chez Apple. Encore un rachat de tuyaux en silence.",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-10-30",
+   "moment": "soir",
+   "emp": "avais bilans constructeur croyait dans historique leurs lisant livewire marque porter pour",
+   "texte": "Livewire dans le mur. Quelqu'un y croyait vraiment sans un constructeur historique pour porter la marque ? Je l'avais dit en lisant leurs premiers bilans.",
+   "angle": "Point de vue valeur"
+  },
+  {
+   "date": "2026-10-30",
+   "moment": "soir",
+   "emp": "berlines centers comme data industriels miracles nous préfabriqués tous trimestres vend",
+   "texte": "Des data centers préfabriqués comme des berlines. On nous vend des miracles industriels tous les trimestres.",
+   "angle": "Remarque suivie"
   }
  ],
  "compteurs": {
-  "mails": 92,
-  "tweets": 307,
-  "jours": 47
+  "mails": 93,
+  "tweets": 310,
+  "jours": 48
  },
- "maj": "2026-10-29 23:57"
+ "maj": "2026-10-30 15:19"
 }
