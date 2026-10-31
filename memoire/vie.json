@@ -714,6 +714,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-10-31",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les déboires de Binance, la baisse de régime d'OpenAI et l'IA dans le jeu vidéo sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2907,12 +2917,40 @@
    "emp": "agent claude encore incident invite pentagone sous traitant",
    "texte": "L'agent Claude d'un sous-traitant qui s'invite au Pentagone. Encore un bel incident.",
    "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-10-31",
+   "moment": "soir",
+   "emp": "annonce binance couverts dimanche hack lisant milliards reprennent respirer retraits rien sincèrement",
+   "texte": "Binance annonce que 90% des 6,3 milliards du hack sont couverts et que les retraits reprennent dimanche. Sincèrement, j'ai du mal à respirer rien qu'en lisant ça. Je touche à rien.",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-10-31",
+   "moment": "soir",
+   "emp": "baisse calme cherche fait fête lieu milliards openai personne plus soirs table",
+   "texte": "OpenAI baisse la voilure et cherche 20 milliards au lieu de plus. Ça fait trois soirs que je dis que la fête se calme sur les tours de table, personne ne voulait m'écouter.",
+   "angle": "Point de vue valeur"
+  },
+  {
+   "date": "2026-10-31",
+   "moment": "soir",
+   "emp": "bosse confirme déjà jeux xbox",
+   "texte": "Xbox confirme que l'IA bosse déjà sur les jeux. Bon.",
+   "angle": "Remarque brève"
+  },
+  {
+   "date": "2026-10-31",
+   "moment": "soir",
+   "emp": "facture memphis passé portefeuille procès regarder sans soirée spacex toucher",
+   "texte": "J'ai passé la soirée à regarder la facture du procès de SpaceX à Memphis sans toucher à mon portefeuille.",
+   "angle": "Bilan portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 94,
-  "tweets": 313,
-  "jours": 48
+  "mails": 95,
+  "tweets": 317,
+  "jours": 49
  },
- "maj": "2026-10-30 23:40"
+ "maj": "2026-10-31 22:37"
 }
