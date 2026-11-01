@@ -732,6 +732,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les arnaques de Lenovo, les manœuvres des data centers en Californie et les lubies de Tesla sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les malwares dopés à l'IA, les restrictions d'Anthropic et les nouveautés de Google sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -2983,12 +2988,33 @@
    "emp": "bazarde enfin solaires tesla tuiles",
    "texte": "Tesla bazarde enfin ses tuiles solaires",
    "angle": "valeur suivie"
+  },
+  {
+   "date": "2026-11-01",
+   "moment": "soir",
+   "emp": "avant biens classer claude effacer malfaiteurs pour traces utilisent valeur voilà volés",
+   "texte": "Des malfaiteurs utilisent Claude pour classer la valeur des biens volés avant d'effacer les traces. Bon, voilà où on en est.",
+   "angle": "actualité IA"
+  },
+  {
+   "date": "2026-11-01",
+   "moment": "soir",
+   "emp": "anthropic arrête avais bien bride claude copier jeux mais pour quand sorti",
+   "texte": "Anthropic bride Claude pour qu'il arrête de copier de vieux jeux vidéo. J'avais bien ri quand c'était sorti, mais visiblement ça énervait.",
+   "angle": "valeur tech"
+  },
+  {
+   "date": "2026-11-01",
+   "moment": "soir",
+   "emp": "attendait detachables googlebook vraiment",
+   "texte": "Googlebook « detachables ». On attendait vraiment ça ?",
+   "angle": "produit"
   }
  ],
  "compteurs": {
-  "mails": 96,
-  "tweets": 321,
+  "mails": 97,
+  "tweets": 324,
   "jours": 50
  },
- "maj": "2026-11-01 14:41"
+ "maj": "2026-11-01 22:20"
 }
