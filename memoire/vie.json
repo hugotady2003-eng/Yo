@@ -724,6 +724,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-01",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les arnaques de Lenovo, les manœuvres des data centers en Californie et les lubies de Tesla sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -2945,12 +2955,40 @@
    "emp": "facture memphis passé portefeuille procès regarder sans soirée spacex toucher",
    "texte": "J'ai passé la soirée à regarder la facture du procès de SpaceX à Memphis sans toucher à mon portefeuille.",
    "angle": "Bilan portefeuille"
+  },
+  {
+   "date": "2026-11-01",
+   "moment": "soir",
+   "emp": "agents dans minecraft",
+   "texte": "Des agents IA dans Minecraft. On en est là.",
+   "angle": "réaction directe"
+  },
+  {
+   "date": "2026-11-01",
+   "moment": "soir",
+   "emp": "allait avec californie centers coincer data disais droits début hier passe planque",
+   "texte": "Prop 45 en Californie planque des passe-droits pour les data centers. Je disais hier que ça allait coincer avec l'énergie, voilà le début",
+   "angle": "suivi thématique"
+  },
+  {
+   "date": "2026-11-01",
+   "moment": "soir",
+   "emp": "cache carte chiffrée flop juste lenovo pauvre protection sans total vend",
+   "texte": "Lenovo vend une clé USB chiffrée qui cache juste une pauvre carte SD sans protection. Flop total",
+   "angle": "actualité produit"
+  },
+  {
+   "date": "2026-11-01",
+   "moment": "soir",
+   "emp": "bazarde enfin solaires tesla tuiles",
+   "texte": "Tesla bazarde enfin ses tuiles solaires",
+   "angle": "valeur suivie"
   }
  ],
  "compteurs": {
-  "mails": 95,
-  "tweets": 317,
-  "jours": 49
+  "mails": 96,
+  "tweets": 321,
+  "jours": 50
  },
- "maj": "2026-10-31 22:37"
+ "maj": "2026-11-01 14:41"
 }
