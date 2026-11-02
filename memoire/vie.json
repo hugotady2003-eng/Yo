@@ -739,6 +739,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-02",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les factures d'Anthropic, les tarifs du Raspberry Pi et la tambouille de Meta sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3009,12 +3019,40 @@
    "emp": "attendait detachables googlebook vraiment",
    "texte": "Googlebook « detachables ». On attendait vraiment ça ?",
    "angle": "produit"
+  },
+  {
+   "date": "2026-11-02",
+   "moment": "soir",
+   "emp": "anthropic commandes garde gens machine mais milliards positions pour tourne valorisations vraiment",
+   "texte": "17 milliards de CA pour Anthropic et 895 milliards de commandes. J'ai vu des gens s'étouffer sur les valorisations, mais la machine tourne vraiment. Je garde mes positions.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-02",
+   "moment": "soir",
+   "emp": "arrêté bail ceux depuis dollars débutent lancement mais montages monte petits pique",
+   "texte": "Le Raspberry Pi 5 à 16 Go qui monte à 385 dollars. Plus du triple du prix de lancement. J'ai arrêté les petits montages depuis un bail, mais ça pique pour ceux qui débutent.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-11-02",
+   "moment": "soir",
+   "emp": "meta obligations sort transfrontalières",
+   "texte": "Meta sort des obligations transfrontalières. Bon.",
+   "angle": "remarque brève"
+  },
+  {
+   "date": "2026-11-02",
+   "moment": "soir",
+   "emp": "anthropic factures journée meta observer passée portefeuille raspberry sans tambouille tarifs toucher",
+   "texte": "Une journée passée à observer les factures d'Anthropic, les tarifs du Raspberry Pi et la tambouille de Meta sans toucher à mon portefeuille.",
+   "angle": "bilan journée"
   }
  ],
  "compteurs": {
-  "mails": 97,
-  "tweets": 324,
-  "jours": 50
+  "mails": 98,
+  "tweets": 328,
+  "jours": 51
  },
- "maj": "2026-11-01 22:20"
+ "maj": "2026-11-02 17:26"
 }
