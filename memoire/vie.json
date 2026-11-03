@@ -749,6 +749,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-03",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une journée passée à observer les records d'Apple, les levées de fonds pour l'IA et les dénégations de la Corée du Nord en allégeant une ligne.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3047,12 +3057,33 @@
    "emp": "anthropic factures journée meta observer passée portefeuille raspberry sans tambouille tarifs toucher",
    "texte": "Une journée passée à observer les factures d'Anthropic, les tarifs du Raspberry Pi et la tambouille de Meta sans toucher à mon portefeuille.",
    "angle": "bilan journée"
+  },
+  {
+   "date": "2026-11-03",
+   "moment": "matin",
+   "emp": "allège apple avais avoir coûts gros histoire mais marges matériel mémoire plomberont",
+   "texte": "Apple prévoit son plus gros trimestre de revenus de l'histoire, mais les coûts de mémoire et Siri plomberont les marges. J'avais prévenu qu'on ne pouvait pas tout avoir sur le matériel. J'allège un peu.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-03",
+   "moment": "matin",
+   "emp": "démocratiser encore entraînement lève magique modèles outil pour techniciens trajectory",
+   "texte": "Trajectory lève 45M$ pour démocratiser l'entraînement des modèles d'IA. Encore un outil magique pour non-techniciens.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-11-03",
+   "moment": "matin",
+   "emp": "binance braquage corée milliards nord sérieusement",
+   "texte": "La Corée du Nord qui nie le braquage de Binance à 6,3 milliards. Sérieusement.",
+   "angle": "remarque"
   }
  ],
  "compteurs": {
-  "mails": 98,
-  "tweets": 328,
-  "jours": 51
+  "mails": 99,
+  "tweets": 331,
+  "jours": 52
  },
- "maj": "2026-11-02 17:26"
+ "maj": "2026-11-03 01:00"
 }
