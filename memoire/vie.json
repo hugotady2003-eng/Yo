@@ -762,6 +762,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer la chute de Palantir, la facture de RAM d'Apple et des frigos piratés en allégeant une ligne.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les moteurs d'avion pour data centers, le braquage de Binance et les comptes d'AMD en prenant une petite ligne.",
+     "gestes": []
     }
    ]
   }
@@ -3104,12 +3109,40 @@
    "emp": "apple beaucoup commence faire marges milliards plus pour",
    "texte": "33 milliards de plus sur la RAM pour Apple, en plus des 11 milliards en R&D. Ça commence à faire beaucoup pour les marges.",
    "angle": "Point de vue valeur"
+  },
+  {
+   "date": "2026-11-03",
+   "moment": "soir",
+   "emp": "avoir cadence centers chiffres data disais doublent fallait hier hésité matin prend",
+   "texte": "AMD qui prend 8 % sur des chiffres de data centers qui doublent. Je disais hier qu'il fallait surveiller la cadence, je m'en veux un peu d'avoir hésité ce matin.",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-11-03",
+   "moment": "soir",
+   "emp": "balance binance braquer emploi fausse hackers interne milliards offre pour utilisé",
+   "texte": "Binance qui balance que les hackers ont utilisé une fausse offre d'emploi et de l'IA interne pour braquer 6,3 milliards. On en est là.",
+   "angle": "Point de vue valeur"
+  },
+  {
+   "date": "2026-11-03",
+   "moment": "soir",
+   "emp": "alimenter avion centers data pour réacteurs sérieusement",
+   "texte": "Des réacteurs d'avion pour alimenter les data centers. Sérieusement ?",
+   "angle": "Remarque suivie"
+  },
+  {
+   "date": "2026-11-03",
+   "moment": "soir",
+   "emp": "bien ligne petite pris verra",
+   "texte": "J'ai pris une petite ligne d'AMD à 145,20. On verra bien.",
+   "angle": "Geste portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 100,
-  "tweets": 334,
+  "mails": 101,
+  "tweets": 338,
   "jours": 52
  },
- "maj": "2026-11-03 15:32"
+ "maj": "2026-11-03 23:27"
 }
