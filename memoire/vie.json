@@ -757,6 +757,11 @@
      "moment": "matin",
      "resume": "Une journée passée à observer les records d'Apple, les levées de fonds pour l'IA et les dénégations de la Corée du Nord en allégeant une ligne.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la chute de Palantir, la facture de RAM d'Apple et des frigos piratés en allégeant une ligne.",
+     "gestes": []
     }
    ]
   }
@@ -3078,12 +3083,33 @@
    "emp": "binance braquage corée milliards nord sérieusement",
    "texte": "La Corée du Nord qui nie le braquage de Binance à 6,3 milliards. Sérieusement.",
    "angle": "remarque"
+  },
+  {
+   "date": "2026-11-03",
+   "moment": "soir",
+   "emp": "connectés europe frigos partout piratés",
+   "texte": "Des frigos connectés piratés partout en Europe.",
+   "angle": "Activité insolite"
+  },
+  {
+   "date": "2026-11-03",
+   "moment": "soir",
+   "emp": "après avais contrats couper dernière palantir partie perd pour préféré résultats semaine",
+   "texte": "Palantir perd 6 % après ses résultats. Je l'avais dit la semaine dernière pour les contrats. J'ai préféré couper une partie ce soir.",
+   "angle": "Geste portefeuille"
+  },
+  {
+   "date": "2026-11-03",
+   "moment": "soir",
+   "emp": "apple beaucoup commence faire marges milliards plus pour",
+   "texte": "33 milliards de plus sur la RAM pour Apple, en plus des 11 milliards en R&D. Ça commence à faire beaucoup pour les marges.",
+   "angle": "Point de vue valeur"
   }
  ],
  "compteurs": {
-  "mails": 99,
-  "tweets": 331,
+  "mails": 100,
+  "tweets": 334,
   "jours": 52
  },
- "maj": "2026-11-03 01:00"
+ "maj": "2026-11-03 15:32"
 }
