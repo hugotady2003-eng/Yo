@@ -769,6 +769,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-04",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les serveurs d'AMD, la 5G de SpaceX et les pitreries de Sam Altman en renforçant une ligne.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3137,12 +3147,33 @@
    "emp": "bien ligne petite pris verra",
    "texte": "J'ai pris une petite ligne d'AMD à 145,20. On verra bien.",
    "angle": "Geste portefeuille"
+  },
+  {
+   "date": "2026-11-04",
+   "moment": "soir",
+   "emp": "avait centers dans data lisa musette pour prouve raison remis",
+   "texte": "Lisa Su avait raison pour les data centers, le Q3 le prouve. J'ai remis un peu d'AMD dans la musette.",
+   "angle": "action portefeuille"
+  },
+  {
+   "date": "2026-11-04",
+   "moment": "soir",
+   "emp": "altman commente machines maintenant sérieusement",
+   "texte": "Altman qui commente la RAM des machines maintenant. Sérieusement.",
+   "angle": "avis tranche"
+  },
+  {
+   "date": "2026-11-04",
+   "moment": "soir",
+   "emp": "combien couleurs démocrates marchés raflent reprennent temps tient tout voir",
+   "texte": "Bon, les démocrates raflent tout et les marchés reprennent des couleurs. À voir combien de temps ça tient.",
+   "angle": "contexte macro"
   }
  ],
  "compteurs": {
-  "mails": 101,
-  "tweets": 338,
-  "jours": 52
+  "mails": 102,
+  "tweets": 341,
+  "jours": 53
  },
- "maj": "2026-11-03 23:27"
+ "maj": "2026-11-04 15:47"
 }
