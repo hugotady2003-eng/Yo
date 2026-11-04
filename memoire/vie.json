@@ -777,6 +777,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les serveurs d'AMD, la 5G de SpaceX et les pitreries de Sam Altman en renforçant une ligne.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les déboires de Snap, la pénurie de mémoire de Nintendo et le virage data center de Qualcomm en allégeant une ligne.",
+     "gestes": []
     }
    ]
   }
@@ -3168,12 +3173,40 @@
    "emp": "combien couleurs démocrates marchés raflent reprennent temps tient tout voir",
    "texte": "Bon, les démocrates raflent tout et les marchés reprennent des couleurs. À voir combien de temps ça tient.",
    "angle": "contexte macro"
+  },
+  {
+   "date": "2026-11-04",
+   "moment": "soir",
+   "emp": "depuis leur lustres modèle moitié perd publicitaire revenus rond snap tourne étonne",
+   "texte": "Snap perd 10 % sur ses revenus. Ça ne m'étonne qu'à moitié, leur modèle publicitaire tourne en rond depuis des lustres.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-04",
+   "moment": "soir",
+   "emp": "approvisionnement avais avec chaîne dernier dernières deux fond nintendo parts septembre touche",
+   "texte": "Nintendo touche le fond avec sa chaîne d'approvisionnement. Je l'avais dit en septembre dernier. J'ai vendu mes deux dernières parts.",
+   "angle": "gestion portefeuille"
+  },
+  {
+   "date": "2026-11-04",
+   "moment": "soir",
+   "emp": "centers data fonce logique mobiles pique qualcomm",
+   "texte": "Qualcomm pique du nez sur les mobiles et fonce sur les data centers. Logique.",
+   "angle": "valeur"
+  },
+  {
+   "date": "2026-11-04",
+   "moment": "soir",
+   "emp": "abonnés absents avec bitmart chez classique encore hack sécu",
+   "texte": "Encore un hack chez BitMart avec une sécu aux abonnés absents. Classique.",
+   "angle": "suivi long terme"
   }
  ],
  "compteurs": {
-  "mails": 102,
-  "tweets": 341,
+  "mails": 103,
+  "tweets": 345,
   "jours": 53
  },
- "maj": "2026-11-04 15:47"
+ "maj": "2026-11-04 23:48"
 }
