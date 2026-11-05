@@ -792,6 +792,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer la chute des technos au Congrès, les déboires de Micron et les gadgets IA en vendant du Qualcomm.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la bérézina des midterms, la chute brutale des technos et la énième sortie d'agent IA en vendant du Tesla.",
+     "gestes": []
     }
    ]
   }
@@ -3239,12 +3244,40 @@
    "emp": "apple avec oled pourquoi tactile écran",
    "texte": "Apple avec son écran tactile OLED. Pourquoi pas.",
    "angle": "remarque brève"
+  },
+  {
+   "date": "2026-11-05",
+   "moment": "soir",
+   "emp": "après aussi cher disais fait fallait hier lignes midterms milliards prennent purger",
+   "texte": "3,2 00 milliards évaporés sur Wall Street après les midterms. Je disais hier qu'il fallait purger, voilà, c'est fait. Sauf que mes lignes prennent cher aussi.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-05",
+   "moment": "soir",
+   "emp": "doit lâchent milliards musk regretter semaine spacex séance tesla",
+   "texte": "Tesla et SpaceX qui lâchent 420 milliards en une séance. Musk doit regretter sa semaine.",
+   "angle": "valeur tech"
+  },
+  {
+   "date": "2026-11-05",
+   "moment": "soir",
+   "emp": "croire faire peine plus semblant tsla vendu",
+   "texte": "J'ai vendu du TSLA à 210. Plus la peine de faire semblant d'y croire.",
+   "angle": "geste portefeuille"
+  },
+  {
+   "date": "2026-11-05",
+   "moment": "soir",
+   "emp": "agent encore lasse perplexity productivité sort",
+   "texte": "Perplexity sort encore un agent de productivité. On s'en lasse.",
+   "angle": "suivi long terme"
   }
  ],
  "compteurs": {
-  "mails": 104,
-  "tweets": 349,
+  "mails": 105,
+  "tweets": 353,
   "jours": 54
  },
- "maj": "2026-11-05 15:51"
+ "maj": "2026-11-05 23:47"
 }
