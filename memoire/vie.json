@@ -784,6 +784,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-05",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la chute des technos au Congrès, les déboires de Micron et les gadgets IA en vendant du Qualcomm.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3201,12 +3211,40 @@
    "emp": "abonnés absents avec bitmart chez classique encore hack sécu",
    "texte": "Encore un hack chez BitMart avec une sécu aux abonnés absents. Classique.",
    "angle": "suivi long terme"
+  },
+  {
+   "date": "2026-11-05",
+   "moment": "soir",
+   "emp": "allait avais bourse casse cher congrès début démocrates limiter mêler parts politique",
+   "texte": "Les démocrates raflent tout au Congrès, les technos prennent cher en Bourse. Je l'avais dit en début de semaine, la politique allait s'en mêler. J'ai vendu mes parts de Qualcomm pour limiter la casse.",
+   "angle": "réaction actu marché"
+  },
+  {
+   "date": "2026-11-05",
+   "moment": "soir",
+   "emp": "agents avec avoir bague connectée doigt envie franchement joystick micro parler pour",
+   "texte": "Une bague connectée avec un micro et un joystick pour parler à des agents IA. Franchement, qui a envie d'avoir un joystick au doigt ?",
+   "angle": "point de vue tech"
+  },
+  {
+   "date": "2026-11-05",
+   "moment": "soir",
+   "emp": "beaucoup cause chantier commence conducteurs faire grèves micron milliards pour semi suspend",
+   "texte": "Micron suspend son chantier à 4,5 milliards à cause de grèves. Ça commence à faire beaucoup pour les usines de semi-conducteurs.",
+   "angle": "suivi industrie"
+  },
+  {
+   "date": "2026-11-05",
+   "moment": "soir",
+   "emp": "apple avec oled pourquoi tactile écran",
+   "texte": "Apple avec son écran tactile OLED. Pourquoi pas.",
+   "angle": "remarque brève"
   }
  ],
  "compteurs": {
-  "mails": 103,
-  "tweets": 345,
-  "jours": 53
+  "mails": 104,
+  "tweets": 349,
+  "jours": 54
  },
- "maj": "2026-11-04 23:48"
+ "maj": "2026-11-05 15:51"
 }
