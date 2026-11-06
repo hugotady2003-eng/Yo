@@ -799,6 +799,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-06",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la mort du Cybertruck, les convocations de Jensen Huang et l'entêtement de Wall Street sur Anthropic sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3272,12 +3282,40 @@
    "emp": "agent encore lasse perplexity productivité sort",
    "texte": "Perplexity sort encore un agent de productivité. On s'en lasse.",
    "angle": "suivi long terme"
+  },
+  {
+   "date": "2026-11-06",
+   "moment": "soir",
+   "emp": "après arrête assez aussi avoir cybertruck dessus enfin faire faux futur jeter",
+   "texte": "Le Cybertruck s'arrête au Texas. Enfin. J'ai assez tapé dessus pour ne pas faire le faux surpris, mais voir Musk jeter l'éponge aussi vite après avoir juré que c'était le futur, ça reste savoureux.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-06",
+   "moment": "soir",
+   "emp": "anthropic commence demander dossier encaisse franchement lâche millions pendant rester rien street",
+   "texte": "Anthropic encaisse des millions pendant que la tech tousse. Wall Street ne lâche rien sur ce dossier, et franchement je commence à me demander si j'ai eu tort de rester à l'écart.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-11-06",
+   "moment": "soir",
+   "emp": "ambiance chinois congrès espionnage huang jensen pour",
+   "texte": "Jensen Huang au Congrès pour espionnage chinois. Ambiance.",
+   "angle": "très court"
+  },
+  {
+   "date": "2026-11-06",
+   "moment": "soir",
+   "emp": "centers data garde pour près prêts regarde sent souffre sous trop",
+   "texte": "La BCE regarde d'un peu trop près les prêts pour data centers. Ça sent le souffre, je garde mes sous.",
+   "angle": "ce que je suis"
   }
  ],
  "compteurs": {
-  "mails": 105,
-  "tweets": 353,
-  "jours": 54
+  "mails": 106,
+  "tweets": 357,
+  "jours": 55
  },
- "maj": "2026-11-05 23:47"
+ "maj": "2026-11-06 15:29"
 }
