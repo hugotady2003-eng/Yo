@@ -807,6 +807,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer la mort du Cybertruck, les convocations de Jensen Huang et l'entêtement de Wall Street sur Anthropic sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la panique FOGO, les nouveaux écrans d'Apple et la bête rentrée d'AMD en allégeant une ligne.",
+     "gestes": []
     }
    ]
   }
@@ -3310,12 +3315,33 @@
    "emp": "centers data garde pour près prêts regarde sent souffre sous trop",
    "texte": "La BCE regarde d'un peu trop près les prêts pour data centers. Ça sent le souffre, je garde mes sous.",
    "angle": "ce que je suis"
+  },
+  {
+   "date": "2026-11-06",
+   "moment": "soir",
+   "emp": "acheter acronyme chaque cher coûte crise fogo microsoft mini notre panique plus",
+   "texte": "FOGO. Ça y est, ils ont trouvé un acronyme pour notre panique. Sauf que ce qu'on rate en refusant d'acheter du Microsoft à chaque mini-crise coûte plus cher que le reste.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-06",
+   "moment": "soir",
+   "emp": "avais inférence mise puces sauveraient voilà",
+   "texte": "J'avais dit que les puces d'inférence sauveraient la mise d'AMD. Bah voilà.",
+   "angle": "suivi long terme"
+  },
+  {
+   "date": "2026-11-06",
+   "moment": "soir",
+   "emp": "apple ligne moins raisons",
+   "texte": "Une ligne de moins sur Apple. J'ai mes raisons.",
+   "angle": "geste portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 106,
-  "tweets": 357,
+  "mails": 107,
+  "tweets": 360,
   "jours": 55
  },
- "maj": "2026-11-06 15:29"
+ "maj": "2026-11-06 23:16"
 }
