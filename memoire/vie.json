@@ -822,6 +822,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les déboires d'Anthropic, les annulations d'Oppo et les failles des frigos connectés sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les manœuvres de CoreWeave, la pénurie persistante de GPU et le ménage de Binance sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -3367,12 +3372,40 @@
    "emp": "abandonnés après faux frigos mail piratés quelle semaine sept serveurs soldes vingt",
    "texte": "Frigos piratés, faux soldes et serveurs mail abandonnés après vingt-sept ans. Quelle semaine.",
    "angle": "remarque longue duree"
+  },
+  {
+   "date": "2026-11-07",
+   "moment": "soir",
+   "emp": "avais pour raison toujours",
+   "texte": "Toujours pas de fin pour les GPU. J'avais raison.",
+   "angle": "réaction actu"
+  },
+  {
+   "date": "2026-11-07",
+   "moment": "soir",
+   "emp": "beaucoup bouts commence coreweave débarque faire gratter générer phrases pour texas électricité",
+   "texte": "CoreWeave débarque au Texas pour gratter de l'électricité. Ça commence à faire beaucoup pour générer des bouts de phrases.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-11-07",
+   "moment": "soir",
+   "emp": "binance comptes douce europe ferme fini west",
+   "texte": "Binance ferme des comptes en Europe en douce. Le Far West c'est fini.",
+   "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-11-07",
+   "moment": "soir",
+   "emp": "aujourd chaud gardé lignes",
+   "texte": "J'ai gardé mes lignes au chaud aujourd'hui.",
+   "angle": "geste portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 108,
-  "tweets": 363,
+  "mails": 109,
+  "tweets": 367,
   "jours": 56
  },
- "maj": "2026-11-07 14:24"
+ "maj": "2026-11-07 22:02"
 }
