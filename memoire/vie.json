@@ -814,6 +814,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-07",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les déboires d'Anthropic, les annulations d'Oppo et les failles des frigos connectés sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3336,12 +3346,33 @@
    "emp": "apple ligne moins raisons",
    "texte": "Une ligne de moins sur Apple. J'ai mes raisons.",
    "angle": "geste portefeuille"
+  },
+  {
+   "date": "2026-11-07",
+   "moment": "soir",
+   "emp": "absolument alors anthropic avait bourse bâton centers congrès data disais introduire lunaire",
+   "texte": "Anthropic qui veut s'introduire en bourse alors que le Congrès tape sur les data centers, timing absolument lunaire. Je disais lundi qu'il y avait un retour de bâton politique, on y est.",
+   "angle": "actualite politique"
+  },
+  {
+   "date": "2026-11-07",
+   "moment": "soir",
+   "emp": "annule avais avec cause commence dans directement début fabricants mémoire oppo pannes",
+   "texte": "Oppo annule son prochain ultra à cause du prix de la RAM. Je l'avais dit en début de semaine avec les pannes de mémoire, ça commence à taper directement dans les plannings des fabricants.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-11-07",
+   "moment": "soir",
+   "emp": "abandonnés après faux frigos mail piratés quelle semaine sept serveurs soldes vingt",
+   "texte": "Frigos piratés, faux soldes et serveurs mail abandonnés après vingt-sept ans. Quelle semaine.",
+   "angle": "remarque longue duree"
   }
  ],
  "compteurs": {
-  "mails": 107,
-  "tweets": 360,
-  "jours": 55
+  "mails": 108,
+  "tweets": 363,
+  "jours": 56
  },
- "maj": "2026-11-06 23:16"
+ "maj": "2026-11-07 14:24"
 }
