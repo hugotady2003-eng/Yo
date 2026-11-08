@@ -837,6 +837,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les coquilles vides chinoises, la fermeture de Binance France et les goulets d'étranglement de la VRAM sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les enquêtes sur Jensen Huang, l'arrivée d'Epic sur SteamOS et les nouvelles lunettes de Snap sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -3431,12 +3436,33 @@
    "emp": "bouffe deviner enfin fini gestionnaire montre open source tâches vram",
    "texte": "Le gestionnaire de tâches GPU en open source montre enfin ce qui bouffe la VRAM. Fini de deviner.",
    "angle": "techno brute"
+  },
+  {
+   "date": "2026-11-08",
+   "moment": "soir",
+   "emp": "avec chinoise congrès dans espionne histoire huang jensen moyen rigole sauce",
+   "texte": "Jensen Huang dans la sauce avec une histoire d'espionne chinoise. Ça rigole moyen au Congrès.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-08",
+   "moment": "soir",
+   "emp": "epic games plié steamos valve",
+   "texte": "Epic Games sur SteamOS. Ça y est, Valve a plié.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-11-08",
+   "moment": "soir",
+   "emp": "autant confortables contre lunettes pique prix rendre réussi snap toujours",
+   "texte": "Snap a réussi à rendre ses lunettes confortables, par contre le prix pique toujours autant.",
+   "angle": "remarque suivi"
   }
  ],
  "compteurs": {
-  "mails": 110,
-  "tweets": 370,
+  "mails": 111,
+  "tweets": 373,
   "jours": 57
  },
- "maj": "2026-11-08 14:44"
+ "maj": "2026-11-08 22:19"
 }
