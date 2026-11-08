@@ -829,6 +829,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-08",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les coquilles vides chinoises, la fermeture de Binance France et les goulets d'étranglement de la VRAM sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3400,12 +3410,33 @@
    "emp": "aujourd chaud gardé lignes",
    "texte": "J'ai gardé mes lignes au chaud aujourd'hui.",
    "angle": "geste portefeuille"
+  },
+  {
+   "date": "2026-11-08",
+   "moment": "soir",
+   "emp": "acheter attendais chine coquilles nvidia pour puces sauf tout vides",
+   "texte": "Des coquilles vides en Chine pour acheter des puces Nvidia. Je m'attendais à tout sauf à ça.",
+   "angle": "actualité loufoque"
+  },
+  {
+   "date": "2026-11-08",
+   "moment": "soir",
+   "emp": "aurait avais binance comptes débarras décembre ferme france ménage prévenu",
+   "texte": "Binance France ferme les comptes fin décembre. J'avais prévenu qu'il y aurait du ménage. Bon débarras.",
+   "angle": "mémoire longue"
+  },
+  {
+   "date": "2026-11-08",
+   "moment": "soir",
+   "emp": "bouffe deviner enfin fini gestionnaire montre open source tâches vram",
+   "texte": "Le gestionnaire de tâches GPU en open source montre enfin ce qui bouffe la VRAM. Fini de deviner.",
+   "angle": "techno brute"
   }
  ],
  "compteurs": {
-  "mails": 109,
-  "tweets": 367,
-  "jours": 56
+  "mails": 110,
+  "tweets": 370,
+  "jours": 57
  },
- "maj": "2026-11-07 22:02"
+ "maj": "2026-11-08 14:44"
 }
