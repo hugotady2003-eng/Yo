@@ -844,6 +844,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-09",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les packs payants d'Apple, les frigos piratés en Iran et les puces de Google sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3457,12 +3467,33 @@
    "emp": "autant confortables contre lunettes pique prix rendre réussi snap toujours",
    "texte": "Snap a réussi à rendre ses lunettes confortables, par contre le prix pique toujours autant.",
    "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-11-09",
+   "moment": "soir",
+   "emp": "allait balles chaque compte disais finir gouttes hier iphone pack payer requête",
+   "texte": "50 balles le pack d'IA sur l'iPhone. Je disais hier qu'on allait finir par payer chaque requête au compte-gouttes.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-09",
+   "moment": "soir",
+   "emp": "frigos hackés iran",
+   "texte": "Des frigos hackés en Iran.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-11-09",
+   "moment": "soir",
+   "emp": "cook fait implacable logistique milliards pendant pour réseau singapour taxes temps turquie",
+   "texte": "Tim Cook en Turquie pour étendre le réseau. Pendant ce temps Singapour fait économiser des milliards en taxes. Logistique implacable.",
+   "angle": "valeur suivie"
   }
  ],
  "compteurs": {
-  "mails": 111,
-  "tweets": 373,
-  "jours": 57
+  "mails": 112,
+  "tweets": 376,
+  "jours": 58
  },
- "maj": "2026-11-08 22:19"
+ "maj": "2026-11-09 17:44"
 }
