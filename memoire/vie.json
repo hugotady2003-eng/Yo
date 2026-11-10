@@ -854,6 +854,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-10",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une journée passée à observer les enquêtes sur Jensen Huang, la class-action contre Nvidia et les nouvelles interfaces de Google en vendant une ligne.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3488,12 +3498,40 @@
    "emp": "cook fait implacable logistique milliards pendant pour réseau singapour taxes temps turquie",
    "texte": "Tim Cook en Turquie pour étendre le réseau. Pendant ce temps Singapour fait économiser des milliards en taxes. Logistique implacable.",
    "angle": "valeur suivie"
+  },
+  {
+   "date": "2026-11-10",
+   "moment": "matin",
+   "emp": "avec compte disais dégâts espionnage histoire jeudi loin nvda vente verrait étais",
+   "texte": "Vente de 2 NVDA. Je disais jeudi qu'on verrait les dégâts, j'étais loin du compte avec le FBI et l'histoire d'espionnage.",
+   "angle": "vente de valeur"
+  },
+  {
+   "date": "2026-11-10",
+   "moment": "matin",
+   "emp": "action class contre forcément nvidia",
+   "texte": "Class-action contre Nvidia. Forcément.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-10",
+   "moment": "matin",
+   "emp": "créatif david déclencheur déjà ellison fatigue grand plus soupe",
+   "texte": "La soupe de David Ellison sur l'IA « plus grand déclencheur créatif » me fatigue déjà",
+   "angle": "avis tranché"
+  },
+  {
+   "date": "2026-11-10",
+   "moment": "matin",
+   "emp": "antigravity briques google rajoute",
+   "texte": "Google rajoute des briques sur Antigravity.",
+   "angle": "veille tech"
   }
  ],
  "compteurs": {
-  "mails": 112,
-  "tweets": 376,
-  "jours": 58
+  "mails": 113,
+  "tweets": 380,
+  "jours": 59
  },
- "maj": "2026-11-09 17:44"
+ "maj": "2026-11-10 01:49"
 }
