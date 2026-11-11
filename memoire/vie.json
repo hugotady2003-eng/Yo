@@ -874,6 +874,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-12",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer la tempête autour de Jensen Huang chez Nvidia, la chute du titre et la fuite des petits projets crypto sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3557,12 +3567,33 @@
    "emp": "asrock avec bios change grille mauvais radeon",
    "texte": "ASRock qui grille des Radeon avec un mauvais bios. Ça ne change pas.",
    "angle": "remarque technique"
+  },
+  {
+   "date": "2026-11-12",
+   "moment": "matin",
+   "emp": "administration conseil cumulait disais enquêtes grand huang jensen jeudi logique mais menacé",
+   "texte": "Jensen Huang menacé d'éviction par son propre conseil d'administration. Je disais jeudi qu'il cumulait les enquêtes, mais là le WSJ sort le grand jeu. Nvidia plonge, logique.",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-11-12",
+   "moment": "matin",
+   "emp": "dernière dégonfle encore ferme heureusement lignes nettoyé semaine suiet écosystème",
+   "texte": "Suiet qui ferme. Encore un écosystème qui se dégonfle. Heureusement que j'ai nettoyé mes lignes la semaine dernière.",
+   "angle": "Point de vue valeur"
+  },
+  {
+   "date": "2026-11-12",
+   "moment": "matin",
+   "emp": "centers commence construit dans data entendre gary marché marcus point raison sauf",
+   "texte": "Gary Marcus a raison sur un point : on construit des data centers dans le vide. Sauf que le marché commence seulement à l'entendre.",
+   "angle": "Remarque suivie"
   }
  ],
  "compteurs": {
-  "mails": 114,
-  "tweets": 383,
-  "jours": 60
+  "mails": 115,
+  "tweets": 386,
+  "jours": 61
  },
- "maj": "2026-11-11 15:38"
+ "maj": "2026-11-12 00:38"
 }
