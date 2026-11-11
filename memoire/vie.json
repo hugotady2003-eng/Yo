@@ -864,6 +864,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-11",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les turbines fantômes de Softbank, le rebond de Nvidia et les cartes graphiques grillées d'ASRock sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3526,12 +3536,33 @@
    "emp": "antigravity briques google rajoute",
    "texte": "Google rajoute des briques sur Antigravity.",
    "angle": "veille tech"
+  },
+  {
+   "date": "2026-11-11",
+   "moment": "soir",
+   "emp": "annulées aurais avait centers data lâche milliards musk pour raison shorter softbank",
+   "texte": "Softbank qui lâche 3,7 milliards sur des turbines à gaz annulées pour des data centers IA. Musk avait raison, ils ont nié, et voilà. J'aurais dû shorter.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-11",
+   "moment": "soir",
+   "emp": "calomnies dernière disais enquêtes malgré nvidia plus remonte semaine tard",
+   "texte": "Nvidia remonte malgré les enquêtes et les calomnies. Je le disais pas plus tard que la semaine dernière.",
+   "angle": "valeur suivie"
+  },
+  {
+   "date": "2026-11-11",
+   "moment": "soir",
+   "emp": "asrock avec bios change grille mauvais radeon",
+   "texte": "ASRock qui grille des Radeon avec un mauvais bios. Ça ne change pas.",
+   "angle": "remarque technique"
   }
  ],
  "compteurs": {
-  "mails": 113,
-  "tweets": 380,
-  "jours": 59
+  "mails": 114,
+  "tweets": 383,
+  "jours": 60
  },
- "maj": "2026-11-10 01:49"
+ "maj": "2026-11-11 15:38"
 }
