@@ -887,6 +887,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer le départ de Jensen Huang chez Nvidia, la chute de Nebius et les failles de sécurité de Fireworks AI sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer le bond de Cerebras, la croisade politique contre Jensen Huang et l'IA dans le trafic aérien sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -3614,12 +3619,33 @@
    "emp": "baladent discussions fireworks hacké notion",
    "texte": "Fireworks AI hacké. Des discussions Notion qui se baladent.",
    "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-11-12",
+   "moment": "soir",
+   "emp": "après cerebras deal disais fallait leurs lundi microsoft plaques surveiller voilà",
+   "texte": "Cerebras +17% après le deal Microsoft. Je disais lundi qu'il fallait surveiller leurs plaques, voilà.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-12",
+   "moment": "soir",
+   "emp": "contre démocrates encore huang jamais lettre lâcheront",
+   "texte": "Encore une lettre des démocrates contre Huang. Ils ne lâcheront jamais.",
+   "angle": "valeur"
+  },
+  {
+   "date": "2026-11-12",
+   "moment": "soir",
+   "emp": "aérien dans",
+   "texte": "La FAA met de l'IA dans l'aérien. Bon.",
+   "angle": "remarque lointaine"
   }
  ],
  "compteurs": {
-  "mails": 116,
-  "tweets": 389,
+  "mails": 117,
+  "tweets": 392,
   "jours": 61
  },
- "maj": "2026-11-12 16:30"
+ "maj": "2026-11-12 23:50"
 }
