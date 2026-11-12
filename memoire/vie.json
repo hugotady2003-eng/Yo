@@ -882,6 +882,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer la tempête autour de Jensen Huang chez Nvidia, la chute du titre et la fuite des petits projets crypto sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer le départ de Jensen Huang chez Nvidia, la chute de Nebius et les failles de sécurité de Fireworks AI sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -3588,12 +3593,33 @@
    "emp": "centers commence construit dans data entendre gary marché marcus point raison sauf",
    "texte": "Gary Marcus a raison sur un point : on construit des data centers dans le vide. Sauf que le marché commence seulement à l'entendre.",
    "angle": "Remarque suivie"
+  },
+  {
+   "date": "2026-11-12",
+   "moment": "soir",
+   "emp": "après aurais autre colette départ huang importe intérim kress misé",
+   "texte": "Colette Kress par intérim. J'aurais misé sur n'importe qui d'autre après le départ de Huang.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-12",
+   "moment": "soir",
+   "emp": "aujourd avais capex dépenses infrastructure monde nebius nues prévisions septembre tombe tout",
+   "texte": "Nebius -16 % sur les prévisions de capex. Je l'avais dit en septembre sur les dépenses d'infrastructure, tout le monde tombe des nues aujourd'hui.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-11-12",
+   "moment": "soir",
+   "emp": "baladent discussions fireworks hacké notion",
+   "texte": "Fireworks AI hacké. Des discussions Notion qui se baladent.",
+   "angle": "remarque suivi"
   }
  ],
  "compteurs": {
-  "mails": 115,
-  "tweets": 386,
+  "mails": 116,
+  "tweets": 389,
   "jours": 61
  },
- "maj": "2026-11-12 00:38"
+ "maj": "2026-11-12 16:30"
 }
