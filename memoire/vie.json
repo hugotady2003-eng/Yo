@@ -894,6 +894,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-13",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les choix de Match Group, les paiements OpenAI et les retombées politiques de Jensen Huang sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3640,12 +3650,26 @@
    "emp": "aérien dans",
    "texte": "La FAA met de l'IA dans l'aérien. Bon.",
    "angle": "remarque lointaine"
+  },
+  {
+   "date": "2026-11-13",
+   "moment": "soir",
+   "emp": "cinq depuis fait group match pour refuse rencards sensé seul sincèrement truc",
+   "texte": "Match Group qui refuse l'IA pour les rencards. Sincèrement, le seul truc sensé qu'ils ont fait depuis cinq ans.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-13",
+   "moment": "soir",
+   "emp": "associent aussi avais banques chatgpt dans directement finirait mais openai payer pensais",
+   "texte": "OpenAI et Visa qui s'associent pour payer directement dans ChatGPT. J'avais dit qu'on finirait par y venir, mais je pensais pas que les banques traditionnelles suivraient aussi vite.",
+   "angle": "point de vue"
   }
  ],
  "compteurs": {
-  "mails": 117,
-  "tweets": 392,
-  "jours": 61
+  "mails": 118,
+  "tweets": 394,
+  "jours": 62
  },
- "maj": "2026-11-12 23:50"
+ "maj": "2026-11-13 23:47"
 }
