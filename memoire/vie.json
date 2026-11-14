@@ -904,6 +904,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-14",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les secousses chez Nvidia, le vent écossais minant du Bitcoin et les soldes anticipées d'Apple en renforçant ma ligne.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3664,12 +3674,33 @@
    "emp": "associent aussi avais banques chatgpt dans directement finirait mais openai payer pensais",
    "texte": "OpenAI et Visa qui s'associent pour payer directement dans ChatGPT. J'avais dit qu'on finirait par y venir, mais je pensais pas que les banques traditionnelles suivraient aussi vite.",
    "angle": "point de vue"
+  },
+  {
+   "date": "2026-11-14",
+   "moment": "soir",
+   "emp": "bloomberg bougé bruit chez fait fondations louche nvidia pouce pour repris sauf",
+   "texte": "Bloomberg en fait des tonnes sur le séisme chez Nvidia. Sauf que les fondations n'ont pas bougé d'un pouce. J'ai repris une louche. Tant pis pour le bruit.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-14",
+   "moment": "soir",
+   "emp": "avec bitcoin fait gaspillé mais malin miner miracles nous pour rien réseau",
+   "texte": "L'Écosse qui veut miner du Bitcoin avec son vent gaspillé. C'est malin. Mais ça fait trois ans qu'on nous vend des solutions miracles pour le réseau sans rien voir venir.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-11-14",
+   "moment": "soir",
+   "emp": "dopés débarquent garde ransomwares sous",
+   "texte": "Vu les ransomwares dopés à l'IA qui débarquent, je garde mes sous.",
+   "angle": "geste portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 118,
-  "tweets": 394,
-  "jours": 62
+  "mails": 119,
+  "tweets": 397,
+  "jours": 63
  },
- "maj": "2026-11-13 23:47"
+ "maj": "2026-11-14 14:43"
 }
