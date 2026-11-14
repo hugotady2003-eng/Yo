@@ -912,6 +912,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les secousses chez Nvidia, le vent écossais minant du Bitcoin et les soldes anticipées d'Apple en renforçant ma ligne.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les précommandes du Cybercab de Tesla, les astuces de nettoyage sur les consoles et les bricolages sur iPad sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -3695,12 +3700,33 @@
    "emp": "dopés débarquent garde ransomwares sous",
    "texte": "Vu les ransomwares dopés à l'IA qui débarquent, je garde mes sous.",
    "angle": "geste portefeuille"
+  },
+  {
+   "date": "2026-11-14",
+   "moment": "soir",
+   "emp": "avec bridée caisse cybercab dollars franchement lance louer mois partout prix restrictions",
+   "texte": "Tesla lance le Cybercab à 299 dollars par mois avec des géo-restrictions partout. Franchement, qui veut louer une caisse bridée à ce prix-là ?",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-14",
+   "moment": "soir",
+   "emp": "aime bien bord finir idée ipad maison milton recycle tableau tester vais",
+   "texte": "Milton qui recycle un vieil iPad en tableau de bord maison. J'aime bien l'idée, je vais finir par tester ça ce week-end.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-11-14",
+   "moment": "soir",
+   "emp": "bien cette choper fois passe retente spacex supérieur verra étage",
+   "texte": "SpaceX retente de choper son étage supérieur. On verra bien si ça passe cette fois.",
+   "angle": "suivi long terme"
   }
  ],
  "compteurs": {
-  "mails": 119,
-  "tweets": 397,
+  "mails": 120,
+  "tweets": 400,
   "jours": 63
  },
- "maj": "2026-11-14 14:43"
+ "maj": "2026-11-14 22:39"
 }
