@@ -927,6 +927,11 @@
      "moment": "soir",
      "resume": "Une journée passée à observer les parts d'Intel, les ventes d'actions chez Nvidia et les pannes réseaux sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la fusée Vulcan perdue, le retour d'AO3 et l'acharnement sur Jensen Huang sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -3759,12 +3764,33 @@
    "emp": "américain aérien deux infrastructure juniper plantent routeurs solide tout trafic vendredi",
    "texte": "Deux routeurs HPE Juniper qui plantent tout le trafic aérien américain vendredi. Solide infrastructure.",
    "angle": "remarque"
+  },
+  {
+   "date": "2026-11-15",
+   "moment": "soir",
+   "emp": "amazon calme emporte rate satellites vulcán",
+   "texte": "Vulcán rate son tir et emporte 40 satellites Amazon Leo. Ça calme.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-15",
+   "moment": "soir",
+   "emp": "dégradé dépendent heureusement lectures mais mode retour serveurs",
+   "texte": "AO3 de retour mais en mode dégradé. Heureusement que mes lectures ne dépendent pas des serveurs.",
+   "angle": "clin d'œil tech"
+  },
+  {
+   "date": "2026-11-15",
+   "moment": "soir",
+   "emp": "encore fiche huang jensen paix papiers",
+   "texte": "Je lis encore des papiers sur Jensen Huang. Qu'on lui fiche la paix un peu.",
+   "angle": "point de vue valeur"
   }
  ],
  "compteurs": {
-  "mails": 121,
-  "tweets": 404,
+  "mails": 122,
+  "tweets": 407,
   "jours": 64
  },
- "maj": "2026-11-15 15:12"
+ "maj": "2026-11-15 23:00"
 }
