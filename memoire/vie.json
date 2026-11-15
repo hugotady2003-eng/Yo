@@ -919,6 +919,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-15",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les parts d'Intel, les ventes d'actions chez Nvidia et les pannes réseaux sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3721,12 +3731,40 @@
    "emp": "bien cette choper fois passe retente spacex supérieur verra étage",
    "texte": "SpaceX retente de choper son étage supérieur. On verra bien si ça passe cette fois.",
    "angle": "suivi long terme"
+  },
+  {
+   "date": "2026-11-15",
+   "moment": "soir",
+   "emp": "année avais bien ceux dernière devant enterrer intel joué marché parts processeurs",
+   "texte": "Intel qui repasse devant sur les parts de marché processeurs. J'avais tort de les enterrer l'année dernière. Bien joué à ceux qui ont tenu.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-11-15",
+   "moment": "soir",
+   "emp": "administrateur avant cash histoires huang jensen juste milliard nvidia pour propre",
+   "texte": "Un milliard de cash-out pour un administrateur Nvidia juste avant les histoires sur Jensen Huang. Propre.",
+   "angle": "actualite"
+  },
+  {
+   "date": "2026-11-15",
+   "moment": "soir",
+   "emp": "airpods dollars tentant",
+   "texte": "179 dollars les AirPods Pro 3. Tentant.",
+   "angle": "portefeuille"
+  },
+  {
+   "date": "2026-11-15",
+   "moment": "soir",
+   "emp": "américain aérien deux infrastructure juniper plantent routeurs solide tout trafic vendredi",
+   "texte": "Deux routeurs HPE Juniper qui plantent tout le trafic aérien américain vendredi. Solide infrastructure.",
+   "angle": "remarque"
   }
  ],
  "compteurs": {
-  "mails": 120,
-  "tweets": 400,
-  "jours": 63
+  "mails": 121,
+  "tweets": 404,
+  "jours": 64
  },
- "maj": "2026-11-14 22:39"
+ "maj": "2026-11-15 15:12"
 }
