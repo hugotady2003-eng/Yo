@@ -934,6 +934,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-16",
+   "moments": [
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les nouveaux fonds de Serena Williams, la consommation électrique des data centers et les remous persistants chez Nvidia en vendant une partie de ma ligne.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3785,12 +3795,33 @@
    "emp": "encore fiche huang jensen paix papiers",
    "texte": "Je lis encore des papiers sur Jensen Huang. Qu'on lui fiche la paix un peu.",
    "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-11-16",
+   "moment": "soir",
+   "emp": "200m ambition change climat cycles discipline ferme financement finissent fonds importe lancer",
+   "texte": "Serena Williams qui ferme son VC pour lancer un nouveau fonds à 200M. La discipline change, mais l'ambition reste. Ça me rappelle que les cycles de financement finissent toujours par repartir, peu importe le climat.",
+   "angle": "VC et capital"
+  },
+  {
+   "date": "2026-11-16",
+   "moment": "soir",
+   "emp": "autant centers commence consomment coût data mais massif michigan parle partout rapports",
+   "texte": "400 data centers qui consomment autant que le Michigan. On parle de l'IA partout, mais le coût énergétique réel commence à sortir des rapports. C'est massif.",
+   "angle": "Infrastructure"
+  },
+  {
+   "date": "2026-11-16",
+   "moment": "soir",
+   "emp": "allège autour cette constante huang marre nvidia parts politique position vendu volatilité",
+   "texte": "J'allège ma position sur Nvidia. Marre de cette volatilité politique constante autour de Huang. J'ai vendu 5 parts à 142$.",
+   "angle": "Arbitrage Nvidia"
   }
  ],
  "compteurs": {
-  "mails": 122,
-  "tweets": 407,
-  "jours": 64
+  "mails": 123,
+  "tweets": 410,
+  "jours": 65
  },
- "maj": "2026-11-15 23:00"
+ "maj": "2026-11-16 17:15"
 }
