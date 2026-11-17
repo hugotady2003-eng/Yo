@@ -959,6 +959,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-18",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les poursuites contre OpenAI, la sortie de route définitive de Jensen Huang chez Nvidia et les agents IA de JPMorgan sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3887,12 +3897,40 @@
    "emp": "affaire apple chez crackgate fournisseur iphone neuf rien silencieux soleil sous",
    "texte": "Apple silencieux sur l'affaire Crackgate chez son fournisseur d'iPhone. Rien de neuf sous le soleil.",
    "angle": "Remarque suivie"
+  },
+  {
+   "date": "2026-11-18",
+   "moment": "matin",
+   "emp": "nadella pilled",
+   "texte": "Nadella se dit AGI-pilled. Bon.",
+   "angle": "réaction directe"
+  },
+  {
+   "date": "2026-11-18",
+   "moment": "matin",
+   "emp": "agents aucun avais banque bizarre bosse concrètement fait gérées humain jpmorgan mais",
+   "texte": "JPMorgan bosse sur des transactions gérées par des agents IA, sans aucun humain au milieu. Je l'avais dit il y a un moment, mais voir la banque s'y mettre concrètement ce matin, ça fait bizarre.",
+   "angle": "actualité bancaire"
+  },
+  {
+   "date": "2026-11-18",
+   "moment": "matin",
+   "emp": "arrête cette contre encore fois mineurs openai oregon plainte sécurité",
+   "texte": "Encore une plainte contre OpenAI, cette fois par l'Oregon sur la sécurité des mineurs. Ça n'arrête pas.",
+   "angle": "procédure judiciaire"
+  },
+  {
+   "date": "2026-11-18",
+   "moment": "matin",
+   "emp": "allégé avais dernière définitivement loin maintenant nvidia page regarde semaine tourne tourner",
+   "texte": "Nvidia tourne définitivement la page. J'avais allégé la semaine dernière en voyant le vent tourner, je regarde ça de loin maintenant",
+   "angle": "portefeuille personnel"
   }
  ],
  "compteurs": {
-  "mails": 125,
-  "tweets": 418,
-  "jours": 66
+  "mails": 126,
+  "tweets": 422,
+  "jours": 67
  },
- "maj": "2026-11-17 17:21"
+ "maj": "2026-11-18 00:55"
 }
