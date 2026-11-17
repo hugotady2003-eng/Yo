@@ -944,6 +944,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-17",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les ventes d'actions chez Apple, la préparation de l'IPO d'Anthropic et les restrictions américaines en Asie en vendant une partie de ma ligne.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3816,12 +3826,40 @@
    "emp": "allège autour cette constante huang marre nvidia parts politique position vendu volatilité",
    "texte": "J'allège ma position sur Nvidia. Marre de cette volatilité politique constante autour de Huang. J'ai vendu 5 parts à 142$.",
    "angle": "Arbitrage Nvidia"
+  },
+  {
+   "date": "2026-11-17",
+   "moment": "matin",
+   "emp": "actions anticipées apple arthur dernier dollars encore levinson lâche millions pour quart",
+   "texte": "Arthur Levinson lâche pour 31,8 millions de dollars d'actions Apple. J'ai encore en tête les soldes anticipées de vendredi dernier. Je vends un quart.",
+   "angle": "vente de titres"
+  },
+  {
+   "date": "2026-11-17",
+   "moment": "matin",
+   "emp": "anthropic monde regarde route tout vers",
+   "texte": "Anthropic en route vers l'IPO. Tout le monde regarde ça.",
+   "angle": "actualité tech"
+  },
+  {
+   "date": "2026-11-17",
+   "moment": "matin",
+   "emp": "allait américaines asie frappent pendant puces restrictions savait tomber trump visite",
+   "texte": "Les restrictions américaines sur les puces frappent l'Asie pendant la visite de Trump. On savait que ça allait tomber.",
+   "angle": "géopolitique des puces"
+  },
+  {
+   "date": "2026-11-17",
+   "moment": "matin",
+   "emp": "avec bouge même nvidia politiques pouce remise toujours turbulences",
+   "texte": "Toujours pas de remise sur les GPU Nvidia, même avec les turbulences politiques. Ça ne bouge pas d'un pouce.",
+   "angle": "valeur de marché"
   }
  ],
  "compteurs": {
-  "mails": 123,
-  "tweets": 410,
-  "jours": 65
+  "mails": 124,
+  "tweets": 414,
+  "jours": 66
  },
- "maj": "2026-11-16 17:15"
+ "maj": "2026-11-17 01:59"
 }
