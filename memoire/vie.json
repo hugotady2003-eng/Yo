@@ -952,6 +952,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les ventes d'actions chez Apple, la préparation de l'IPO d'Anthropic et les restrictions américaines en Asie en vendant une partie de ma ligne.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les déclarations de retour de Jensen Huang, la dette de l'IA et les failles matérielles d'Apple sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -3854,12 +3859,40 @@
    "emp": "avec bouge même nvidia politiques pouce remise toujours turbulences",
    "texte": "Toujours pas de remise sur les GPU Nvidia, même avec les turbulences politiques. Ça ne bouge pas d'un pouce.",
    "angle": "valeur de marché"
+  },
+  {
+   "date": "2026-11-17",
+   "moment": "soir",
+   "emp": "appelle avais cette commandes conseil finie histoire huang jensen lundi prêt revenir",
+   "texte": "Jensen Huang prêt à revenir aux commandes si le conseil l'appelle. Je l'avais dit lundi, cette histoire n'était pas finie. 📈",
+   "angle": "Réaction actualité"
+  },
+  {
+   "date": "2026-11-17",
+   "moment": "soir",
+   "emp": "2026 bulle dette financée",
+   "texte": "La bulle IA financée par la dette en 2026. On y est.",
+   "angle": "Point de vue"
+  },
+  {
+   "date": "2026-11-17",
+   "moment": "soir",
+   "emp": "avec craqué dans depuis enfin flipper linux mois poche pris précommande regarde",
+   "texte": "Le Flipper One enfin en précommande avec Linux dans la poche. Je regarde ça depuis des mois, j'ai craqué, j'ai pris une unité.",
+   "angle": "Geste portefeuille"
+  },
+  {
+   "date": "2026-11-17",
+   "moment": "soir",
+   "emp": "affaire apple chez crackgate fournisseur iphone neuf rien silencieux soleil sous",
+   "texte": "Apple silencieux sur l'affaire Crackgate chez son fournisseur d'iPhone. Rien de neuf sous le soleil.",
+   "angle": "Remarque suivie"
   }
  ],
  "compteurs": {
-  "mails": 124,
-  "tweets": 414,
+  "mails": 125,
+  "tweets": 418,
   "jours": 66
  },
- "maj": "2026-11-17 01:59"
+ "maj": "2026-11-17 17:21"
 }
