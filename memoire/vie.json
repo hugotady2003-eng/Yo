@@ -967,6 +967,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les poursuites contre OpenAI, la sortie de route définitive de Jensen Huang chez Nvidia et les agents IA de JPMorgan sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la chute de Nvidia, les data centers de l'Ohio et les lunettes de Meta en vendant le reste de ma ligne.",
+     "gestes": []
     }
    ]
   }
@@ -3925,12 +3930,33 @@
    "emp": "allégé avais dernière définitivement loin maintenant nvidia page regarde semaine tourne tourner",
    "texte": "Nvidia tourne définitivement la page. J'avais allégé la semaine dernière en voyant le vent tourner, je regarde ça de loin maintenant",
    "angle": "portefeuille personnel"
+  },
+  {
+   "date": "2026-11-18",
+   "moment": "soir",
+   "emp": "après avais avec baisse dernière déjà emporte neoclouds nvidia quand restait résultats",
+   "texte": "Nvidia en baisse après les résultats et ça emporte les neoclouds avec. Je l'avais dit la semaine dernière quand ça tanguait déjà. J'ai vendu ce qu'il me restait. Ras-le-bol.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-18",
+   "moment": "soir",
+   "emp": "boîtes centers data ohio permettre piquer pour privés terrains",
+   "texte": "Une loi en Ohio pour permettre aux boîtes de data centers de piquer des terrains privés. On en est là.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-11-18",
+   "moment": "soir",
+   "emp": "avec bricolage cherche comment encore lunettes meta privée réparer",
+   "texte": "Meta qui cherche encore comment réparer la vie privée de ses lunettes avec une led. Bricolage.",
+   "angle": "remarque suivi"
   }
  ],
  "compteurs": {
-  "mails": 126,
-  "tweets": 422,
+  "mails": 127,
+  "tweets": 425,
   "jours": 67
  },
- "maj": "2026-11-18 00:55"
+ "maj": "2026-11-18 16:53"
 }
