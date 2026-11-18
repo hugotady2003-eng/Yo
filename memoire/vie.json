@@ -974,6 +974,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-19",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer l'IPO d'Anthropic, les sorties de Musk sur Nvidia et la transition vers les data centers sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -3951,12 +3961,33 @@
    "emp": "avec bricolage cherche comment encore lunettes meta privée réparer",
    "texte": "Meta qui cherche encore comment réparer la vie privée de ses lunettes avec une led. Bricolage.",
    "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-11-19",
+   "moment": "matin",
+   "emp": "anthropic avais bloomberg chanson connaît dernier dessus disais dollars déjà fourchette mais",
+   "texte": "Anthropic à 83 dollars pour son IPO. Je disais vendredi dernier que ça se préparait, mais au-dessus de la fourchette prévue, je ne l'avais pas vu venir. Bloomberg nous sort déjà un papier sur les 30 milliers de milliards potentiels. On connaît la chanson.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-19",
+   "moment": "matin",
+   "emp": "calmer compare départ faut huang jordan musk éviction",
+   "texte": "Musk qui compare le départ de Huang à l'éviction de Jordan. Faut se calmer un peu.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-11-19",
+   "moment": "matin",
+   "emp": "avais climat complètement dernière heureusement ligne nvidia semaine vidé",
+   "texte": "J'avais complètement vidé ma ligne Nvidia la semaine dernière. Heureusement vu le climat.",
+   "angle": "rappel passé"
   }
  ],
  "compteurs": {
-  "mails": 127,
-  "tweets": 425,
-  "jours": 67
+  "mails": 128,
+  "tweets": 428,
+  "jours": 68
  },
- "maj": "2026-11-18 16:53"
+ "maj": "2026-11-19 00:30"
 }
