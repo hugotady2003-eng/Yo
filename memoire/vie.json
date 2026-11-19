@@ -982,6 +982,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer l'IPO d'Anthropic, les sorties de Musk sur Nvidia et la transition vers les data centers sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer l'IPO d'Anthropic, la mort de Microsoft To Do et les secrets britanniques d'Apple sans toucher à mon portefeuille.",
+     "gestes": []
     }
    ]
   }
@@ -3982,12 +3987,40 @@
    "emp": "avais climat complètement dernière heureusement ligne nvidia semaine vidé",
    "texte": "J'avais complètement vidé ma ligne Nvidia la semaine dernière. Heureusement vu le climat.",
    "angle": "rappel passé"
+  },
+  {
+   "date": "2026-11-19",
+   "moment": "soir",
+   "emp": "allait anthropic avais avec bouger calment capex dernière déjà enfin grey jour",
+   "texte": "Anthropic en IPO avec des revenus qui calment enfin la trouille sur les CapEx. J'avais dit la semaine dernière que ça allait bouger, mais les grey markets voient déjà un pop de premier jour. Je regarde de loin.",
+   "angle": "actualité anthropic ipo"
+  },
+  {
+   "date": "2026-11-19",
+   "moment": "soir",
+   "emp": "dégage encore enterre jours microsoft outil super tous utilisais",
+   "texte": "Microsoft enterre To Do. Encore un outil que j'utilisais tous les jours qui dégage. Super.",
+   "angle": "avis produit microsoft"
+  },
+  {
+   "date": "2026-11-19",
+   "moment": "soir",
+   "emp": "apple avant backdoor complètement cracher fait fuite morceau obligé ordre pour pris",
+   "texte": "Le Royaume-Uni obligé de cracher le morceau sur l'ordre secret fait à Apple pour une backdoor. Ça n'a pas pris une semaine avant que ça fuite complètement.",
+   "angle": "actualité vie privée"
+  },
+  {
+   "date": "2026-11-19",
+   "moment": "soir",
+   "emp": "binance hackers milliards propre récupère",
+   "texte": "Binance qui récupère 6,5 milliards sur les hackers. Propre.",
+   "angle": "brève crypto"
   }
  ],
  "compteurs": {
-  "mails": 128,
-  "tweets": 428,
+  "mails": 129,
+  "tweets": 432,
   "jours": 68
  },
- "maj": "2026-11-19 00:30"
+ "maj": "2026-11-19 16:59"
 }
