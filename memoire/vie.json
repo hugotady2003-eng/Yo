@@ -989,6 +989,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-20",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer les exigences folles des émojis Android, la galère des acteurs du cloud et l'entrée de CATL à Hong Kong sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -4015,12 +4025,40 @@
    "emp": "binance hackers milliards propre récupère",
    "texte": "Binance qui récupère 6,5 milliards sur les hackers. Propre.",
    "angle": "brève crypto"
+  },
+  {
+   "date": "2026-11-20",
+   "moment": "matin",
+   "emp": "android blague mais perd pour tête émojis",
+   "texte": "10 Go pour des émojis 3D ? J'ai cru à une blague, mais non. Android perd la tête.",
+   "angle": "Critique tech"
+  },
+  {
+   "date": "2026-11-20",
+   "moment": "matin",
+   "emp": "allait avais broyer cloud crise fond lundi petits puces touche",
+   "texte": "Je l'avais dit lundi : la crise des puces allait broyer les petits. Le CEO d'AI Cloud touche le fond.",
+   "angle": "Analyse secteur"
+  },
+  {
+   "date": "2026-11-20",
+   "moment": "matin",
+   "emp": "catl dans entrent fort hang hong indice innolight kong pour secteur seng",
+   "texte": "CATL et Innolight qui entrent dans l'indice Hang Seng, c'est un signal fort pour le secteur IA à Hong Kong",
+   "angle": "Marchés"
+  },
+  {
+   "date": "2026-11-20",
+   "moment": "matin",
+   "emp": "blanches musk zones",
+   "texte": "Musk et ses zones blanches.",
+   "angle": "Réaction courte"
   }
  ],
  "compteurs": {
-  "mails": 129,
-  "tweets": 432,
-  "jours": 68
+  "mails": 130,
+  "tweets": 436,
+  "jours": 69
  },
- "maj": "2026-11-19 16:59"
+ "maj": "2026-11-20 00:43"
 }
