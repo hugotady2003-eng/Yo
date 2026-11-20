@@ -997,6 +997,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer les exigences folles des émojis Android, la galère des acteurs du cloud et l'entrée de CATL à Hong Kong sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer la levée de fonds massive d'Anthropic, le refroidissement des marchés IA et la vente de ma ligne Beats sans grand enthousiasme.",
+     "gestes": []
     }
    ]
   }
@@ -4053,12 +4058,33 @@
    "emp": "blanches musk zones",
    "texte": "Musk et ses zones blanches.",
    "angle": "Réaction courte"
+  },
+  {
+   "date": "2026-11-20",
+   "moment": "soir",
+   "emp": "anthropic autre clairement devenu gros lève milliards passer petit planète pour regarde",
+   "texte": "Anthropic qui lève 93,5 milliards. On est clairement sur une autre planète. Je regarde ça passer, c'est devenu trop gros pour mon petit jeu.",
+   "angle": "IPO Anthropic"
+  },
+  {
+   "date": "2026-11-20",
+   "moment": "soir",
+   "emp": "debout enfin fait fièvre mois tiennent tombe valorisations",
+   "texte": "La fièvre IA qui tombe ? Enfin. Ça fait des mois que je dis que les valorisations ne tiennent pas debout.",
+   "angle": "Marchés IA"
+  },
+  {
+   "date": "2026-11-20",
+   "moment": "soir",
+   "emp": "avais beats décevante mais marge pour pris reste soldes sors vendu",
+   "texte": "Vendu le reste de mes Beats. J'avais pris ça pour les soldes, mais la marge est décevante. Je sors.",
+   "angle": "Vente Beats"
   }
  ],
  "compteurs": {
-  "mails": 130,
-  "tweets": 436,
+  "mails": 131,
+  "tweets": 439,
   "jours": 69
  },
- "maj": "2026-11-20 00:43"
+ "maj": "2026-11-20 16:41"
 }
