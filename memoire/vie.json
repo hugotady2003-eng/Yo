@@ -1004,6 +1004,16 @@
      "gestes": []
     }
    ]
+  },
+  {
+   "date": "2026-11-21",
+   "moments": [
+    {
+     "moment": "matin",
+     "resume": "Une matinée passée à observer la chute historique de Nvidia, les nouveautés d'iOS et les démêlés de Starshield sans toucher à mon portefeuille.",
+     "gestes": []
+    }
+   ]
   }
  ],
  "tweets_envoyes": [
@@ -4079,12 +4089,40 @@
    "emp": "avais beats décevante mais marge pour pris reste soldes sors vendu",
    "texte": "Vendu le reste de mes Beats. J'avais pris ça pour les soldes, mais la marge est décevante. Je sors.",
    "angle": "Vente Beats"
+  },
+  {
+   "date": "2026-11-21",
+   "moment": "matin",
+   "emp": "2008 avais baisses bouts chiffre depuis dernier derniers lundi mais matin même",
+   "texte": "Nvidia -14 %, pire série de baisses depuis 2008. Je l'avais dit lundi dernier en vendant mes derniers bouts, mais voir le chiffre ce matin pique quand même.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-21",
+   "moment": "matin",
+   "emp": "dans deux enfin iphones même numéro",
+   "texte": "Deux iPhones sur un même numéro dans iOS 27. Enfin.",
+   "angle": "point de vue"
+  },
+  {
+   "date": "2026-11-21",
+   "moment": "matin",
+   "emp": "avec café californie comptes matin passerait régler veut",
+   "texte": "La FCC qui veut régler ses comptes avec la Californie dès le café du matin, on s'en passerait.",
+   "angle": "remarque suivi"
+  },
+  {
+   "date": "2026-11-21",
+   "moment": "matin",
+   "emp": "matin regardé rien starshield touché ukraine",
+   "texte": "J'ai regardé Starshield en Ukraine ce matin. Rien touché.",
+   "angle": "portefeuille"
   }
  ],
  "compteurs": {
-  "mails": 131,
-  "tweets": 439,
-  "jours": 69
+  "mails": 132,
+  "tweets": 443,
+  "jours": 70
  },
- "maj": "2026-11-20 16:41"
+ "maj": "2026-11-21 00:17"
 }
