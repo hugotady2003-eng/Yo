@@ -1012,6 +1012,11 @@
      "moment": "matin",
      "resume": "Une matinée passée à observer la chute historique de Nvidia, les nouveautés d'iOS et les démêlés de Starshield sans toucher à mon portefeuille.",
      "gestes": []
+    },
+    {
+     "moment": "soir",
+     "resume": "Une journée passée à observer les boîtiers vitrés, le rétropédalage d'Etsy sur l'IA et les tests de moniteurs en renforçant discrètement Apple.",
+     "gestes": []
     }
    ]
   }
@@ -4117,12 +4122,40 @@
    "emp": "matin regardé rien starshield touché ukraine",
    "texte": "J'ai regardé Starshield en Ukraine ce matin. Rien touché.",
    "angle": "portefeuille"
+  },
+  {
+   "date": "2026-11-21",
+   "moment": "soir",
+   "emp": "aurais créateurs dernière données entraînement etsy face leur leurs lieu loin parier",
+   "texte": "Etsy plie face aux créateurs et renonce à l'entraînement IA sur leurs données. J'aurais dû parier sur leur sur réaction la semaine dernière au lieu de regarder de loin.",
+   "angle": "réaction actualité"
+  },
+  {
+   "date": "2026-11-21",
+   "moment": "soir",
+   "emp": "dans encore gigabyte moniteur oled partout prix sort tape test",
+   "texte": "Le test du moniteur Gigabyte OLED à 280 Hz sort partout. Ça tape encore dans les prix.",
+   "angle": "point de vue valeur"
+  },
+  {
+   "date": "2026-11-21",
+   "moment": "soir",
+   "emp": "apple douce matin repris",
+   "texte": "J'ai repris un peu d'Apple ce matin en douce.",
+   "angle": "geste portefeuille"
+  },
+  {
+   "date": "2026-11-21",
+   "moment": "soir",
+   "emp": "admirer boîtiers envie partout poussière prennent sérieusement ventilateurs vitrés",
+   "texte": "Les boîtiers de PC vitrés partout. Sérieusement, qui a envie d'admirer ses ventilateurs qui prennent la poussière ?",
+   "angle": "remarque suivie"
   }
  ],
  "compteurs": {
-  "mails": 132,
-  "tweets": 443,
+  "mails": 133,
+  "tweets": 447,
   "jours": 70
  },
- "maj": "2026-11-21 00:17"
+ "maj": "2026-11-21 15:51"
 }
